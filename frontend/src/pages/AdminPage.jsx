@@ -25,7 +25,8 @@ const AdminPage = () => {
 
     const fetchQuestions = async () => {
         try {
-            const response = await axios.get('http://localhost:5000/api/quiz');
+            const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+            const response = await axios.get(`${apiUrl}/api/quiz`);
             setQuestions(response.data);
         } catch (error) {
             console.error('Error fetching questions:', error);
@@ -55,11 +56,12 @@ const AdminPage = () => {
         };
 
         try {
+            const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000';
             if (editingId) {
-                await axios.put(`http://localhost:5000/api/quiz/${editingId}`, payload);
+                await axios.put(`${apiUrl}/api/quiz/${editingId}`, payload);
                 alert('Question updated successfully! 🎉');
             } else {
-                await axios.post('http://localhost:5000/api/quiz', payload);
+                await axios.post(`${apiUrl}/api/quiz`, payload);
                 alert('Question added successfully! ✨');
             }
 
@@ -93,7 +95,8 @@ const AdminPage = () => {
     const handleDelete = async (id) => {
         if (window.confirm('Are you sure you want to delete this question?')) {
             try {
-                await axios.delete(`http://localhost:5000/api/quiz/${id}`);
+                const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+                await axios.delete(`${apiUrl}/api/quiz/${id}`);
                 alert('Question deleted! 🗑️');
                 fetchQuestions();
             } catch (error) {
