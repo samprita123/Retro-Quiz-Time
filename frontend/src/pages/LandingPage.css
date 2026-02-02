@@ -1,0 +1,318 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Animated stars background */
+.stars,
+.stars2,
+.stars3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.stars {
+    background: transparent url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="2" height="2"><circle cx="1" cy="1" r="1" fill="%23fff"/></svg>') repeat;
+    animation: stars-animation 50s linear infinite;
+}
+
+.stars2 {
+    background: transparent url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="3" height="3"><circle cx="1.5" cy="1.5" r="1" fill="%23fff"/></svg>') repeat;
+    animation: stars-animation 100s linear infinite;
+    opacity: 0.5;
+}
+
+.stars3 {
+    background: transparent url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="4" height="4"><circle cx="2" cy="2" r="1" fill="%23fff"/></svg>') repeat;
+    animation: stars-animation 150s linear infinite;
+    opacity: 0.3;
+}
+
+@keyframes stars-animation {
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(-2000px);
+    }
+}
+
+.title {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 1rem;
+    position: relative;
+    z-index: 2;
+}
+
+.title-retro {
+    color: var(--neon-pink);
+    animation: glow-pink 2s ease-in-out infinite alternate;
+}
+
+.title-quiz {
+    color: var(--neon-blue);
+    animation: glow-blue 2s ease-in-out 0.5s infinite alternate;
+}
+
+.title-time {
+    color: var(--neon-purple);
+    animation: glow-purple 2s ease-in-out 1s infinite alternate;
+}
+
+@keyframes glow-pink {
+    from {
+        text-shadow: 0 0 20px var(--neon-pink);
+    }
+
+    to {
+        text-shadow: 0 0 40px var(--neon-pink);
+    }
+}
+
+@keyframes glow-blue {
+    from {
+        text-shadow: 0 0 20px var(--neon-blue);
+    }
+
+    to {
+        text-shadow: 0 0 40px var(--neon-blue);
+    }
+}
+
+@keyframes glow-purple {
+    from {
+        text-shadow: 0 0 20px var(--neon-purple);
+    }
+
+    to {
+        text-shadow: 0 0 40px var(--neon-purple);
+    }
+}
+
+.subtitle {
+    font-family: 'VT323', monospace;
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    color: var(--text-secondary);
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+    z-index: 2;
+}
+
+.character-hero {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    position: relative;
+    z-index: 2;
+}
+
+.character-row {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem;
+    animation: slide-in 1s ease-out;
+}
+
+.char {
+    font-size: 3rem;
+    cursor: pointer;
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.3));
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    animation: character-bob 3s ease-in-out infinite;
+}
+
+.char:nth-child(even) {
+    animation-delay: 0.5s;
+}
+
+.char:hover {
+    transform: scale(1.5) rotate(10deg);
+    filter: drop-shadow(0 0 20px var(--neon-yellow));
+}
+
+@keyframes character-bob {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-15px);
+    }
+}
+
+@keyframes slide-in {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.era-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+}
+
+.era-card {
+    position: relative;
+    padding: 2.5rem 2rem;
+    border: 3px solid;
+    border-radius: 15px;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    background: rgba(10, 14, 39, 0.7);
+    backdrop-filter: blur(10px);
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.era-card::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: var(--bg-img);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.15;
+    /* "Less light" effect */
+    z-index: -1;
+    transition: opacity 0.4s ease;
+}
+
+.era-card:hover::after {
+    opacity: 0.3;
+    /* Brighten slightly on hover */
+}
+
+.era-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+    transform: translateX(-100%);
+    transition: transform 0.6s;
+}
+
+.era-card::hover::before {
+    transform: translateX(100%);
+}
+
+.era-pink {
+    border-color: var(--neon-pink);
+    color: var(--neon-pink);
+}
+
+.era-pink:hover {
+    box-shadow: 0 0 40px rgba(255, 0, 110, 0.6);
+    transform: translateY(-10px) scale(1.05);
+}
+
+.era-blue {
+    border-color: var(--neon-blue);
+    color: var(--neon-blue);
+}
+
+.era-blue:hover {
+    box-shadow: 0 0 40px rgba(0, 212, 255, 0.6);
+    transform: translateY(-10px) scale(1.05);
+}
+
+.era-purple {
+    border-color: var(--neon-purple);
+    color: var(--neon-purple);
+}
+
+.era-purple:hover {
+    box-shadow: 0 0 40px rgba(185, 103, 255, 0.6);
+    transform: translateY(-10px) scale(1.05);
+}
+
+.era-green {
+    border-color: var(--neon-green);
+    color: var(--neon-green);
+}
+
+.era-green:hover {
+    box-shadow: 0 0 40px rgba(5, 255, 161, 0.6);
+    transform: translateY(-10px) scale(1.05);
+}
+
+.era-name {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.era-description {
+    font-family: 'VT323', monospace;
+    font-size: 1.2rem;
+    text-align: center;
+    opacity: 0.8;
+    margin-bottom: 1rem;
+}
+
+.era-arrow {
+    font-size: 2rem;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.era-card:hover .era-arrow {
+    transform: translateX(10px);
+}
+
+.admin-link {
+    margin-top: 3rem;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    color: var(--text-dim);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 2;
+}
+
+.admin-link:hover {
+    color: var(--neon-yellow);
+    text-shadow: 0 0 10px var(--neon-yellow);
+}
+
+@media (max-width: 768px) {
+    .era-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .title {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}

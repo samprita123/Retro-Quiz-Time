@@ -1,0 +1,206 @@
+.quiz-card {
+    background: rgba(26, 31, 58, 0.9);
+    border: 3px solid var(--neon-blue);
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 0 40px rgba(0, 212, 255, 0.4);
+    backdrop-filter: blur(15px);
+    width: 100%;
+    animation: card-entrance 0.5s ease-out;
+}
+
+@keyframes card-entrance {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.question-text {
+    font-family: 'Orbitron', sans-serif;
+    font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+    color: var(--text-primary);
+    margin-bottom: 2rem;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.options-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.option-btn {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.2rem 1.5rem;
+    background: rgba(10, 14, 39, 0.6);
+    border: 2px solid var(--neon-purple);
+    border-radius: 12px;
+    color: var(--text-primary);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+}
+
+.option-btn::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    background: rgba(185, 103, 255, 0.2);
+    transition: width 0.3s ease;
+}
+
+.option-btn:hover::before {
+    width: 100%;
+}
+
+.option-btn:hover {
+    border-color: var(--neon-pink);
+    box-shadow: 0 0 20px rgba(255, 0, 110, 0.4);
+    transform: translateX(5px);
+}
+
+.option-btn:disabled {
+    cursor: not-allowed;
+}
+
+.option-letter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, var(--neon-purple), var(--neon-blue));
+    border-radius: 50%;
+    font-weight: bold;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.9rem;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+}
+
+.option-text {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+}
+
+.icon {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: auto;
+    position: relative;
+    z-index: 1;
+}
+
+.option-btn.selected {
+    border-color: var(--neon-pink);
+    box-shadow: 0 0 25px rgba(255, 0, 110, 0.5);
+}
+
+.option-btn.correct {
+    border-color: var(--neon-green);
+    background: rgba(5, 255, 161, 0.15);
+    box-shadow: 0 0 30px rgba(5, 255, 161, 0.6);
+    animation: correct-pulse 0.6s ease-out;
+}
+
+.option-btn.correct .option-letter {
+    background: linear-gradient(135deg, var(--neon-green), #03c97d);
+}
+
+.option-btn.correct .icon {
+    color: var(--neon-green);
+    animation: icon-pop 0.4s ease-out;
+}
+
+@keyframes correct-pulse {
+
+    0%,
+    100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.03);
+    }
+}
+
+.option-btn.incorrect {
+    border-color: var(--neon-pink);
+    background: rgba(255, 0, 110, 0.15);
+    box-shadow: 0 0 30px rgba(255, 0, 110, 0.6);
+    animation: shake 0.5s ease-out;
+}
+
+.option-btn.incorrect .option-letter {
+    background: linear-gradient(135deg, var(--neon-pink), #d4004d);
+}
+
+.option-btn.incorrect .icon {
+    color: var(--neon-pink);
+    animation: icon-pop 0.4s ease-out;
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-10px);
+    }
+
+    75% {
+        transform: translateX(10px);
+    }
+}
+
+@keyframes icon-pop {
+    0% {
+        transform: scale(0);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@media (max-width: 768px) {
+    .quiz-card {
+        padding: 1.5rem;
+    }
+
+    .option-btn {
+        padding: 1rem;
+        font-size: 0.9rem;
+    }
+
+    .option-letter {
+        width: 35px;
+        height: 35px;
+        font-size: 0.8rem;
+    }
+}
