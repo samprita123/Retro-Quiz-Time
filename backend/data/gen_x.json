@@ -1886,5 +1886,1292 @@
       "Don"
     ],
     "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen and identify this legendary classic Bollywood melody from 70s.",
+    "options": [
+      "Kishore Kumar song clip",
+      "Mohammed Rafi song",
+      "Asha Bhosle clip",
+      "Lata Mangeshkar song"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which Bollywood era does this dramatic orchestral piece belong to?",
+    "options": [
+      "1970s Bollywood",
+      "1990s Bollywood",
+      "2000s Bollywood",
+      "1950s Bollywood"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which instrument is prominently featured in this Indian classical piece?",
+    "options": [
+      "Sitar",
+      "Guitar",
+      "Violin",
+      "Piano"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio features a signature sound of which Indian icon?",
+    "options": [
+      "Ravi Shankar (Sitar)",
+      "Bismillah Khan (Shehnai)",
+      "Hariprasad Chaurasia (Flute)",
+      "Ali Akbar Khan (Sarod)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify the folklore music style heard in this clip.",
+    "options": [
+      "Rajasthani folk music",
+      "Punjabi bhangra",
+      "Bihari kajri",
+      "Gujarati garba"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which decade's film music does this harmonium-heavy clip represent?",
+    "options": [
+      "1970s Indian cinema",
+      "1990s pop",
+      "2000s remix",
+      "1980s film"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio clip is from which classic Indian film genre?",
+    "options": [
+      "Bollywood drama",
+      "South Indian film",
+      "Documentary",
+      "Stage musical"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Listen: which classic Indian instrument creates this resonant tone?",
+    "options": [
+      "Tabla",
+      "Dholak",
+      "Mridangam",
+      "Dhol"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which song era does this dramatic filmy dialoguebaaing style represent?",
+    "options": [
+      "1975–1985 Bollywood",
+      "1995–2005",
+      "2010–2020",
+      "1950–1965"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the style of this Indian devotional audio clip.",
+    "options": [
+      "Bhajan",
+      "Ghazal",
+      "Qawwali",
+      "Thumri"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which Bollywood actress was famous for this style of classical song?",
+    "options": [
+      "Waheeda Rehman",
+      "Hema Malini",
+      "Rekha",
+      "Zeenat Aman"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio belongs to which popular 70s Indian genre?",
+    "options": [
+      "Filmi geet",
+      "Indi-pop",
+      "Remix",
+      "Western pop"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen to this shehnai solo - who was the legendary shehnai maestro?",
+    "options": [
+      "Ustad Bismillah Khan",
+      "Ravi Shankar",
+      "Zakir Hussain",
+      "Ali Akbar Khan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "What style of clapping beat do you hear in this folk audio?",
+    "options": [
+      "Teen Taal",
+      "Dadra",
+      "Keherwa",
+      "Rupak"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This clip sounds like which famous song from the movie Sholay?",
+    "options": [
+      "Mehbooba Mehbooba",
+      "Yeh Dosti",
+      "Holi Ke Din",
+      "Koi Haseena"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which instrument is this long resonating pluck from?",
+    "options": [
+      "Sarod",
+      "Sitar",
+      "Veena",
+      "Guitar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio sounds like a 70s Doordarshan jingle - True or False?",
+    "options": [
+      "True – 70s DD style",
+      "False – it's 90s",
+      "False – it's 80s ads",
+      "False – foreign music"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which state's classical music is this Carnatic snippet from?",
+    "options": [
+      "Tamil Nadu / South India",
+      "Punjab",
+      "Rajasthan",
+      "Bengal"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio clip sounds like which kind of Indian percussion?",
+    "options": [
+      "Kathak footwork",
+      "Bhangra dhol",
+      "Garba claps",
+      "Lavani beats"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Listen to this vintage film song intro - which instrument plays first?",
+    "options": [
+      "Harmonium",
+      "Flute",
+      "Sitar",
+      "Tabla"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio is from which popular 70s Bollywood composer's era?",
+    "options": [
+      "R.D. Burman era",
+      "A.R. Rahman era",
+      "Anu Malik era",
+      "Shankar-Jaikishan era"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 70s film villain's iconic laugh / tone from the clip.",
+    "options": [
+      "Gabbar Singh (Sholay)",
+      "Mogambo (Mr. India)",
+      "Shakaal (Shaan)",
+      "Kancha Cheena (Agneepath)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which radio station was famous for broadcasting this 'Binaca Geetmala' style program?",
+    "options": [
+      "Radio Ceylon / Vividh Bharati",
+      "All India Radio",
+      "VOA",
+      "BBC Hindi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "What genre is this mournful violin melody from Indian cinema?",
+    "options": [
+      "Indian film sad song",
+      "Western classical",
+      "Jazz",
+      "Country music"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This 'aaao meri jaan' phrasing is typical of which 70s playback singer?",
+    "options": [
+      "Kishore Kumar",
+      "Mohammed Rafi",
+      "Mukesh",
+      "Manna Dey"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio has a distinctive western AND Indian fusion - from which era?",
+    "options": [
+      "Late 1970s Bollywood",
+      "2000s remixes",
+      "1950s films",
+      "90s indie pop"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen - which festive Indian song occasion does this celebrate?",
+    "options": [
+      "Diwali celebration song",
+      "Eid milad",
+      "Holi folk song",
+      "Navratri garba"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This tabla solo pattern is called?",
+    "options": [
+      "Teentaal",
+      "Ektaal",
+      "Jhaptaal",
+      "Rupak"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This vocal clip sounds like which classical Indian tradition?",
+    "options": [
+      "Hindustani classical",
+      "Carnatic classical",
+      "Folk qawwali",
+      "Punjabi classical"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This trumpety filmy opening belongs to which film era?",
+    "options": [
+      "1975–1985 masala films",
+      "1960s art films",
+      "1990s romance",
+      "2000s action"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which Indian classical concept is being demonstrated in this ascending scale?",
+    "options": [
+      "Aaroho (ascending)",
+      "Avroho (descending)",
+      "Meend",
+      "Gamak"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio sounds like the signature music of which Indian TV show?",
+    "options": [
+      "Krishi Darshan (Doordarshan)",
+      "Chitrahaar",
+      "Rangoli",
+      "Mahabharat"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen to this folk singing style - it comes from which Indian state?",
+    "options": [
+      "Bengal (Baul music)",
+      "Rajasthan",
+      "Punjab",
+      "Kerala"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which decade's Bollywood is this rock-and-roll influenced song from?",
+    "options": [
+      "1960s Bollywood",
+      "1980s Bollywood",
+      "2000s Bollywood",
+      "1990s Bollywood"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "What is the name of this percussion instrument playing rapid beats?",
+    "options": [
+      "Dholak",
+      "Tabla",
+      "Mridangam",
+      "Dhol"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This 'koyal' bird sound is used symbolically in which season's folk songs?",
+    "options": [
+      "Spring (Basant) songs",
+      "Monsoon (Sawan) songs",
+      "Winter songs",
+      "Harvest songs"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: this vocal style with ornamentation is called?",
+    "options": [
+      "Taan (gamakas)",
+      "Sargam recitation",
+      "Alap",
+      "Paltas"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which Indian instrument makes this deep resonating drone sound?",
+    "options": [
+      "Tanpura",
+      "Harmonium",
+      "Santoor",
+      "Dilruba"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This jingle-like clip sounds like which company's famous TV ad?",
+    "options": [
+      "Nirma Washing Powder",
+      "Amul Butter",
+      "Liril Soap",
+      "Lifebuoy"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which vocalist style is this -- where words are sung very fast?",
+    "options": [
+      "Tarana",
+      "Bandish",
+      "Ghazal",
+      "Thumri"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio is from which style of Indian devotional singing?",
+    "options": [
+      "Qawwali",
+      "Bhajan",
+      "Kirtan",
+      "Shabad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which music category was popularized on Doordarshan?",
+    "options": [
+      "Gujarati folk songs",
+      "English pop",
+      "Hip hop",
+      "EDM"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify: this vocal technique uses gliding between notes, called?",
+    "options": [
+      "Meend",
+      "Khatka",
+      "Murki",
+      "Gamak"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio embodies which 70s iconic Bollywood style?",
+    "options": [
+      "Disco / funk fusion",
+      "Ghazal",
+      "Folk ballad",
+      "Classical raga"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which classical singing style is famous for improvised bols?",
+    "options": [
+      "Khayal",
+      "Dhrupad",
+      "Thumri",
+      "Dadra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "The shrill whistle you hear is used in which 70s film genre?",
+    "options": [
+      "Western / daaku films",
+      "Romantic dramas",
+      "Comedy films",
+      "Art house"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio snippet is from which type of Indian celebration?",
+    "options": [
+      "Baraat (wedding procession)",
+      "Temple aarti",
+      "Cricket victory",
+      "Republic Day parade"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which playback singer was known for melodramatic singing style in the 70s?",
+    "options": [
+      "Mukesh",
+      "Kishore Kumar",
+      "Mohammed Rafi",
+      "Manna Dey"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This string instrument creates a unique twanging sound - identify it.",
+    "options": [
+      "Ektara",
+      "Sitar",
+      "Guitar",
+      "Veena"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This vintage audio is from which Indian news program?",
+    "options": [
+      "Doordarshan Evening News",
+      "Aaj Tak bulletin",
+      "Zee News",
+      "BBC Hindi service"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/KN4bsN7Eopg?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this iconic Bollywood film scene.",
+    "options": [
+      "Sholay (1975)",
+      "Deewar (1975)",
+      "Zanjeer (1973)",
+      "Don (1978)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/l4Mc7gqBmVQ?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which classic Indian TV show does this opening belong to?",
+    "options": [
+      "Hum Log (Doordarshan)",
+      "Buniyaad",
+      "Nukkad",
+      "Malgudi Days"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/GiQKMqD9DjI?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this legendary 70s Bollywood song sequence.",
+    "options": [
+      "Mehbooba Mehbooba – Sholay",
+      "Yeh Dosti – Sholay",
+      "Amar Akbar Anthony theme",
+      "Julie theme"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/5TbUxGZtwGI?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 80s Bollywood movie does this iconic scene come from?",
+    "options": [
+      "Mr. India (1987)",
+      "Tezaab",
+      "Ramesh Sippy film",
+      "Ram Teri Ganga Maili"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/H92pMOhEJGE?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this classic Bollywood movie opening credits.",
+    "options": [
+      "Amar Akbar Anthony (1977)",
+      "Don (1978)",
+      "Muqaddar Ka Sikandar",
+      "Jai santoshi maa"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/BzB5n9wA0jM?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which classic Doordarshan program does this clip represent?",
+    "options": [
+      "Chitrahaar",
+      "Rangoli",
+      "Phool Khile Hai Gulshan Gulshan",
+      "Krishi Darshan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2BuReSZRulI?start=0&end=15&autoplay=0&rel=0",
+    "question": "What famous 80s Indian advertisement is this from?",
+    "options": [
+      "Hamara Bajaj (Bajaj scooter ad)",
+      "Nirma ad",
+      "Amul butter ad",
+      "Liril soap ad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/mFCmuVEqHsg?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this iconic 70s Indian pop / film number.",
+    "options": [
+      "Dum Maro Dum – Hare Rama Hare Krishna",
+      "Piya Tu Ab To Aaja",
+      "Mehbooba Mehbooba",
+      "Aap Jaisa Koi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Xd0oZ8aSSnQ?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this 80s legendary Indian sports moment.",
+    "options": [
+      "India wins 1983 Cricket World Cup",
+      "India wins 1979 Hockey WC",
+      "India vs Pakistan 1986 match",
+      "Kapil Dev 175 vs Zimbabwe"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/PdSMl3BZMEY?start=0&end=15&autoplay=0&rel=0",
+    "question": "This is the opening scene of which iconic 70s Bollywood thriller?",
+    "options": [
+      "Sholay",
+      "Don",
+      "Zanjeer",
+      "Deewar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/gBQZPjGVCgM?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which Indian actor is depicted in this 80s action scene?",
+    "options": [
+      "Amitabh Bachchan",
+      "Dharmendra",
+      "Vinod Khanna",
+      "Shatrughan Sinha"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/4Z5cRz3QJig?start=5&end=20&autoplay=0&rel=0",
+    "question": "What is this 70s Indian movie known for?",
+    "options": [
+      "Deewar – Dialogue scene",
+      "Ganga Jamuna",
+      "Mughal E Azam",
+      "Mera Gaon Mera Desh"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/PLvmcT-9O4qs4j3EePmIuBmrpMiH3Dp?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this famous Indian classical dance clip.",
+    "options": [
+      "Bharatanatyam performance",
+      "Kathak dance",
+      "Kuchipudi dance",
+      "Odissi dance"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/VNvSm23CPHY?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 70s movie scene is from?",
+    "options": [
+      "Anand (1971) – Rajesh Khanna",
+      "Bobby (1973)",
+      "Aradhana (1969)",
+      "Haathi Mere Saathi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/J31bIBjL7aQ?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which Doordarshan serial does this theme song belong to?",
+    "options": [
+      "Malgudi Days",
+      "Chandrakanta",
+      "Bharat Ek Khoj",
+      "Buniyaad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/5l5Hw2EoAq0?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this legendary 80s Bollywood intro sequence.",
+    "options": [
+      "Tezaab (1988)",
+      "Ram Lakhan",
+      "Tridev",
+      "Chandni"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/bTxH0JZBgdo?start=10&end=25&autoplay=0&rel=0",
+    "question": "This vintage Doordarshan ad is for which product?",
+    "options": [
+      "Nirma Washing Powder",
+      "Amul Butter",
+      "BPL Television",
+      "Videocon"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/AwQZlp5Ks_Q?start=0&end=15&autoplay=0&rel=0",
+    "question": "This legendary film song clip is from?",
+    "options": [
+      "Mere Sapno Ki Rani – Aradhana",
+      "Gulabi Aankhein – The Train",
+      "Pehla Nasha – Jo Jeeta",
+      "Tere Mere Milan Ki Yeh"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/UPL8s7dMmJ8?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 80s dance number is this from?",
+    "options": [
+      "Disco Dancer (1982)",
+      "Himmatwala",
+      "Tohfa",
+      "Masterji"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/N6VKzPZ2eQE?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this memorable scene from a 70s classic.",
+    "options": [
+      "Jai – Veeru friendship in Sholay",
+      "Anand – Rajesh Khanna",
+      "Don chase scene",
+      "Abhimaan dance"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/YQWJ7Og6mCo?start=0&end=15&autoplay=0&rel=0",
+    "question": "What Indian government propaganda film does this upbeat 70s clip represent?",
+    "options": [
+      "Hum Hindustani / National interest film",
+      "South Indian film songs",
+      "Documentary",
+      "Commercial ad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Fup9TdkBBho?start=5&end=20&autoplay=0&rel=0",
+    "question": "Name the 70s/80s show this Doordarshan children's programming resembles.",
+    "options": [
+      "Ek Anek Aur Ekta (animated short)",
+      "Chhota Chetan",
+      "Jungle Book",
+      "Giant Robot"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/qCXk9GUqv4o?start=0&end=15&autoplay=0&rel=0",
+    "question": "This intro jingle is from which iconic Doordarshan show?",
+    "options": [
+      "Phool Khile Hai Gulshan Gulshan",
+      "Chitrahaar",
+      "Rangoli",
+      "Krishi Darshan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/c6mGLQT2QU8?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this Bollywood actress from her classic dance clip.",
+    "options": [
+      "Helen",
+      "Waheeda Rehman",
+      "Mumtaz",
+      "Hema Malini"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/GMwxm7e9_Fo?start=5&end=20&autoplay=0&rel=0",
+    "question": "This classic 70s number is from which Bollywood movie?",
+    "options": [
+      "Bobby (1973)",
+      "Julie",
+      "Aradhana",
+      "Hare Rama Hare Krishna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/o3yBiclMB9Q?start=10&end=25&autoplay=0&rel=0",
+    "question": "This clip shows which Indian historical event?",
+    "options": [
+      "India's independence celebrations",
+      "Republic Day parade",
+      "Asian Games",
+      "Cricket world cup"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/nsmZlT3Xvog?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this 80s hit from the song's picturization style.",
+    "options": [
+      "Pyar Ka Dard – Kumar Sanu era",
+      "Disco number",
+      "Classical mujra",
+      "80s Bollywood melody"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/8SbxIeXqFGk?start=5&end=20&autoplay=0&rel=0",
+    "question": "This Doordarshan signature tone belongs to?",
+    "options": [
+      "Doordarshan news bulletin opening",
+      "Vividh Bharati radio",
+      "All India Radio",
+      "Star TV"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/G1oMVtBlXFg?start=5&end=20&autoplay=0&rel=0",
+    "question": "This upbeat song clip resembles which 70s Bollywood actress's style?",
+    "options": [
+      "Zeenat Aman",
+      "Rekha",
+      "Hema Malini",
+      "Neetu Singh"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/nFBFE43wdrc?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which comedy actor's style does this exaggerated dialogue clip resemble?",
+    "options": [
+      "Kader Khan / Om Prakash style",
+      "Utpal Dutt",
+      "Mehmood",
+      "Asrani"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/rGKfcE9WXXY?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this classic 80s Doordarshan children's show clip.",
+    "options": [
+      "Vikram Aur Betaal",
+      "Chandrakanta",
+      "Alif Laila",
+      "Malgudi Days"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/xeW-N7mYsKU?start=10&end=25&autoplay=0&rel=0",
+    "question": "This dramatic scene clip belongs to which 80s landmark TV show?",
+    "options": [
+      "Hum Log (Doordarshan)",
+      "Nukkad",
+      "Buniyaad",
+      "Wagle Ki Duniya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/7AuJDuAkj6o?start=0&end=15&autoplay=0&rel=0",
+    "question": "This popular 70s radio program style was called?",
+    "options": [
+      "Binaca Geetmala (Radio Ceylon)",
+      "Sangeet Sarita",
+      "Jaimala",
+      "Hawa Mahal"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wbj_KR6A9bw?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this Bollywood title song from the 70s.",
+    "options": [
+      "Shaan (1980) title song",
+      "Don title",
+      "Disco Dancer title",
+      "Muqaddar Ka Sikandar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/ZNFP_P9TZOI?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 1983 historic moment is?",
+    "options": [
+      "Kapil Dev lifting Cricket World Cup",
+      "India hockey gold 1980",
+      "Prakash Padukone badminton",
+      "PT Usha Olympics 1984"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/KSxjHbMPfXc?start=0&end=15&autoplay=0&rel=0",
+    "question": "This song from which 70s film was RD Burman's hit?",
+    "options": [
+      "Yeh Mera Dil Yaar Ka Diwana – Don",
+      "Mehbooba Mehbooba",
+      "Dum Maro Dum",
+      "Chura Liya Hai Tumne"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/xDl3pTv0-A8?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 80s mega hit opening sequence is from?",
+    "options": [
+      "Tezaab – Ek Do Teen",
+      "Disco Dancer",
+      "Mard",
+      "Ilzaam"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/DTAV-O4i5nY?start=5&end=20&autoplay=0&rel=0",
+    "question": "Name this show from Doordarshan's golden era.",
+    "options": [
+      "Nukkad (Street Corner)",
+      "Hum Log",
+      "Wagle Ki Duniya",
+      "Zabaan Sambhalke"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/MtT1WfQ5z3I?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 80s Bollywood actress's iconic silver screen debut is this?",
+    "options": [
+      "Sridevi",
+      "Madhuri Dixit",
+      "Juhi Chawla",
+      "Meenakshi Seshadri"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/BqDa2a_q3bc?start=5&end=20&autoplay=0&rel=0",
+    "question": "This clip from 70s Doordarshan shows which recurring folk art segment?",
+    "options": [
+      "Folk dance demonstration",
+      "News segment",
+      "Sports highlights",
+      "Animation short"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/NMv8i7yYp0c?start=0&end=15&autoplay=0&rel=0",
+    "question": "This music video style is from which Indian pop era?",
+    "options": [
+      "Early 80s Indian film pop",
+      "2000s indi-pop",
+      "90s MTV era",
+      "70s disco Bollywood"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/IEv3pL3KZOU?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this classic 70s cartoon that aired on Doordarshan.",
+    "options": [
+      "Ek Chidiya – Doordarshan animated short",
+      "He Man",
+      "Tom and Jerry",
+      "Jungle Book"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/m5iWvkW_4Jo?start=5&end=20&autoplay=0&rel=0",
+    "question": "What genre of Bollywood film is this clip from?",
+    "options": [
+      "Angry Young Man / action drama",
+      "Romantic drama",
+      "Comedy film",
+      "Art house cinema"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/MxC5cDw9X-E?start=0&end=15&autoplay=0&rel=0",
+    "question": "This political drama clip resembles which major 70s Indian event?",
+    "options": [
+      "Emergency era India (1975–77)",
+      "Pre-independence India",
+      "Indo-Pak 1971 war",
+      "Green revolution"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/RkPXIEr_q0s?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which Indian track-and-field athlete is portrayed in this early 80s style?",
+    "options": [
+      "P.T. Usha",
+      "Milkha Singh",
+      "Rima Dutta",
+      "Shiny Abraham"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/SXlMMePJ_sM?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this legendary 80s Bollywood chase scene.",
+    "options": [
+      "Amitabh Bachchan action film chase",
+      "Sunny Deol action scene",
+      "Jackie Shroff",
+      "Govinda comedy chase"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/nzGtNjKGhcg?start=0&end=15&autoplay=0&rel=0",
+    "question": "This opening scene is from which classic 80s film?",
+    "options": [
+      "Mr. India (1987)",
+      "Tezaab",
+      "Chandni",
+      "Tridev"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/oVwlXi5jqig?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which comedy drama from Doordarshan does this style represent?",
+    "options": [
+      "Zabaan Sambhalke",
+      "Hum Log",
+      "Yeh Jo Hai Zindagi",
+      "Wagle Ki Duniya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/C98cxgRuFl4?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which major Doordarshan milestone does this clip celebrate?",
+    "options": [
+      "Doordarshan's first color broadcast (1982 Asian Games)",
+      "First national network launch",
+      "DD Metro premiere",
+      "First satellite broadcast"
+    ],
+    "correctOption": 0
   }
 ]
