@@ -1,22 +1,18 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import QuizPage from './pages/QuizPage';
-import ScorePage from './pages/ScorePage';
-import AdminPage from './pages/AdminPage';
-import './index.css';
+import ResultPage from './pages/ResultPage';
 
 function App() {
   return (
-    <Router>
-      <div className="app-container">
-        <Routes>
-          <Route path="/" element={<LandingPage />} />
-          <Route path="/quiz/:era" element={<QuizPage />} />
-          <Route path="/score" element={<ScorePage />} />
-          <Route path="/admin" element={<AdminPage />} />
-        </Routes>
-      </div>
-    </Router>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<LandingPage />} />
+        <Route path="/quiz/:era" element={<QuizPage />} />
+        <Route path="/result" element={<ResultPage />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

@@ -1,0 +1,1902 @@
+[
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which TV superhero hit the rotating button on his belt to fly?",
+    "options": [
+      "Junior G",
+      "Shaktimaan",
+      "Aryaman",
+      "Captain Vyom"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the 'Robot Girl' in the show 'Karishma Kaa Karishma'?",
+    "options": [
+      "Karishma",
+      "Vicky",
+      "Sonu",
+      "Pinki"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which biscuit jingle went 'G maane Genius'?",
+    "options": [
+      "Marie Gold",
+      "Good Day",
+      "Parle-G",
+      "Bourbon"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which movie featured Rahul, Anjali, and Tina in a love triangle?",
+    "options": [
+      "Dil To Pagal Hai",
+      "Kuch Kuch Hota Hai",
+      "Kabhie Khushi Kabhie Gham",
+      "Dilwale Dulhania Le Jayenge"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Nokia phone was legendary for its 'Snake' game and durability?",
+    "options": [
+      "Nokia 3310",
+      "Nokia 1100",
+      "Nokia N73",
+      "Nokia 6600"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Who was the host of the popular show 'Khana Khazana'?",
+    "options": [
+      "Vikas Khanna",
+      "Sanjeev Kapoor",
+      "Ranveer Brar",
+      "Kunwar Singh"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which soft drink had the 'Yehi Hai Right Choice, Baby' slogan?",
+    "options": [
+      "Coca-Cola",
+      "Pepsi",
+      "Thums Up",
+      "Mirinda"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which iconic cartoon featured a clever 'Mouse' and a 'Cat' always fighting?",
+    "options": [
+      "Tom and Jerry",
+      "Mickey Mouse",
+      "Oswald",
+      "Dexter"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the school drama show featuring characters like Mazher and Ragini?",
+    "options": [
+      "Just Mohabbat",
+      "Hip Hip Hurray",
+      "Remix",
+      "Left Right Left"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian pop song by Daler Mehndi became a global dance sensation?",
+    "options": [
+      "Bolo Ta Ra Ra",
+      "Tunak Tunak Tun",
+      "Ho Jayegi Balle Balle",
+      "Dardi Rab Rab"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Who played the role of 'Raj' in 'Dilwale Dulhania Le Jayenge'?",
+    "options": [
+      "Salman Khan",
+      "Aamir Khan",
+      "Shah Rukh Khan",
+      "Saif Ali Khan"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which instant noodle brand became an 'emotion' for Indian kids?",
+    "options": [
+      "Yippee",
+      "Top Ramen",
+      "Maggi",
+      "Wai Wai"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the magical pencil in 'Shaka Laka Boom Boom'?",
+    "options": [
+      "Magic Pencil",
+      "Sanju's Pencil",
+      "Bhoo Pencil",
+      "Sona Pencil"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which social networking site was the first big hit in India before Facebook?",
+    "options": [
+      "MySpace",
+      "Orkut",
+      "Hi5",
+      "Friendster"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Who sang the soulful 90s hit 'Sayonee'?",
+    "options": [
+      "Silk Route",
+      "Euphoria",
+      "Junoon",
+      "Strings"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which chocolate was promoted with a girl dancing on a cricket field?",
+    "options": [
+      "Munch",
+      "Dairy Milk",
+      "5 Star",
+      "KitKat"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the superhero kid in the show 'Junior G'?",
+    "options": [
+      "Sheru",
+      "Gaurav",
+      "Junior G",
+      "Aryaman"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian cricketer was known as 'The Wall'?",
+    "options": [
+      "Sourav Ganguly",
+      "VVS Laxman",
+      "Rahul Dravid",
+      "Anil Kumble"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the first private news channel in India?",
+    "options": [
+      "NDTV",
+      "Zee News",
+      "Aaj Tak",
+      "Star News"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which movie saw Aamir Khan, Saif Ali Khan, and Akshaye Khanna as friends?",
+    "options": [
+      "Dil Chahta Hai",
+      "Zindagi Na Milegi Dobara",
+      "Rang De Basanti",
+      "3 Idiots"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian band gave us 'Maeri' and 'Dhoom Pichuck'?",
+    "options": [
+      "Silk Route",
+      "Euphoria",
+      "Indian Ocean",
+      "Parikrama"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Who was the 'Badshah of Bollywood' starting from the late 90s?",
+    "options": [
+      "Amitabh Bachchan",
+      "Salman Khan",
+      "Shah Rukh Khan",
+      "Akshay Kumar"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which drink had the jingle 'Darr Ke Aage Jeet Hai'?",
+    "options": [
+      "Sprite",
+      "Mountain Dew",
+      "7Up",
+      "Pepsi"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the villain in 'Shaktimaan'?",
+    "options": [
+      "Tamraj Kilvish",
+      "Dr. Jackal",
+      "Kapaala",
+      "Sahab"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which movie celebrated its silver jubilee at Maratha Mandir for 25+ years?",
+    "options": [
+      "Sholay",
+      "Mughal-e-Azam",
+      "Dilwale Dulhania Le Jayenge",
+      "Hum Aapke Hain Koun"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which cartoon featured two high-tech cats fighting crime in MegaKat City?",
+    "options": [
+      "Swat Kats",
+      "ThunderCats",
+      "Samurai Jack",
+      "Powerpuff Girls"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the girl in the 'Nirma' washing powder ad?",
+    "options": [
+      "Deepika",
+      "Nirma",
+      "Hema",
+      "Jaya"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian pop star sang 'Suno To Deewana Dil'?",
+    "options": [
+      "Lucky Ali",
+      "Shaan",
+      "Sonu Nigam",
+      "Abhijeet"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Who played the character of 'Crime Master Gogo'?",
+    "options": [
+      "Paresh Rawal",
+      "Shakti Kapoor",
+      "Kader Khan",
+      "Johnny Lever"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the fairy in 'Son Pari'?",
+    "options": [
+      "Sona",
+      "Altu",
+      "Fruity",
+      "Kali Pari"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian athlete won the first individual Silver medal for India at Olympics?",
+    "options": [
+      "Leander Paes",
+      "Rajyavardhan Singh Rathore",
+      "Abhinav Bindra",
+      "Sushil Kumar"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which show featured the catchphrase 'Hello... Kaun... Main Bol Raha Hoon'?",
+    "options": [
+      "Office Office",
+      "Hum Paanch",
+      "Zabaan Sambhal Ke",
+      "Khichdi"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the favorite sweet snack for 90s kids that looked like cigarettes?",
+    "options": [
+      "Poppins",
+      "Phantom Cigarettes",
+      "Cream Biscuits",
+      "Kisame"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian city is known as the 'Electronic City'?",
+    "options": [
+      "Hyderabad",
+      "Pune",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Who sang 'O Sanam' and became an indie-pop sensation?",
+    "options": [
+      "Lucky Ali",
+      "Mohit Chauhan",
+      "KK",
+      "Shaan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the kid in 'Dexter's Laboratory'?",
+    "options": [
+      "Dexter",
+      "Mandark",
+      "Dee Dee",
+      "Professor"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which movie featured a 'Magic alien' named Jadoo?",
+    "options": [
+      "Koi... Mil Gaya",
+      "Krrish",
+      "PK",
+      "Ra.One"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which TV series followed the lives of interns at Sanjivani hospital?",
+    "options": [
+      "Dill Mill Gayye",
+      "Sanjivani",
+      "Astitva",
+      "Lifeline"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which song by Silk Route featured 'Dooba Dooba' in an underwater video?",
+    "options": [
+      "Dooba Dooba",
+      "Boondein",
+      "Morni",
+      "Sabse Peeche Hum Khade"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Who was the 'Dada' of Indian cricket who waved his shirt at Lord's?",
+    "options": [
+      "Sachin Tendulkar",
+      "Sourav Ganguly",
+      "Rahul Dravid",
+      "Virender Sehwag"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the ghost in 'Vikram Aur Betaal'?",
+    "options": [
+      "Betaal",
+      "Munjya",
+      "Bhootnath",
+      "Shambhu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which chocolate advertised with 'Kyunki Kuch Khaas Hai'?",
+    "options": [
+      "Dairy Milk",
+      "5 Star",
+      "Perk",
+      "Munch"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the robot kid in 'Small Wonder' (Hindi dubbed)?",
+    "options": [
+      "Karishma",
+      "Vicky",
+      "Titu",
+      "Chintu"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which movie gave us the character 'Crime Master Gogo'?",
+    "options": [
+      "Andaz Apna Apna",
+      "Hera Pheri",
+      "Coolie No. 1",
+      "Ishq"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian city is famous for its 'Pethas'?",
+    "options": [
+      "Lucknow",
+      "Agra",
+      "Jaipur",
+      "Mathura"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the quiz show hosted by Siddhartha Basu on DD?",
+    "options": [
+      "KBC",
+      "Mastermind India",
+      "Bournvita Quiz Contest",
+      "Quiz Time"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which show featured character 'Praveen Bhai'?",
+    "options": [
+      "Sarabhai vs Sarabhai",
+      "Instant Khichdi",
+      "Baa Bahoo Aur Baby",
+      "Khichdi"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Bollywood star is known as the 'Greek God' of India?",
+    "options": [
+      "Hrithik Roshan",
+      "Salman Khan",
+      "John Abraham",
+      "Arjun Rampal"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "What was the name of the cartoon where kids used beyblades?",
+    "options": [
+      "Beyblade",
+      "Pokemon",
+      "Digimon",
+      "Yu-Gi-Oh"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "text",
+    "question": "Which Indian pop group had members like Viva girls?",
+    "options": [
+      "Viva",
+      "Aasma",
+      "Band of Boys",
+      "Models"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian superhero character.",
+    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Shaktimaan",
+      "Captain Vyom",
+      "Junior G",
+      "Aryaman"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this popular 90s Indian TV show about a magical pencil.",
+    "mediaUrl": "https://picsum.photos/seed/Shaka%20Laka%20Boom%20Boom%201990s%20Ind/600/400",
+    "options": [
+      "Shaka Laka Boom Boom",
+      "Son Pari",
+      "Shararat",
+      "Hatim"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian cartoon character?",
+    "mediaUrl": "https://picsum.photos/seed/Mowgli%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Mowgli",
+      "Chhota Bheem",
+      "Dexter",
+      "Baloo"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian pop indie band.",
+    "mediaUrl": "https://picsum.photos/seed/Euphoria%201990s%20India%20Bollywood/600/400",
+    "options": [
+      "Euphoria",
+      "Silk Route",
+      "Bombay Vikings",
+      "Aryans"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which famous 90s Bollywood movie features this train scene?",
+    "mediaUrl": "https://picsum.photos/seed/Dilwale%20Dulhania%20Le%20Jayenge%2019/600/400",
+    "options": [
+      "Dilwale Dulhania Le Jayenge",
+      "Kuch Kuch Hota Hai",
+      "Dil To Pagal Hai",
+      "Hum Aapke Hain Koun"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this legendary 90s video game console popular in India.",
+    "mediaUrl": "https://picsum.photos/seed/Terminator%202%20(8-bit)%201990s%20Ind/600/400",
+    "options": [
+      "Terminator 2 (8-bit)",
+      "PlayStation 1",
+      "Sega Mega Drive",
+      "Nintendo 64"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this iconic 90s Indian advertisement character.",
+    "mediaUrl": "https://picsum.photos/seed/Boomer%20Man%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Boomer Man",
+      "Parle G Girl",
+      "Nirma Girl",
+      "Amul Girl"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this classic 90s Indian comic book superhero.",
+    "mediaUrl": "https://picsum.photos/seed/Nagraj%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Nagraj",
+      "Doga",
+      "Super Commando Dhruva",
+      "Bheriya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which 90s Indian TV show featured these five sisters?",
+    "mediaUrl": "https://picsum.photos/seed/Hum%20Paanch%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Hum Paanch",
+      "Dekh Bhai Dekh",
+      "Tu Tu Main Main",
+      "Zabaan Sambhalke"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this legendary 90s Bollywood playback singer (male).",
+    "mediaUrl": "https://picsum.photos/seed/Kumar%20Sanu%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Kumar Sanu",
+      "Udit Narayan",
+      "Abhijeet Bhattacharya",
+      "Sonu Nigam"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this popular 90s Indian candy.",
+    "mediaUrl": "https://picsum.photos/seed/Phantom%20Sweet%20Cigarettes%201990s/600/400",
+    "options": [
+      "Phantom Sweet Cigarettes",
+      "Kismi Bar",
+      "Mango Bite",
+      "Swad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian soft drink?",
+    "mediaUrl": "https://picsum.photos/seed/Gold%20Spot%201990s%20India%20Bollywoo/600/400",
+    "options": [
+      "Gold Spot",
+      "Campa Cola",
+      "Citra",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this iconic 90s Indian music video.",
+    "mediaUrl": "https://picsum.photos/seed/Made%20in%20India%20(Alisha%20Chinai)%20/600/400",
+    "options": [
+      "Made in India (Alisha Chinai)",
+      "Pari Hoon Main",
+      "Yaad Piya Ki Aane Lagi",
+      "Gud Naal Ishq Mitha"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian cricket captain.",
+    "mediaUrl": "https://picsum.photos/seed/Mohammad%20Azharuddin%201990s%20Indi/600/400",
+    "options": [
+      "Mohammad Azharuddin",
+      "Sachin Tendulkar",
+      "Sourav Ganguly",
+      "Rahul Dravid"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this famous 90s Indian TV show host.",
+    "mediaUrl": "https://picsum.photos/seed/Siddhartha%20Basu%201990s%20India%20Bo/600/400",
+    "options": [
+      "Siddhartha Basu",
+      "Roshan Abbas",
+      "Aman Verma",
+      "Cyrus Broacha"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which classic 90s Indian cartoon show is this?",
+    "mediaUrl": "https://picsum.photos/seed/Jungle%20Book%20(Anime)%201990s%20Indi/600/400",
+    "options": [
+      "Jungle Book (Anime)",
+      "TaleSpin",
+      "DuckTales",
+      "Swat Kats"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian movie villain.",
+    "mediaUrl": "https://picsum.photos/seed/Crime%20Master%20Gogo%201990s%20India%20/600/400",
+    "options": [
+      "Crime Master Gogo",
+      "Mogambo",
+      "Shakaal",
+      "Kancha Cheena"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian TV show alien?",
+    "mediaUrl": "https://picsum.photos/seed/Jadoo%201990s%20India%20Bollywood%20TV/600/400",
+    "options": [
+      "Jadoo",
+      "Karishma (Robot)",
+      "Vicky",
+      "Son Pari"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this legendary 90s Indian pop song.",
+    "mediaUrl": "https://picsum.photos/seed/Tunak%20Tunak%20Tun%201990s%20India%20Bo/600/400",
+    "options": [
+      "Tunak Tunak Tun",
+      "Ho Jayegi Balle Balle",
+      "Bolo Ta Ra Ra",
+      "Dardi Rab Rab"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this classic 90s Indian video game.",
+    "mediaUrl": "https://picsum.photos/seed/Super%20Mario%20Bros%201990s%20India%20B/600/400",
+    "options": [
+      "Super Mario Bros",
+      "Contra",
+      "Adventure Island",
+      "Duck Hunt"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this 90s Indian TV show about a detective.",
+    "mediaUrl": "https://picsum.photos/seed/Byomkesh%20Bakshi%201990s%20India%20Bo/600/400",
+    "options": [
+      "Byomkesh Bakshi",
+      "CID",
+      "Karamchand",
+      "Tehkikaat"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which iconic 90s Indian advertisement featured a waterfall?",
+    "mediaUrl": "https://picsum.photos/seed/Liril%20Soap%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Liril Soap",
+      "Cinthol",
+      "Lux",
+      "Lifebuoy"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this popular 90s Indian magazine for kids.",
+    "mediaUrl": "https://picsum.photos/seed/Tinkle%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Tinkle",
+      "Champak",
+      "Chandamama",
+      "Target"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian TV show magical fairy?",
+    "mediaUrl": "https://picsum.photos/seed/Son%20Pari%201990s%20India%20Bollywood/600/400",
+    "options": [
+      "Son Pari",
+      "Shararat",
+      "Shaka Laka Boom Boom",
+      "Hatim"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this classic 90s Indian Bollywood movie.",
+    "mediaUrl": "https://picsum.photos/seed/Andaz%20Apna%20Apna%201990s%20India%20Bo/600/400",
+    "options": [
+      "Andaz Apna Apna",
+      "Hera Pheri",
+      "Coolie No. 1",
+      "Judwaa"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian cricket legend known as 'The Wall'.",
+    "mediaUrl": "https://picsum.photos/seed/Rahul%20Dravid%201990s%20India%20Bolly/600/400",
+    "options": [
+      "Rahul Dravid",
+      "VVS Laxman",
+      "Sachin Tendulkar",
+      "Sourav Ganguly"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this famous 90s Indian VJ.",
+    "mediaUrl": "https://picsum.photos/seed/Cyrus%20Broacha%201990s%20India%20Boll/600/400",
+    "options": [
+      "Cyrus Broacha",
+      "Nikhil Chinapa",
+      "Malaika Arora",
+      "Cyrus Sahukar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which 90s Indian TV show featured this iconic title track?",
+    "mediaUrl": "https://picsum.photos/seed/Malgudi%20Days%201990s%20India%20Bolly/600/400",
+    "options": [
+      "Malgudi Days",
+      "Dekh Bhai Dekh",
+      "Hum Paanch",
+      "Flop Show"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian indie pop singer.",
+    "mediaUrl": "https://picsum.photos/seed/Lucky%20Ali%201990s%20India%20Bollywoo/600/400",
+    "options": [
+      "Lucky Ali",
+      "Shaan",
+      "Sonu Nigam",
+      "Abhijeet"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian snack?",
+    "mediaUrl": "https://picsum.photos/seed/Uncle%20Chipps%201990s%20India%20Bolly/600/400",
+    "options": [
+      "Uncle Chipps",
+      "Crax",
+      "Kurkure",
+      "Cheetos"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this popular 90s Indian TV show about a school.",
+    "mediaUrl": "https://picsum.photos/seed/Hip%20Hip%20Hurray%201990s%20India%20Bol/600/400",
+    "options": [
+      "Hip Hip Hurray",
+      "Just Mohabbat",
+      "Remix",
+      "Left Right Left"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this legendary 90s Bollywood movie scene.",
+    "mediaUrl": "https://picsum.photos/seed/Kuch%20Kuch%20Hota%20Hai%20(Basketball/600/400",
+    "options": [
+      "Kuch Kuch Hota Hai (Basketball)",
+      "Dil To Pagal Hai",
+      "Biwi No. 1",
+      "Pyaar Kiya To Darna Kya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this 90s Indian comic book character.",
+    "mediaUrl": "https://picsum.photos/seed/Chacha%20Chaudhary%201990s%20India%20B/600/400",
+    "options": [
+      "Chacha Chaudhary",
+      "Tenali Rama",
+      "Bankelal",
+      "Super Commando Dhruva"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which classic 90s Indian cartoon show featured a lab?",
+    "mediaUrl": "https://picsum.photos/seed/Dexter's%20Laboratory%201990s%20Indi/600/400",
+    "options": [
+      "Dexter's Laboratory",
+      "Johnny Bravo",
+      "Powerpuff Girls",
+      "Ed, Edd n Eddy"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian advertisement.",
+    "mediaUrl": "https://picsum.photos/seed/Dhara%20Cooking%20Oil%20(Jalebi)%20199/600/400",
+    "options": [
+      "Dhara Cooking Oil (Jalebi)",
+      "Complan",
+      "Bournvita",
+      "Horlicks"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian TV show robot?",
+    "mediaUrl": "https://picsum.photos/seed/Karishma%201990s%20India%20Bollywood/600/400",
+    "options": [
+      "Karishma",
+      "Vicky",
+      "Jadoo",
+      "Sonu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this classic 90s Indian pop group.",
+    "mediaUrl": "https://picsum.photos/seed/Viva%201990s%20India%20Bollywood%20TV%20/600/400",
+    "options": [
+      "Viva",
+      "Band of Boys",
+      "Aasma",
+      "Models"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian cricket moment.",
+    "mediaUrl": "https://picsum.photos/seed/Desert%20Storm%20(Sachin%201998)%20199/600/400",
+    "options": [
+      "Desert Storm (Sachin 1998)",
+      "1992 World Cup",
+      "Anil Kumble 10 wickets",
+      "Venkatesh Prasad vs Aamir Sohail"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this famous 90s Indian TV show.",
+    "mediaUrl": "https://picsum.photos/seed/Office%20Office%201990s%20India%20Boll/600/400",
+    "options": [
+      "Office Office",
+      "Flop Show",
+      "Dekh Bhai Dekh",
+      "Zabaan Sambhalke"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which 90s Indian movie featured this iconic friendship?",
+    "mediaUrl": "https://picsum.photos/seed/Dil%20Chahta%20Hai%201990s%20India%20Bol/600/400",
+    "options": [
+      "Dil Chahta Hai",
+      "Zindagi Na Milegi Dobara",
+      "Rang De Basanti",
+      "Hera Pheri"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this popular 90s Indian children's program.",
+    "mediaUrl": "https://picsum.photos/seed/Bournvita%20Quiz%20Contest%201990s%20I/600/400",
+    "options": [
+      "Bournvita Quiz Contest",
+      "Takeshi's Castle",
+      "M.A.D",
+      "Art Attack"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian video game?",
+    "mediaUrl": "https://picsum.photos/seed/Contra%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Contra",
+      "Super Mario Bros",
+      "Adventure Island",
+      "Duck Hunt"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this iconic 90s Indian pop song.",
+    "mediaUrl": "https://picsum.photos/seed/Pari%20Hoon%20Main%201990s%20India%20Bol/600/400",
+    "options": [
+      "Pari Hoon Main",
+      "Yaad Piya Ki Aane Lagi",
+      "Piya Basanti",
+      "Deewana Tera"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian Bollywood actor.",
+    "mediaUrl": "https://picsum.photos/seed/Shah%20Rukh%20Khan%201990s%20India%20Bol/600/400",
+    "options": [
+      "Shah Rukh Khan",
+      "Salman Khan",
+      "Aamir Khan",
+      "Akshay Kumar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this 90s Indian comic book publisher.",
+    "mediaUrl": "https://picsum.photos/seed/Raj%20Comics%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Raj Comics",
+      "Diamond Comics",
+      "Amar Chitra Katha",
+      "Gotham Comics"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which classic 90s Indian TV show featured this family?",
+    "mediaUrl": "https://picsum.photos/seed/Dekh%20Bhai%20Dekh%201990s%20India%20Bol/600/400",
+    "options": [
+      "Dekh Bhai Dekh",
+      "Hum Paanch",
+      "Tu Tu Main Main",
+      "Shrimaan Shrimati"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian advertisement jingle.",
+    "mediaUrl": "https://picsum.photos/seed/Washing%20Powder%20Nirma%201990s%20Ind/600/400",
+    "options": [
+      "Washing Powder Nirma",
+      "Babul Ki Duayen",
+      "Vicco Turmeric",
+      "Zandu Balm"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian soft drink brand?",
+    "mediaUrl": "https://picsum.photos/seed/Citra%201990s%20India%20Bollywood%20TV/600/400",
+    "options": [
+      "Citra",
+      "Gold Spot",
+      "Limca",
+      "Campa Cola"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this popular 90s Indian TV show.",
+    "mediaUrl": "https://picsum.photos/seed/Surabhi%201990s%20India%20Bollywood%20/600/400",
+    "options": [
+      "Surabhi",
+      "Khana Khazana",
+      "Antakshari",
+      "Sa Re Ga Ma Pa"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian music television channel.",
+    "mediaUrl": "https://picsum.photos/seed/Channel%20V%201990s%20India%20Bollywoo/600/400",
+    "options": [
+      "Channel V",
+      "MTV India",
+      "B4U Music",
+      "9XM"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian superhero character.",
+    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Shaktimaan",
+      "Captain Vyom",
+      "Junior G",
+      "Aryaman"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this popular 90s Indian TV show about a magical pencil.",
+    "mediaUrl": "https://picsum.photos/seed/Shaka%20Laka%20Boom%20Boom%201990s%20Ind/600/400",
+    "options": [
+      "Shaka Laka Boom Boom",
+      "Son Pari",
+      "Shararat",
+      "Hatim"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian cartoon character?",
+    "mediaUrl": "https://picsum.photos/seed/Mowgli%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Mowgli",
+      "Chhota Bheem",
+      "Dexter",
+      "Baloo"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian pop indie band.",
+    "mediaUrl": "https://picsum.photos/seed/Euphoria%201990s%20India%20Bollywood/600/400",
+    "options": [
+      "Euphoria",
+      "Silk Route",
+      "Bombay Vikings",
+      "Aryans"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which famous 90s Bollywood movie features this train scene?",
+    "mediaUrl": "https://picsum.photos/seed/Dilwale%20Dulhania%20Le%20Jayenge%2019/600/400",
+    "options": [
+      "Dilwale Dulhania Le Jayenge",
+      "Kuch Kuch Hota Hai",
+      "Dil To Pagal Hai",
+      "Hum Aapke Hain Koun"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this legendary 90s video game console popular in India.",
+    "mediaUrl": "https://picsum.photos/seed/Terminator%202%20(8-bit)%201990s%20Ind/600/400",
+    "options": [
+      "Terminator 2 (8-bit)",
+      "PlayStation 1",
+      "Sega Mega Drive",
+      "Nintendo 64"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this iconic 90s Indian advertisement character.",
+    "mediaUrl": "https://picsum.photos/seed/Boomer%20Man%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Boomer Man",
+      "Parle G Girl",
+      "Nirma Girl",
+      "Amul Girl"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this classic 90s Indian comic book superhero.",
+    "mediaUrl": "https://picsum.photos/seed/Nagraj%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Nagraj",
+      "Doga",
+      "Super Commando Dhruva",
+      "Bheriya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which 90s Indian TV show featured these five sisters?",
+    "mediaUrl": "https://picsum.photos/seed/Hum%20Paanch%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Hum Paanch",
+      "Dekh Bhai Dekh",
+      "Tu Tu Main Main",
+      "Zabaan Sambhalke"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this legendary 90s Bollywood playback singer (male).",
+    "mediaUrl": "https://picsum.photos/seed/Kumar%20Sanu%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Kumar Sanu",
+      "Udit Narayan",
+      "Abhijeet Bhattacharya",
+      "Sonu Nigam"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this popular 90s Indian candy.",
+    "mediaUrl": "https://picsum.photos/seed/Phantom%20Sweet%20Cigarettes%201990s/600/400",
+    "options": [
+      "Phantom Sweet Cigarettes",
+      "Kismi Bar",
+      "Mango Bite",
+      "Swad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian soft drink?",
+    "mediaUrl": "https://picsum.photos/seed/Gold%20Spot%201990s%20India%20Bollywoo/600/400",
+    "options": [
+      "Gold Spot",
+      "Campa Cola",
+      "Citra",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this iconic 90s Indian music video.",
+    "mediaUrl": "https://picsum.photos/seed/Made%20in%20India%20(Alisha%20Chinai)%20/600/400",
+    "options": [
+      "Made in India (Alisha Chinai)",
+      "Pari Hoon Main",
+      "Yaad Piya Ki Aane Lagi",
+      "Gud Naal Ishq Mitha"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian cricket captain.",
+    "mediaUrl": "https://picsum.photos/seed/Mohammad%20Azharuddin%201990s%20Indi/600/400",
+    "options": [
+      "Mohammad Azharuddin",
+      "Sachin Tendulkar",
+      "Sourav Ganguly",
+      "Rahul Dravid"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this famous 90s Indian TV show host.",
+    "mediaUrl": "https://picsum.photos/seed/Siddhartha%20Basu%201990s%20India%20Bo/600/400",
+    "options": [
+      "Siddhartha Basu",
+      "Roshan Abbas",
+      "Aman Verma",
+      "Cyrus Broacha"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which classic 90s Indian cartoon show is this?",
+    "mediaUrl": "https://picsum.photos/seed/Jungle%20Book%20(Anime)%201990s%20Indi/600/400",
+    "options": [
+      "Jungle Book (Anime)",
+      "TaleSpin",
+      "DuckTales",
+      "Swat Kats"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian movie villain.",
+    "mediaUrl": "https://picsum.photos/seed/Crime%20Master%20Gogo%201990s%20India%20/600/400",
+    "options": [
+      "Crime Master Gogo",
+      "Mogambo",
+      "Shakaal",
+      "Kancha Cheena"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian TV show alien?",
+    "mediaUrl": "https://picsum.photos/seed/Jadoo%201990s%20India%20Bollywood%20TV/600/400",
+    "options": [
+      "Jadoo",
+      "Karishma (Robot)",
+      "Vicky",
+      "Son Pari"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this legendary 90s Indian pop song.",
+    "mediaUrl": "https://picsum.photos/seed/Tunak%20Tunak%20Tun%201990s%20India%20Bo/600/400",
+    "options": [
+      "Tunak Tunak Tun",
+      "Ho Jayegi Balle Balle",
+      "Bolo Ta Ra Ra",
+      "Dardi Rab Rab"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this classic 90s Indian video game.",
+    "mediaUrl": "https://picsum.photos/seed/Super%20Mario%20Bros%201990s%20India%20B/600/400",
+    "options": [
+      "Super Mario Bros",
+      "Contra",
+      "Adventure Island",
+      "Duck Hunt"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this 90s Indian TV show about a detective.",
+    "mediaUrl": "https://picsum.photos/seed/Byomkesh%20Bakshi%201990s%20India%20Bo/600/400",
+    "options": [
+      "Byomkesh Bakshi",
+      "CID",
+      "Karamchand",
+      "Tehkikaat"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which iconic 90s Indian advertisement featured a waterfall?",
+    "mediaUrl": "https://picsum.photos/seed/Liril%20Soap%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Liril Soap",
+      "Cinthol",
+      "Lux",
+      "Lifebuoy"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this popular 90s Indian magazine for kids.",
+    "mediaUrl": "https://picsum.photos/seed/Tinkle%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Tinkle",
+      "Champak",
+      "Chandamama",
+      "Target"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian TV show magical fairy?",
+    "mediaUrl": "https://picsum.photos/seed/Son%20Pari%201990s%20India%20Bollywood/600/400",
+    "options": [
+      "Son Pari",
+      "Shararat",
+      "Shaka Laka Boom Boom",
+      "Hatim"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this classic 90s Indian Bollywood movie.",
+    "mediaUrl": "https://picsum.photos/seed/Andaz%20Apna%20Apna%201990s%20India%20Bo/600/400",
+    "options": [
+      "Andaz Apna Apna",
+      "Hera Pheri",
+      "Coolie No. 1",
+      "Judwaa"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian cricket legend known as 'The Wall'.",
+    "mediaUrl": "https://picsum.photos/seed/Rahul%20Dravid%201990s%20India%20Bolly/600/400",
+    "options": [
+      "Rahul Dravid",
+      "VVS Laxman",
+      "Sachin Tendulkar",
+      "Sourav Ganguly"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this famous 90s Indian VJ.",
+    "mediaUrl": "https://picsum.photos/seed/Cyrus%20Broacha%201990s%20India%20Boll/600/400",
+    "options": [
+      "Cyrus Broacha",
+      "Nikhil Chinapa",
+      "Malaika Arora",
+      "Cyrus Sahukar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which 90s Indian TV show featured this iconic title track?",
+    "mediaUrl": "https://picsum.photos/seed/Malgudi%20Days%201990s%20India%20Bolly/600/400",
+    "options": [
+      "Malgudi Days",
+      "Dekh Bhai Dekh",
+      "Hum Paanch",
+      "Flop Show"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian indie pop singer.",
+    "mediaUrl": "https://picsum.photos/seed/Lucky%20Ali%201990s%20India%20Bollywoo/600/400",
+    "options": [
+      "Lucky Ali",
+      "Shaan",
+      "Sonu Nigam",
+      "Abhijeet"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian snack?",
+    "mediaUrl": "https://picsum.photos/seed/Uncle%20Chipps%201990s%20India%20Bolly/600/400",
+    "options": [
+      "Uncle Chipps",
+      "Crax",
+      "Kurkure",
+      "Cheetos"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this popular 90s Indian TV show about a school.",
+    "mediaUrl": "https://picsum.photos/seed/Hip%20Hip%20Hurray%201990s%20India%20Bol/600/400",
+    "options": [
+      "Hip Hip Hurray",
+      "Just Mohabbat",
+      "Remix",
+      "Left Right Left"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this legendary 90s Bollywood movie scene.",
+    "mediaUrl": "https://picsum.photos/seed/Kuch%20Kuch%20Hota%20Hai%20(Basketball/600/400",
+    "options": [
+      "Kuch Kuch Hota Hai (Basketball)",
+      "Dil To Pagal Hai",
+      "Biwi No. 1",
+      "Pyaar Kiya To Darna Kya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this 90s Indian comic book character.",
+    "mediaUrl": "https://picsum.photos/seed/Chacha%20Chaudhary%201990s%20India%20B/600/400",
+    "options": [
+      "Chacha Chaudhary",
+      "Tenali Rama",
+      "Bankelal",
+      "Super Commando Dhruva"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which classic 90s Indian cartoon show featured a lab?",
+    "mediaUrl": "https://picsum.photos/seed/Dexter's%20Laboratory%201990s%20Indi/600/400",
+    "options": [
+      "Dexter's Laboratory",
+      "Johnny Bravo",
+      "Powerpuff Girls",
+      "Ed, Edd n Eddy"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian advertisement.",
+    "mediaUrl": "https://picsum.photos/seed/Dhara%20Cooking%20Oil%20(Jalebi)%20199/600/400",
+    "options": [
+      "Dhara Cooking Oil (Jalebi)",
+      "Complan",
+      "Bournvita",
+      "Horlicks"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian TV show robot?",
+    "mediaUrl": "https://picsum.photos/seed/Karishma%201990s%20India%20Bollywood/600/400",
+    "options": [
+      "Karishma",
+      "Vicky",
+      "Jadoo",
+      "Sonu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this classic 90s Indian pop group.",
+    "mediaUrl": "https://picsum.photos/seed/Viva%201990s%20India%20Bollywood%20TV%20/600/400",
+    "options": [
+      "Viva",
+      "Band of Boys",
+      "Aasma",
+      "Models"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian cricket moment.",
+    "mediaUrl": "https://picsum.photos/seed/Desert%20Storm%20(Sachin%201998)%20199/600/400",
+    "options": [
+      "Desert Storm (Sachin 1998)",
+      "1992 World Cup",
+      "Anil Kumble 10 wickets",
+      "Venkatesh Prasad vs Aamir Sohail"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this famous 90s Indian TV show.",
+    "mediaUrl": "https://picsum.photos/seed/Office%20Office%201990s%20India%20Boll/600/400",
+    "options": [
+      "Office Office",
+      "Flop Show",
+      "Dekh Bhai Dekh",
+      "Zabaan Sambhalke"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which 90s Indian movie featured this iconic friendship?",
+    "mediaUrl": "https://picsum.photos/seed/Dil%20Chahta%20Hai%201990s%20India%20Bol/600/400",
+    "options": [
+      "Dil Chahta Hai",
+      "Zindagi Na Milegi Dobara",
+      "Rang De Basanti",
+      "Hera Pheri"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this popular 90s Indian children's program.",
+    "mediaUrl": "https://picsum.photos/seed/Bournvita%20Quiz%20Contest%201990s%20I/600/400",
+    "options": [
+      "Bournvita Quiz Contest",
+      "Takeshi's Castle",
+      "M.A.D",
+      "Art Attack"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this classic 90s Indian video game?",
+    "mediaUrl": "https://picsum.photos/seed/Contra%201990s%20India%20Bollywood%20T/600/400",
+    "options": [
+      "Contra",
+      "Super Mario Bros",
+      "Adventure Island",
+      "Duck Hunt"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this iconic 90s Indian pop song.",
+    "mediaUrl": "https://picsum.photos/seed/Pari%20Hoon%20Main%201990s%20India%20Bol/600/400",
+    "options": [
+      "Pari Hoon Main",
+      "Yaad Piya Ki Aane Lagi",
+      "Piya Basanti",
+      "Deewana Tera"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian Bollywood actor.",
+    "mediaUrl": "https://picsum.photos/seed/Shah%20Rukh%20Khan%201990s%20India%20Bol/600/400",
+    "options": [
+      "Shah Rukh Khan",
+      "Salman Khan",
+      "Aamir Khan",
+      "Akshay Kumar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Name this 90s Indian comic book publisher.",
+    "mediaUrl": "https://picsum.photos/seed/Raj%20Comics%201990s%20India%20Bollywo/600/400",
+    "options": [
+      "Raj Comics",
+      "Diamond Comics",
+      "Amar Chitra Katha",
+      "Gotham Comics"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Which classic 90s Indian TV show featured this family?",
+    "mediaUrl": "https://picsum.photos/seed/Dekh%20Bhai%20Dekh%201990s%20India%20Bol/600/400",
+    "options": [
+      "Dekh Bhai Dekh",
+      "Hum Paanch",
+      "Tu Tu Main Main",
+      "Shrimaan Shrimati"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this iconic 90s Indian advertisement jingle.",
+    "mediaUrl": "https://picsum.photos/seed/Washing%20Powder%20Nirma%201990s%20Ind/600/400",
+    "options": [
+      "Washing Powder Nirma",
+      "Babul Ki Duayen",
+      "Vicco Turmeric",
+      "Zandu Balm"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "What is the name of this 90s Indian soft drink brand?",
+    "mediaUrl": "https://picsum.photos/seed/Citra%201990s%20India%20Bollywood%20TV/600/400",
+    "options": [
+      "Citra",
+      "Gold Spot",
+      "Limca",
+      "Campa Cola"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Guess this popular 90s Indian TV show.",
+    "mediaUrl": "https://picsum.photos/seed/Surabhi%201990s%20India%20Bollywood%20/600/400",
+    "options": [
+      "Surabhi",
+      "Khana Khazana",
+      "Antakshari",
+      "Sa Re Ga Ma Pa"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "image",
+    "question": "Identify this 90s Indian music television channel.",
+    "mediaUrl": "https://picsum.photos/seed/Channel%20V%201990s%20India%20Bollywoo/600/400",
+    "options": [
+      "Channel V",
+      "MTV India",
+      "B4U Music",
+      "9XM"
+    ],
+    "correctOption": 0
+  }
+]

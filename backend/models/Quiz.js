@@ -4,7 +4,7 @@ const quizSchema = new mongoose.Schema({
     era: {
         type: String,
         required: true,
-        enum: ['80s', '90s', 'Millennials', 'GenZ']
+        enum: ['GenX', 'GenY', 'GenZ', 'GenAlpha']
     },
     question: {
         type: String,
@@ -12,7 +12,7 @@ const quizSchema = new mongoose.Schema({
     },
     type: {
         type: String,
-        enum: ['text', 'image', 'audio'],
+        enum: ['text', 'image', 'audio', 'video'],
         default: 'text'
     },
     mediaUrl: {

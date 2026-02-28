@@ -1,0 +1,1890 @@
+[
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which 1975 Bollywood film featured the iconic duo Jai and Veeru?",
+    "options": [
+      "Deewar",
+      "Sholay",
+      "Don",
+      "Zanjeer"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "What was Amitabh Bachchan's character name in 'Deewar' (1975)?",
+    "options": [
+      "Jai",
+      "Vijay",
+      "Ravi",
+      "Shashi"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which actress played Helen in Sholay?",
+    "options": [
+      "Hema Malini",
+      "Jaya Bachchan",
+      "Rekha",
+      "Zeenat Aman"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Doordarshan's national channel started colour broadcasting in India in which year?",
+    "options": [
+      "1975",
+      "1982",
+      "1985",
+      "1990"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Indian singer was known as 'Melody Queen of India' in the 70s?",
+    "options": [
+      "Asha Bhosle",
+      "Lata Mangeshkar",
+      "Geeta Dutt",
+      "Usha Uthup"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "'Mere paas maa hai' is a legendary dialogue from which film?",
+    "options": [
+      "Deewar",
+      "Sholay",
+      "Trishul",
+      "Shakti"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which national TV serial about the Mahabharata aired on Doordarshan in 1988?",
+    "options": [
+      "Ramayana",
+      "Mahabharat",
+      "Chanakya",
+      "Bharat Ek Khoj"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Who directed the blockbuster 1975 film 'Sholay'?",
+    "options": [
+      "Yash Chopra",
+      "Manmohan Desai",
+      "Ramesh Sippy",
+      "Raj Kapoor"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Indian cricketer scored 365* in a single Test innings in 1958?",
+    "options": [
+      "Sunil Gavaskar",
+      "Vijay Hazare",
+      "Gundappa Viswanath",
+      "Garfield Sobers"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Doordarshan show brought weekly Hindi films to Indian homes in the 80s?",
+    "options": [
+      "Chitrahar",
+      "Chitrahaar",
+      "Sunday Film",
+      "DD National Movie"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which actress was the biggest star of Bollywood in the 1970s alongside Amitabh Bachchan?",
+    "options": [
+      "Rekha",
+      "Hema Malini",
+      "Zeenat Aman",
+      "Sharmila Tagore"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "'Ek Chidiya Anek Chidiya' was a famous animated short on which TV channel?",
+    "options": [
+      "Zee TV",
+      "DD National",
+      "Star Plus",
+      "Sony"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Indian athlete won India's first individual Olympic gold medal in 2008?",
+    "options": [
+      "Milkha Singh",
+      "P.T. Usha",
+      "Abhinav Bindra",
+      "Leander Paes"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Sunil Gavaskar retired from cricket with how many Test centuries?",
+    "options": [
+      "29",
+      "34",
+      "33",
+      "31"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which vendor sold 'Aam Papad', 'Imli candy', and 'Khatta Meetha' snacks near schools in the 70s-80s?",
+    "options": [
+      "Halwai",
+      "Chaatwala",
+      "Pansari",
+      "Bhelwala"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Hindi serial about a detective named Karamchand was hugely popular on DD?",
+    "options": [
+      "Byomkesh Bakshi",
+      "Karamchand",
+      "CID",
+      "Inspector Vikram"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "'Chitchor' (1976) starred which beloved actress?",
+    "options": [
+      "Hema Malini",
+      "Zeenat Aman",
+      "Vidya Sinha",
+      "Jaya Bhaduri"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "R.D. Burman (Pancham da) was the son of which iconic music director?",
+    "options": [
+      "Naushad",
+      "S.D. Burman",
+      "O.P. Nayyar",
+      "Shankar"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which 1983 Bollywood film made Sridevi a national sensation?",
+    "options": [
+      "Himmatwala",
+      "Mr. India",
+      "Lamhe",
+      "Nagina"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "India won its first Cricket World Cup in which year?",
+    "options": [
+      "1979",
+      "1981",
+      "1983",
+      "1987"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "The slogan 'Hamara Bajaj' belongs to which iconic Indian brand?",
+    "options": [
+      "Hero Honda",
+      "TVS",
+      "Bajaj",
+      "Kinetic Honda"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Hindi serial followed the Nehru family's history and aired on DD National?",
+    "options": [
+      "Bharat Ek Khoj",
+      "The Sword of Tipu Sultan",
+      "Chanakya",
+      "Buniyaad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "'Karz' (1980) was the debut of which iconic actor's hit comeback performance?",
+    "options": [
+      "Rajesh Khanna",
+      "Rishi Kapoor",
+      "Jeetendra",
+      "Dharmendra"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Hindi song became India's unofficial second anthem after independence?",
+    "options": [
+      "Saare Jahan Se Accha",
+      "Jana Gana Mana",
+      "Vande Mataram",
+      "Ae Mere Watan Ke Logon"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "The Ramayana serial on Doordarshan was directed by which filmmaker?",
+    "options": [
+      "B.R. Chopra",
+      "Ramesh Sippy",
+      "Ramanand Sagar",
+      "Sagar Productions"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which actress played Basanti in 'Sholay'?",
+    "options": [
+      "Rekha",
+      "Hema Malini",
+      "Jaya Bhaduri",
+      "Mumtaz"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "What was the first commercial Hindi film to use Indian classical music as BGM by master composer Ravi Shankar?",
+    "options": [
+      "Mughal-e-Azam",
+      "Guide",
+      "Pather Panchali",
+      "Deewar"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Milkha Singh is popularly known as the '___ of India'?",
+    "options": [
+      "Flying Sikh",
+      "Running Tiger",
+      "Speed Legend",
+      "Golden Runner"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which legendary Bollywood villain's catchphrase was 'Main hoon Don'?",
+    "options": [
+      "Mogambo",
+      "Don",
+      "Gabbar Singh",
+      "Shakaal"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "The famous 'Gabbar Singh' character from Sholay was played by which actor?",
+    "options": [
+      "Dharmendra",
+      "Sanjeev Kumar",
+      "Amjad Khan",
+      "Prem Chopra"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which iconic 70s ad featured the line 'Nirma washing powder – Nirma'?",
+    "options": [
+      "Rin",
+      "Surf",
+      "Nirma",
+      "Ariel"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Bollywood film is credited with creating the 'angry young man' image of Amitabh?",
+    "options": [
+      "Namak Haraam",
+      "Zanjeer",
+      "Sholay",
+      "Deewar"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Kishore Kumar's real name was?",
+    "options": [
+      "Abhaskar Ganguly",
+      "Abhas Kumar Ganguly",
+      "Kishanlal Ganguly",
+      "Krishnachandra Ganguly"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Indian city was called the 'Manchester of India' due to its textile mills?",
+    "options": [
+      "Kolkata",
+      "Mumbai",
+      "Ahmedabad",
+      "Surat"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which classic Indian game involves drawing squares and hopping on one leg?",
+    "options": [
+      "Kho Kho",
+      "Pitthu",
+      "Stapoo (Hopscotch)",
+      "Gilli Danda"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which legendary playback singer was known as 'Rafi Sahab'?",
+    "options": [
+      "Kishore Kumar",
+      "Mukesh",
+      "Mohammad Rafi",
+      "Talat Mahmood"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Bollywood film featured the song 'Mere Sapno Ki Rani'?",
+    "options": [
+      "Aradhana",
+      "Kati Patang",
+      "Amar Prem",
+      "Anand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "'Uski Roti' and 'Bhuvan Shome' were celebrated films of which Indian parallel cinema movement?",
+    "options": [
+      "New Wave Cinema",
+      "Parallel Cinema",
+      "Art Film Era",
+      "New Indian Cinema"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which popular Doordarshan show was the first Indian soap opera?",
+    "options": [
+      "Hum Log",
+      "Buniyaad",
+      "Nukkad",
+      "Shanti"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Sachin Tendulkar made his Test debut against Pakistan in which year?",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "What did Indian kids call the metal spinning top toy they would play with?",
+    "options": [
+      "Bhonpu",
+      "Lattu",
+      "Gilli",
+      "Chakkar"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which 70s Bollywood villain was famous for the dialogue 'Mogambo Khush Hua'?",
+    "options": [
+      "Shakaal",
+      "Gabbar Singh",
+      "Mogambo",
+      "Samson"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "The Filmfare Award for Best Film in 1975 was won by?",
+    "options": [
+      "Sholay",
+      "Deewar",
+      "Aandhi",
+      "Mili"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which Indian brand had the slogan 'Thanda matlab Coca-Cola'?",
+    "options": [
+      "Pepsi",
+      "Coca-Cola",
+      "Thums Up",
+      "Limca"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Who composed the music for 'Mughal-e-Azam' (1960)?",
+    "options": [
+      "S.D. Burman",
+      "Naushad",
+      "Shankar-Jaikishen",
+      "Ravi"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which game involved hitting a target made of 7 stones piled up?",
+    "options": [
+      "Kho Kho",
+      "Langdi",
+      "Pitthu",
+      "Kabaddi"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "Which channel was India's first national television network?",
+    "options": [
+      "Star Plus",
+      "Zee TV",
+      "Doordarshan",
+      "Sony Entertainment"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "'Dum Maaro Dum' is a famous song from which 1971 Bollywood film?",
+    "options": [
+      "Hare Rama Hare Krishna",
+      "Sholay",
+      "Aradhana",
+      "Julie"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "text",
+    "question": "The famous paan brand 'Pan Parag' had which celebrity as its first brand ambassador?",
+    "options": [
+      "Rajesh Khanna",
+      "Amitabh Bachchan",
+      "Dharmendra",
+      "Rishi Kapoor"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this iconic 1975 Bollywood movie villain.",
+    "mediaUrl": "https://picsum.photos/seed/Gabbar%20Singh%201980s%20India%20Doord/600/400",
+    "options": [
+      "Gabbar Singh",
+      "Shakaal",
+      "Mogambo",
+      "Prem Chopra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 70s Bollywood actor is known as the 'Angry Young Man'?",
+    "mediaUrl": "https://picsum.photos/seed/Amitabh%20Bachchan%201980s%20India%20D/600/400",
+    "options": [
+      "Amitabh Bachchan",
+      "Rajesh Khanna",
+      "Dharmendra",
+      "Sanjeev Kumar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this popular 80s Doordarshan show featuring a superhero.",
+    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Shaktimaan",
+      "Captain Vyom",
+      "Junior G",
+      "Karma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this legendary singer known as the Melody Queen of India.",
+    "mediaUrl": "https://picsum.photos/seed/Lata%20Mangeshkar%201980s%20India%20Do/600/400",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Uma Devi",
+      "Geeta Dutt"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this classic Indian TV series based on an epic.",
+    "mediaUrl": "https://picsum.photos/seed/Ramayan%201980s%20India%20Doordarsha/600/400",
+    "options": [
+      "Ramayan",
+      "Mahabharat",
+      "Chanakya",
+      "Bharat Ek Khoj"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which famous 1983 World Cup winning captain is this?",
+    "mediaUrl": "https://picsum.photos/seed/Kapil%20Dev%201980s%20India%20Doordars/600/400",
+    "options": [
+      "Kapil Dev",
+      "Sunil Gavaskar",
+      "Ravi Shastri",
+      "Mohinder Amarnath"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this classic 1970s scooter brand from the image.",
+    "mediaUrl": "https://picsum.photos/seed/Bajaj%20Chetak%201980s%20India%20Doord/600/400",
+    "options": [
+      "Bajaj Chetak",
+      "Vespa",
+      "LML",
+      "Lambretta"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this popular 80s Indian comic character in red turbans.",
+    "mediaUrl": "https://picsum.photos/seed/Chacha%20Chaudhary%201980s%20India%20D/600/400",
+    "options": [
+      "Chacha Chaudhary",
+      "Tenali Rama",
+      "Nagraj",
+      "Super Commando Dhruva"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which iconic Indian playback singer (male) from the 70s is this?",
+    "mediaUrl": "https://picsum.photos/seed/Kishore%20Kumar%201980s%20India%20Door/600/400",
+    "options": [
+      "Kishore Kumar",
+      "Mohammed Rafi",
+      "Mukesh",
+      "Manna Dey"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this legendary Bollywood actress from the 70s.",
+    "mediaUrl": "https://picsum.photos/seed/Hema%20Malini%201980s%20India%20Doorda/600/400",
+    "options": [
+      "Hema Malini",
+      "Rekha",
+      "Zeenat Aman",
+      "Mumtaz"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this famous 1970s Indian cold drink brand.",
+    "mediaUrl": "https://picsum.photos/seed/Campa%20Cola%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Campa Cola",
+      "Thums Up",
+      "Gold Spot",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is the name of this classic 80s Indian car?",
+    "mediaUrl": "https://picsum.photos/seed/Maruti%20800%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Maruti 800",
+      "Premier Padmini",
+      "Hindustan Ambassador",
+      "Tata Estate"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this classic childhood candy from the 80s.",
+    "mediaUrl": "https://picsum.photos/seed/Mango%20Bite%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Mango Bite",
+      "Kismi Bar",
+      "Phantom Cigarettes",
+      "Melodi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this 70s movie scene of a coin toss.",
+    "mediaUrl": "https://picsum.photos/seed/Sholay%201980s%20India%20Doordarshan/600/400",
+    "options": [
+      "Sholay",
+      "Deewar",
+      "Zanjeer",
+      "Don"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this famous Indian parallel cinema director.",
+    "mediaUrl": "https://picsum.photos/seed/Satyajit%20Ray%201980s%20India%20Doord/600/400",
+    "options": [
+      "Satyajit Ray",
+      "Mrinal Sen",
+      "Ritwik Ghatak",
+      "Shyam Benegal"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which classic 80s advertisement featured an animated girl twisting?",
+    "mediaUrl": "https://picsum.photos/seed/Nirma%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Nirma",
+      "Amul",
+      "Liril",
+      "Babul"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this iconic 'Mogambo' actor from Mr. India.",
+    "mediaUrl": "https://picsum.photos/seed/Amrish%20Puri%201980s%20India%20Doorda/600/400",
+    "options": [
+      "Amrish Puri",
+      "Kader Khan",
+      "Pran",
+      "Anupam Kher"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 1971 war film is this iconic image from?",
+    "mediaUrl": "https://picsum.photos/seed/Border%201980s%20India%20Doordarshan/600/400",
+    "options": [
+      "Border",
+      "Haqeeqat",
+      "Prahaar",
+      "Vijeta"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this 80s Doordarshan serial about a joint family.",
+    "mediaUrl": "https://picsum.photos/seed/Hum%20Log%201980s%20India%20Doordarsha/600/400",
+    "options": [
+      "Hum Log",
+      "Buniyaad",
+      "Nukkad",
+      "Malgudi Days"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the Indian athlete known as the Flying Sikh.",
+    "mediaUrl": "https://picsum.photos/seed/Milkha%20Singh%201980s%20India%20Doord/600/400",
+    "options": [
+      "Milkha Singh",
+      "P.T. Usha",
+      "Dhyan Chand",
+      "Prakash Padukone"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which classical dancer from the 70s is shown here?",
+    "mediaUrl": "https://picsum.photos/seed/Pandit%20Birju%20Maharaj%201980s%20Ind/600/400",
+    "options": [
+      "Pandit Birju Maharaj",
+      "Rukmini Devi",
+      "Sonal Mansingh",
+      "Yamini Krishnamurthy"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess the movie showing an invisible man.",
+    "mediaUrl": "https://picsum.photos/seed/Mr.%20India%201980s%20India%20Doordars/600/400",
+    "options": [
+      "Mr. India",
+      "Shaan",
+      "Ajooba",
+      "Toofan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the actor playing the iconic 'Don' (1978).",
+    "mediaUrl": "https://picsum.photos/seed/Amitabh%20Bachchan%201980s%20India%20D/600/400",
+    "options": [
+      "Amitabh Bachchan",
+      "Rishi Kapoor",
+      "Shatrughan Sinha",
+      "Vinod Khanna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 80s Indian comic hero shoots snakes from his wrists?",
+    "mediaUrl": "https://picsum.photos/seed/Nagraj%201980s%20India%20Doordarshan/600/400",
+    "options": [
+      "Nagraj",
+      "Doga",
+      "Bhokal",
+      "Parmanu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this 1980s soft drink with 'The genuine taste'.",
+    "mediaUrl": "https://picsum.photos/seed/Thums%20Up%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "Thums Up",
+      "Pepsi",
+      "Campa Cola",
+      "Double Seven"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is the name of this vintage Indian bicycle brand?",
+    "mediaUrl": "https://picsum.photos/seed/Atlas%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Atlas",
+      "Hero",
+      "Hercules",
+      "Avon"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which classic Indian comic publisher created Chacha Chaudhary?",
+    "mediaUrl": "https://picsum.photos/seed/Diamond%20Comics%201980s%20India%20Doo/600/400",
+    "options": [
+      "Diamond Comics",
+      "Raj Comics",
+      "Amar Chitra Katha",
+      "Manoj Comics"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this Indian cartoon show about a boy in a village.",
+    "mediaUrl": "https://picsum.photos/seed/Malgudi%20Days%201980s%20India%20Doord/600/400",
+    "options": [
+      "Malgudi Days",
+      "Swami and Friends",
+      "Tenali Rama",
+      "Vikram Betaal"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this legendary 70s music director duo.",
+    "mediaUrl": "https://picsum.photos/seed/Laxmikant-Pyarelal%201980s%20India/600/400",
+    "options": [
+      "Laxmikant-Pyarelal",
+      "Kalyanji-Anandji",
+      "Shankar-Jaikishan",
+      "Vishal-Shekhar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which actress famously danced to 'Piya Tu Ab To Aaja'?",
+    "mediaUrl": "https://picsum.photos/seed/Helen%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Helen",
+      "Bindu",
+      "Aruna Irani",
+      "Jayshree T"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this iconic 80s Indian television set brand.",
+    "mediaUrl": "https://picsum.photos/seed/BPL%201980s%20India%20Doordarshan%20Bo/600/400",
+    "options": [
+      "BPL",
+      "Onida",
+      "Videocon",
+      "Salora"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is the name of the devil mascot of Onida TV?",
+    "mediaUrl": "https://picsum.photos/seed/Onida%20Devil%201980s%20India%20Doorda/600/400",
+    "options": [
+      "Onida Devil",
+      "Murphy Baby",
+      "Amul Girl",
+      "Nirma Girl"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this iconic 70s/80s audio cassette brand.",
+    "mediaUrl": "https://picsum.photos/seed/T-Series%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "T-Series",
+      "HMV",
+      "Venus",
+      "Tips"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which legendary batsman made his debut in 1989?",
+    "mediaUrl": "https://picsum.photos/seed/Sachin%20Tendulkar%201980s%20India%20D/600/400",
+    "options": [
+      "Sachin Tendulkar",
+      "Sunil Gavaskar",
+      "Mohammad Azharuddin",
+      "Sanjay Manjrekar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this famous 1983 World Cup winning moment.",
+    "mediaUrl": "https://picsum.photos/seed/Kapil%20Dev%20lifting%20trophy%201980s/600/400",
+    "options": [
+      "Kapil Dev lifting trophy",
+      "Gavaskar hitting a six",
+      "Amar Singh bowling",
+      "Roger Binny catching"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 80s Doordarshan news anchor is famous for her signature sarees?",
+    "mediaUrl": "https://picsum.photos/seed/Salma%20Sultan%201980s%20India%20Doord/600/400",
+    "options": [
+      "Salma Sultan",
+      "Gitanjali Aiyar",
+      "Neethi Ravindran",
+      "Rini Simon Khanna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the 'Amul Girl' from the classic advertisement.",
+    "mediaUrl": "https://picsum.photos/seed/Amul%20Girl%201980s%20India%20Doordars/600/400",
+    "options": [
+      "Amul Girl",
+      "Parle G Girl",
+      "Nirma Girl",
+      "Lijjat Papad Girl"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which film featured the hit song 'Mere Sapno Ki Rani' on a train?",
+    "mediaUrl": "https://picsum.photos/seed/Aradhana%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "Aradhana",
+      "Kati Patang",
+      "Amar Prem",
+      "Anand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this legendary villain 'Gabbar' actor.",
+    "mediaUrl": "https://picsum.photos/seed/Amjad%20Khan%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Amjad Khan",
+      "Danny Denzongpa",
+      "Pran",
+      "Jeevan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the 80s television show 'Yeh Jo Hai Zindagi' star.",
+    "mediaUrl": "https://picsum.photos/seed/Shafi%20Inamdar%201980s%20India%20Door/600/400",
+    "options": [
+      "Shafi Inamdar",
+      "Satish Shah",
+      "Rakesh Bedi",
+      "Swaroop Sampat"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which Indian prime minister announced color TV in 1982?",
+    "mediaUrl": "https://picsum.photos/seed/Indira%20Gandhi%201980s%20India%20Door/600/400",
+    "options": [
+      "Indira Gandhi",
+      "Rajiv Gandhi",
+      "Morarji Desai",
+      "Charan Singh"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the classic orange flavored Indian candy.",
+    "mediaUrl": "https://picsum.photos/seed/Kismi%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Kismi",
+      "Phantom",
+      "Swad",
+      "Hajmola"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is this famous 70s street food from Mumbai?",
+    "mediaUrl": "https://picsum.photos/seed/Vada%20Pav%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "Vada Pav",
+      "Pav Bhaji",
+      "Bhel Puri",
+      "Pani Puri"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this 80s pop singer who sang 'Disco Deewane'.",
+    "mediaUrl": "https://picsum.photos/seed/Nazia%20Hassan%201980s%20India%20Doord/600/400",
+    "options": [
+      "Nazia Hassan",
+      "Alisha Chinai",
+      "Usha Uthup",
+      "Salma Agha"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this classic Indian board game played with cowrie shells.",
+    "mediaUrl": "https://picsum.photos/seed/Pachisi%20%2F%20Ludo%201980s%20India%20Doo/600/400",
+    "options": [
+      "Pachisi / Ludo",
+      "Carrom",
+      "Chess",
+      "Snakes and Ladders"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which legendary Indian actor plays 'Anand' in this 1971 movie?",
+    "mediaUrl": "https://picsum.photos/seed/Rajesh%20Khanna%201980s%20India%20Door/600/400",
+    "options": [
+      "Rajesh Khanna",
+      "Amitabh Bachchan",
+      "Dev Anand",
+      "Shammi Kapoor"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the Indian superhero played by Mukesh Khanna.",
+    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Shaktimaan",
+      "Aryaman",
+      "Junior G",
+      "Karma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 1980s kids show featured a ghost named Betaal?",
+    "mediaUrl": "https://picsum.photos/seed/Vikram%20Aur%20Betaal%201980s%20India%20/600/400",
+    "options": [
+      "Vikram Aur Betaal",
+      "Chandrakanta",
+      "Alif Laila",
+      "Sinbad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this classic Indian soap brand showing a girl under a waterfall.",
+    "mediaUrl": "https://picsum.photos/seed/Liril%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Liril",
+      "Lux",
+      "Cinthol",
+      "Pears"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this famous 70s anti-hero from 'Zanjeer'.",
+    "mediaUrl": "https://picsum.photos/seed/Inspector%20Vijay%201980s%20India%20Do/600/400",
+    "options": [
+      "Inspector Vijay",
+      "Jai",
+      "Ravi",
+      "Don"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this iconic 1975 Bollywood movie villain.",
+    "mediaUrl": "https://picsum.photos/seed/Gabbar%20Singh%201980s%20India%20Doord/600/400",
+    "options": [
+      "Gabbar Singh",
+      "Shakaal",
+      "Mogambo",
+      "Prem Chopra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 70s Bollywood actor is known as the 'Angry Young Man'?",
+    "mediaUrl": "https://picsum.photos/seed/Amitabh%20Bachchan%201980s%20India%20D/600/400",
+    "options": [
+      "Amitabh Bachchan",
+      "Rajesh Khanna",
+      "Dharmendra",
+      "Sanjeev Kumar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this popular 80s Doordarshan show featuring a superhero.",
+    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Shaktimaan",
+      "Captain Vyom",
+      "Junior G",
+      "Karma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this legendary singer known as the Melody Queen of India.",
+    "mediaUrl": "https://picsum.photos/seed/Lata%20Mangeshkar%201980s%20India%20Do/600/400",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Uma Devi",
+      "Geeta Dutt"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this classic Indian TV series based on an epic.",
+    "mediaUrl": "https://picsum.photos/seed/Ramayan%201980s%20India%20Doordarsha/600/400",
+    "options": [
+      "Ramayan",
+      "Mahabharat",
+      "Chanakya",
+      "Bharat Ek Khoj"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which famous 1983 World Cup winning captain is this?",
+    "mediaUrl": "https://picsum.photos/seed/Kapil%20Dev%201980s%20India%20Doordars/600/400",
+    "options": [
+      "Kapil Dev",
+      "Sunil Gavaskar",
+      "Ravi Shastri",
+      "Mohinder Amarnath"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this classic 1970s scooter brand from the image.",
+    "mediaUrl": "https://picsum.photos/seed/Bajaj%20Chetak%201980s%20India%20Doord/600/400",
+    "options": [
+      "Bajaj Chetak",
+      "Vespa",
+      "LML",
+      "Lambretta"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this popular 80s Indian comic character in red turbans.",
+    "mediaUrl": "https://picsum.photos/seed/Chacha%20Chaudhary%201980s%20India%20D/600/400",
+    "options": [
+      "Chacha Chaudhary",
+      "Tenali Rama",
+      "Nagraj",
+      "Super Commando Dhruva"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which iconic Indian playback singer (male) from the 70s is this?",
+    "mediaUrl": "https://picsum.photos/seed/Kishore%20Kumar%201980s%20India%20Door/600/400",
+    "options": [
+      "Kishore Kumar",
+      "Mohammed Rafi",
+      "Mukesh",
+      "Manna Dey"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this legendary Bollywood actress from the 70s.",
+    "mediaUrl": "https://picsum.photos/seed/Hema%20Malini%201980s%20India%20Doorda/600/400",
+    "options": [
+      "Hema Malini",
+      "Rekha",
+      "Zeenat Aman",
+      "Mumtaz"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this famous 1970s Indian cold drink brand.",
+    "mediaUrl": "https://picsum.photos/seed/Campa%20Cola%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Campa Cola",
+      "Thums Up",
+      "Gold Spot",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is the name of this classic 80s Indian car?",
+    "mediaUrl": "https://picsum.photos/seed/Maruti%20800%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Maruti 800",
+      "Premier Padmini",
+      "Hindustan Ambassador",
+      "Tata Estate"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this classic childhood candy from the 80s.",
+    "mediaUrl": "https://picsum.photos/seed/Mango%20Bite%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Mango Bite",
+      "Kismi Bar",
+      "Phantom Cigarettes",
+      "Melodi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this 70s movie scene of a coin toss.",
+    "mediaUrl": "https://picsum.photos/seed/Sholay%201980s%20India%20Doordarshan/600/400",
+    "options": [
+      "Sholay",
+      "Deewar",
+      "Zanjeer",
+      "Don"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this famous Indian parallel cinema director.",
+    "mediaUrl": "https://picsum.photos/seed/Satyajit%20Ray%201980s%20India%20Doord/600/400",
+    "options": [
+      "Satyajit Ray",
+      "Mrinal Sen",
+      "Ritwik Ghatak",
+      "Shyam Benegal"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which classic 80s advertisement featured an animated girl twisting?",
+    "mediaUrl": "https://picsum.photos/seed/Nirma%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Nirma",
+      "Amul",
+      "Liril",
+      "Babul"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this iconic 'Mogambo' actor from Mr. India.",
+    "mediaUrl": "https://picsum.photos/seed/Amrish%20Puri%201980s%20India%20Doorda/600/400",
+    "options": [
+      "Amrish Puri",
+      "Kader Khan",
+      "Pran",
+      "Anupam Kher"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 1971 war film is this iconic image from?",
+    "mediaUrl": "https://picsum.photos/seed/Border%201980s%20India%20Doordarshan/600/400",
+    "options": [
+      "Border",
+      "Haqeeqat",
+      "Prahaar",
+      "Vijeta"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this 80s Doordarshan serial about a joint family.",
+    "mediaUrl": "https://picsum.photos/seed/Hum%20Log%201980s%20India%20Doordarsha/600/400",
+    "options": [
+      "Hum Log",
+      "Buniyaad",
+      "Nukkad",
+      "Malgudi Days"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the Indian athlete known as the Flying Sikh.",
+    "mediaUrl": "https://picsum.photos/seed/Milkha%20Singh%201980s%20India%20Doord/600/400",
+    "options": [
+      "Milkha Singh",
+      "P.T. Usha",
+      "Dhyan Chand",
+      "Prakash Padukone"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which classical dancer from the 70s is shown here?",
+    "mediaUrl": "https://picsum.photos/seed/Pandit%20Birju%20Maharaj%201980s%20Ind/600/400",
+    "options": [
+      "Pandit Birju Maharaj",
+      "Rukmini Devi",
+      "Sonal Mansingh",
+      "Yamini Krishnamurthy"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess the movie showing an invisible man.",
+    "mediaUrl": "https://picsum.photos/seed/Mr.%20India%201980s%20India%20Doordars/600/400",
+    "options": [
+      "Mr. India",
+      "Shaan",
+      "Ajooba",
+      "Toofan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the actor playing the iconic 'Don' (1978).",
+    "mediaUrl": "https://picsum.photos/seed/Amitabh%20Bachchan%201980s%20India%20D/600/400",
+    "options": [
+      "Amitabh Bachchan",
+      "Rishi Kapoor",
+      "Shatrughan Sinha",
+      "Vinod Khanna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 80s Indian comic hero shoots snakes from his wrists?",
+    "mediaUrl": "https://picsum.photos/seed/Nagraj%201980s%20India%20Doordarshan/600/400",
+    "options": [
+      "Nagraj",
+      "Doga",
+      "Bhokal",
+      "Parmanu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this 1980s soft drink with 'The genuine taste'.",
+    "mediaUrl": "https://picsum.photos/seed/Thums%20Up%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "Thums Up",
+      "Pepsi",
+      "Campa Cola",
+      "Double Seven"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is the name of this vintage Indian bicycle brand?",
+    "mediaUrl": "https://picsum.photos/seed/Atlas%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Atlas",
+      "Hero",
+      "Hercules",
+      "Avon"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which classic Indian comic publisher created Chacha Chaudhary?",
+    "mediaUrl": "https://picsum.photos/seed/Diamond%20Comics%201980s%20India%20Doo/600/400",
+    "options": [
+      "Diamond Comics",
+      "Raj Comics",
+      "Amar Chitra Katha",
+      "Manoj Comics"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this Indian cartoon show about a boy in a village.",
+    "mediaUrl": "https://picsum.photos/seed/Malgudi%20Days%201980s%20India%20Doord/600/400",
+    "options": [
+      "Malgudi Days",
+      "Swami and Friends",
+      "Tenali Rama",
+      "Vikram Betaal"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this legendary 70s music director duo.",
+    "mediaUrl": "https://picsum.photos/seed/Laxmikant-Pyarelal%201980s%20India/600/400",
+    "options": [
+      "Laxmikant-Pyarelal",
+      "Kalyanji-Anandji",
+      "Shankar-Jaikishan",
+      "Vishal-Shekhar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which actress famously danced to 'Piya Tu Ab To Aaja'?",
+    "mediaUrl": "https://picsum.photos/seed/Helen%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Helen",
+      "Bindu",
+      "Aruna Irani",
+      "Jayshree T"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this iconic 80s Indian television set brand.",
+    "mediaUrl": "https://picsum.photos/seed/BPL%201980s%20India%20Doordarshan%20Bo/600/400",
+    "options": [
+      "BPL",
+      "Onida",
+      "Videocon",
+      "Salora"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is the name of the devil mascot of Onida TV?",
+    "mediaUrl": "https://picsum.photos/seed/Onida%20Devil%201980s%20India%20Doorda/600/400",
+    "options": [
+      "Onida Devil",
+      "Murphy Baby",
+      "Amul Girl",
+      "Nirma Girl"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Guess this iconic 70s/80s audio cassette brand.",
+    "mediaUrl": "https://picsum.photos/seed/T-Series%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "T-Series",
+      "HMV",
+      "Venus",
+      "Tips"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which legendary batsman made his debut in 1989?",
+    "mediaUrl": "https://picsum.photos/seed/Sachin%20Tendulkar%201980s%20India%20D/600/400",
+    "options": [
+      "Sachin Tendulkar",
+      "Sunil Gavaskar",
+      "Mohammad Azharuddin",
+      "Sanjay Manjrekar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this famous 1983 World Cup winning moment.",
+    "mediaUrl": "https://picsum.photos/seed/Kapil%20Dev%20lifting%20trophy%201980s/600/400",
+    "options": [
+      "Kapil Dev lifting trophy",
+      "Gavaskar hitting a six",
+      "Amar Singh bowling",
+      "Roger Binny catching"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 80s Doordarshan news anchor is famous for her signature sarees?",
+    "mediaUrl": "https://picsum.photos/seed/Salma%20Sultan%201980s%20India%20Doord/600/400",
+    "options": [
+      "Salma Sultan",
+      "Gitanjali Aiyar",
+      "Neethi Ravindran",
+      "Rini Simon Khanna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the 'Amul Girl' from the classic advertisement.",
+    "mediaUrl": "https://picsum.photos/seed/Amul%20Girl%201980s%20India%20Doordars/600/400",
+    "options": [
+      "Amul Girl",
+      "Parle G Girl",
+      "Nirma Girl",
+      "Lijjat Papad Girl"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which film featured the hit song 'Mere Sapno Ki Rani' on a train?",
+    "mediaUrl": "https://picsum.photos/seed/Aradhana%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "Aradhana",
+      "Kati Patang",
+      "Amar Prem",
+      "Anand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this legendary villain 'Gabbar' actor.",
+    "mediaUrl": "https://picsum.photos/seed/Amjad%20Khan%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Amjad Khan",
+      "Danny Denzongpa",
+      "Pran",
+      "Jeevan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the 80s television show 'Yeh Jo Hai Zindagi' star.",
+    "mediaUrl": "https://picsum.photos/seed/Shafi%20Inamdar%201980s%20India%20Door/600/400",
+    "options": [
+      "Shafi Inamdar",
+      "Satish Shah",
+      "Rakesh Bedi",
+      "Swaroop Sampat"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which Indian prime minister announced color TV in 1982?",
+    "mediaUrl": "https://picsum.photos/seed/Indira%20Gandhi%201980s%20India%20Door/600/400",
+    "options": [
+      "Indira Gandhi",
+      "Rajiv Gandhi",
+      "Morarji Desai",
+      "Charan Singh"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the classic orange flavored Indian candy.",
+    "mediaUrl": "https://picsum.photos/seed/Kismi%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Kismi",
+      "Phantom",
+      "Swad",
+      "Hajmola"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "What is this famous 70s street food from Mumbai?",
+    "mediaUrl": "https://picsum.photos/seed/Vada%20Pav%201980s%20India%20Doordarsh/600/400",
+    "options": [
+      "Vada Pav",
+      "Pav Bhaji",
+      "Bhel Puri",
+      "Pani Puri"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this 80s pop singer who sang 'Disco Deewane'.",
+    "mediaUrl": "https://picsum.photos/seed/Nazia%20Hassan%201980s%20India%20Doord/600/400",
+    "options": [
+      "Nazia Hassan",
+      "Alisha Chinai",
+      "Usha Uthup",
+      "Salma Agha"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this classic Indian board game played with cowrie shells.",
+    "mediaUrl": "https://picsum.photos/seed/Pachisi%20%2F%20Ludo%201980s%20India%20Doo/600/400",
+    "options": [
+      "Pachisi / Ludo",
+      "Carrom",
+      "Chess",
+      "Snakes and Ladders"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which legendary Indian actor plays 'Anand' in this 1971 movie?",
+    "mediaUrl": "https://picsum.photos/seed/Rajesh%20Khanna%201980s%20India%20Door/600/400",
+    "options": [
+      "Rajesh Khanna",
+      "Amitabh Bachchan",
+      "Dev Anand",
+      "Shammi Kapoor"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify the Indian superhero played by Mukesh Khanna.",
+    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201980s%20India%20Doordar/600/400",
+    "options": [
+      "Shaktimaan",
+      "Aryaman",
+      "Junior G",
+      "Karma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Which 1980s kids show featured a ghost named Betaal?",
+    "mediaUrl": "https://picsum.photos/seed/Vikram%20Aur%20Betaal%201980s%20India%20/600/400",
+    "options": [
+      "Vikram Aur Betaal",
+      "Chandrakanta",
+      "Alif Laila",
+      "Sinbad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Name this classic Indian soap brand showing a girl under a waterfall.",
+    "mediaUrl": "https://picsum.photos/seed/Liril%201980s%20India%20Doordarshan%20/600/400",
+    "options": [
+      "Liril",
+      "Lux",
+      "Cinthol",
+      "Pears"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "question": "Identify this famous 70s anti-hero from 'Zanjeer'.",
+    "mediaUrl": "https://picsum.photos/seed/Inspector%20Vijay%201980s%20India%20Do/600/400",
+    "options": [
+      "Inspector Vijay",
+      "Jai",
+      "Ravi",
+      "Don"
+    ],
+    "correctOption": 0
+  }
+]
