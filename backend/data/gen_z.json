@@ -601,9 +601,1309 @@
   },
   {
     "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
+    "options": [
+      "Nokia 3310 ringtone",
+      "Sony Ericsson Walkman",
+      "Motorola Razr",
+      "Blackberry alert"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
+    "options": [
+      "It's The Time To Disco (Kal Ho Naa Ho)",
+      "Where's The Party Tonight",
+      "Koi Kahe Kehta Rahe",
+      "Dus Bahane"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
+    "options": [
+      "Indian Idol",
+      "Roadies",
+      "Splitsvilla",
+      "Boogie Woogie"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
+    "options": [
+      "Lucky Ali (O Sanam)",
+      "Shaan (Tanha Dil)",
+      "KK (Pal)",
+      "Mohit Chauhan (Dooba Dooba)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "What famous 2000s Indian cartoon intro song is this?",
+    "options": [
+      "Pokemon Hindi Rap Intro",
+      "Beyblade Hindi Intro",
+      "Dragon Ball Z Hindi",
+      "Digimon Hindi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s sports event featured this legendary commentary?",
+    "options": [
+      "2007 T20 World Cup Final (Joginder Sharma over)",
+      "2011 WC Final (Dhoni six)",
+      "NatWest 2002 Final",
+      "Yuvraj 6 Sixes"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
+    "options": [
+      "K-serials (Balaji Telefilms)",
+      "CID",
+      "Aahat",
+      "MTV Roadies"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify the 2000s mobile network ad jingle.",
+    "options": [
+      "Hutch / Vodafone (You & I)",
+      "Airtel (A.R. Rahman tune)",
+      "BSNL",
+      "Reliance India Mobile"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
+    "options": [
+      "Dhoom Theme",
+      "Krrish Theme",
+      "Don Theme",
+      "Race Theme"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
+    "options": [
+      "Raju Srivastav",
+      "Kapil Sharma",
+      "Sunil Pal",
+      "Ehsan Qureshi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
+    "options": [
+      "Nokia 3310 ringtone",
+      "Sony Ericsson Walkman",
+      "Motorola Razr",
+      "Blackberry alert"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
+    "options": [
+      "It's The Time To Disco (Kal Ho Naa Ho)",
+      "Where's The Party Tonight",
+      "Koi Kahe Kehta Rahe",
+      "Dus Bahane"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
+    "options": [
+      "Indian Idol",
+      "Roadies",
+      "Splitsvilla",
+      "Boogie Woogie"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
+    "options": [
+      "Lucky Ali (O Sanam)",
+      "Shaan (Tanha Dil)",
+      "KK (Pal)",
+      "Mohit Chauhan (Dooba Dooba)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "What famous 2000s Indian cartoon intro song is this?",
+    "options": [
+      "Pokemon Hindi Rap Intro",
+      "Beyblade Hindi Intro",
+      "Dragon Ball Z Hindi",
+      "Digimon Hindi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s sports event featured this legendary commentary?",
+    "options": [
+      "2007 T20 World Cup Final (Joginder Sharma over)",
+      "2011 WC Final (Dhoni six)",
+      "NatWest 2002 Final",
+      "Yuvraj 6 Sixes"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
+    "options": [
+      "K-serials (Balaji Telefilms)",
+      "CID",
+      "Aahat",
+      "MTV Roadies"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the 2000s mobile network ad jingle.",
+    "options": [
+      "Hutch / Vodafone (You & I)",
+      "Airtel (A.R. Rahman tune)",
+      "BSNL",
+      "Reliance India Mobile"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
+    "options": [
+      "Dhoom Theme",
+      "Krrish Theme",
+      "Don Theme",
+      "Race Theme"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
+    "options": [
+      "Raju Srivastav",
+      "Kapil Sharma",
+      "Sunil Pal",
+      "Ehsan Qureshi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
+    "options": [
+      "Nokia 3310 ringtone",
+      "Sony Ericsson Walkman",
+      "Motorola Razr",
+      "Blackberry alert"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
+    "options": [
+      "It's The Time To Disco (Kal Ho Naa Ho)",
+      "Where's The Party Tonight",
+      "Koi Kahe Kehta Rahe",
+      "Dus Bahane"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
+    "options": [
+      "Indian Idol",
+      "Roadies",
+      "Splitsvilla",
+      "Boogie Woogie"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
+    "options": [
+      "Lucky Ali (O Sanam)",
+      "Shaan (Tanha Dil)",
+      "KK (Pal)",
+      "Mohit Chauhan (Dooba Dooba)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "What famous 2000s Indian cartoon intro song is this?",
+    "options": [
+      "Pokemon Hindi Rap Intro",
+      "Beyblade Hindi Intro",
+      "Dragon Ball Z Hindi",
+      "Digimon Hindi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2000s sports event featured this legendary commentary?",
+    "options": [
+      "2007 T20 World Cup Final (Joginder Sharma over)",
+      "2011 WC Final (Dhoni six)",
+      "NatWest 2002 Final",
+      "Yuvraj 6 Sixes"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
+    "options": [
+      "K-serials (Balaji Telefilms)",
+      "CID",
+      "Aahat",
+      "MTV Roadies"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the 2000s mobile network ad jingle.",
+    "options": [
+      "Hutch / Vodafone (You & I)",
+      "Airtel (A.R. Rahman tune)",
+      "BSNL",
+      "Reliance India Mobile"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
+    "options": [
+      "Dhoom Theme",
+      "Krrish Theme",
+      "Don Theme",
+      "Race Theme"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
+    "options": [
+      "Raju Srivastav",
+      "Kapil Sharma",
+      "Sunil Pal",
+      "Ehsan Qureshi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
+    "options": [
+      "Nokia 3310 ringtone",
+      "Sony Ericsson Walkman",
+      "Motorola Razr",
+      "Blackberry alert"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
+    "options": [
+      "It's The Time To Disco (Kal Ho Naa Ho)",
+      "Where's The Party Tonight",
+      "Koi Kahe Kehta Rahe",
+      "Dus Bahane"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
+    "options": [
+      "Indian Idol",
+      "Roadies",
+      "Splitsvilla",
+      "Boogie Woogie"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
+    "options": [
+      "Lucky Ali (O Sanam)",
+      "Shaan (Tanha Dil)",
+      "KK (Pal)",
+      "Mohit Chauhan (Dooba Dooba)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "What famous 2000s Indian cartoon intro song is this?",
+    "options": [
+      "Pokemon Hindi Rap Intro",
+      "Beyblade Hindi Intro",
+      "Dragon Ball Z Hindi",
+      "Digimon Hindi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s sports event featured this legendary commentary?",
+    "options": [
+      "2007 T20 World Cup Final (Joginder Sharma over)",
+      "2011 WC Final (Dhoni six)",
+      "NatWest 2002 Final",
+      "Yuvraj 6 Sixes"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
+    "options": [
+      "K-serials (Balaji Telefilms)",
+      "CID",
+      "Aahat",
+      "MTV Roadies"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify the 2000s mobile network ad jingle.",
+    "options": [
+      "Hutch / Vodafone (You & I)",
+      "Airtel (A.R. Rahman tune)",
+      "BSNL",
+      "Reliance India Mobile"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
+    "options": [
+      "Dhoom Theme",
+      "Krrish Theme",
+      "Don Theme",
+      "Race Theme"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
+    "options": [
+      "Raju Srivastav",
+      "Kapil Sharma",
+      "Sunil Pal",
+      "Ehsan Qureshi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
+    "options": [
+      "Nokia 3310 ringtone",
+      "Sony Ericsson Walkman",
+      "Motorola Razr",
+      "Blackberry alert"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
+    "options": [
+      "It's The Time To Disco (Kal Ho Naa Ho)",
+      "Where's The Party Tonight",
+      "Koi Kahe Kehta Rahe",
+      "Dus Bahane"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
+    "options": [
+      "Indian Idol",
+      "Roadies",
+      "Splitsvilla",
+      "Boogie Woogie"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
+    "options": [
+      "Lucky Ali (O Sanam)",
+      "Shaan (Tanha Dil)",
+      "KK (Pal)",
+      "Mohit Chauhan (Dooba Dooba)"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "What famous 2000s Indian cartoon intro song is this?",
+    "options": [
+      "Pokemon Hindi Rap Intro",
+      "Beyblade Hindi Intro",
+      "Dragon Ball Z Hindi",
+      "Digimon Hindi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s sports event featured this legendary commentary?",
+    "options": [
+      "2007 T20 World Cup Final (Joginder Sharma over)",
+      "2011 WC Final (Dhoni six)",
+      "NatWest 2002 Final",
+      "Yuvraj 6 Sixes"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
+    "options": [
+      "K-serials (Balaji Telefilms)",
+      "CID",
+      "Aahat",
+      "MTV Roadies"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the 2000s mobile network ad jingle.",
+    "options": [
+      "Hutch / Vodafone (You & I)",
+      "Airtel (A.R. Rahman tune)",
+      "BSNL",
+      "Reliance India Mobile"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
+    "options": [
+      "Dhoom Theme",
+      "Krrish Theme",
+      "Don Theme",
+      "Race Theme"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
+    "options": [
+      "Raju Srivastav",
+      "Kapil Sharma",
+      "Sunil Pal",
+      "Ehsan Qureshi"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this classic 2000s Bollywood emotional scene.",
+    "options": [
+      "Kabhi Khushi Kabhie Gham (K3G)",
+      "Kal Ho Naa Ho",
+      "Mohabbatein",
+      "Veer-Zaara"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which early 2000s youth TV show is this?",
+    "options": [
+      "Remix (STAR One)",
+      "Left Right Left",
+      "Dill Mill Gayye",
+      "Hip Hip Hurray"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
+    "question": "This legendary 2000s Indian cricket moment is?",
+    "options": [
+      "Yuvraj Singh hitting 6 sixes",
+      "Dhoni World Cup winning six",
+      "Sachin 200 against SA",
+      "Sehwag 309 Multan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2000s cartoon network original aired this clip?",
+    "options": [
+      "Roll No. 21",
+      "Chhota Bheem",
+      "Little Singham",
+      "Motu Patlu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this massive 2000s Bollywood dance track.",
+    "options": [
+      "Kajra Re (Bunty Aur Babli)",
+      "Beedi Jalaile (Omkara)",
+      "Desi Girl (Dostana)",
+      "Sheila Ki Jawani"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
+    "question": "What phenomenon does this early 2000s ad belong to?",
+    "options": [
+      "ZooZoos (Vodafone)",
+      "Hutch Pug",
+      "Amul Girl",
+      "Airtel"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s show featured this iconic CID officer?",
+    "options": [
+      "CID (Sony TV) - ACP Pradyuman",
+      "Aahat",
+      "Adaalat",
+      "Crime Patrol"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 2000s movie featured a magic alien. Which one?",
+    "options": [
+      "Koi... Mil Gaya",
+      "Krrish",
+      "Taarzan The Wonder Car",
+      "Ra.One"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this 2000s reality TV show.",
+    "options": [
+      "MTV Roadies",
+      "Splitsvilla",
+      "Dare 2 Dance",
+      "Fear Factor India"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s Indian video game does this clip show?",
+    "options": [
+      "GTA Vice City (Indian mods) / PC Gaming era",
+      "Road Rash",
+      "NFS Most Wanted",
+      "Project IGI"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this classic 2000s Bollywood emotional scene.",
+    "options": [
+      "Kabhi Khushi Kabhie Gham (K3G)",
+      "Kal Ho Naa Ho",
+      "Mohabbatein",
+      "Veer-Zaara"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which early 2000s youth TV show is this?",
+    "options": [
+      "Remix (STAR One)",
+      "Left Right Left",
+      "Dill Mill Gayye",
+      "Hip Hip Hurray"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
+    "question": "This legendary 2000s Indian cricket moment is?",
+    "options": [
+      "Yuvraj Singh hitting 6 sixes",
+      "Dhoni World Cup winning six",
+      "Sachin 200 against SA",
+      "Sehwag 309 Multan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2000s cartoon network original aired this clip?",
+    "options": [
+      "Roll No. 21",
+      "Chhota Bheem",
+      "Little Singham",
+      "Motu Patlu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this massive 2000s Bollywood dance track.",
+    "options": [
+      "Kajra Re (Bunty Aur Babli)",
+      "Beedi Jalaile (Omkara)",
+      "Desi Girl (Dostana)",
+      "Sheila Ki Jawani"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
+    "question": "What phenomenon does this early 2000s ad belong to?",
+    "options": [
+      "ZooZoos (Vodafone)",
+      "Hutch Pug",
+      "Amul Girl",
+      "Airtel"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s show featured this iconic CID officer?",
+    "options": [
+      "CID (Sony TV) - ACP Pradyuman",
+      "Aahat",
+      "Adaalat",
+      "Crime Patrol"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 2000s movie featured a magic alien. Which one?",
+    "options": [
+      "Koi... Mil Gaya",
+      "Krrish",
+      "Taarzan The Wonder Car",
+      "Ra.One"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this 2000s reality TV show.",
+    "options": [
+      "MTV Roadies",
+      "Splitsvilla",
+      "Dare 2 Dance",
+      "Fear Factor India"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s Indian video game does this clip show?",
+    "options": [
+      "GTA Vice City (Indian mods) / PC Gaming era",
+      "Road Rash",
+      "NFS Most Wanted",
+      "Project IGI"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this classic 2000s Bollywood emotional scene.",
+    "options": [
+      "Kabhi Khushi Kabhie Gham (K3G)",
+      "Kal Ho Naa Ho",
+      "Mohabbatein",
+      "Veer-Zaara"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which early 2000s youth TV show is this?",
+    "options": [
+      "Remix (STAR One)",
+      "Left Right Left",
+      "Dill Mill Gayye",
+      "Hip Hip Hurray"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
+    "question": "This legendary 2000s Indian cricket moment is?",
+    "options": [
+      "Yuvraj Singh hitting 6 sixes",
+      "Dhoni World Cup winning six",
+      "Sachin 200 against SA",
+      "Sehwag 309 Multan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2000s cartoon network original aired this clip?",
+    "options": [
+      "Roll No. 21",
+      "Chhota Bheem",
+      "Little Singham",
+      "Motu Patlu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this massive 2000s Bollywood dance track.",
+    "options": [
+      "Kajra Re (Bunty Aur Babli)",
+      "Beedi Jalaile (Omkara)",
+      "Desi Girl (Dostana)",
+      "Sheila Ki Jawani"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
+    "question": "What phenomenon does this early 2000s ad belong to?",
+    "options": [
+      "ZooZoos (Vodafone)",
+      "Hutch Pug",
+      "Amul Girl",
+      "Airtel"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s show featured this iconic CID officer?",
+    "options": [
+      "CID (Sony TV) - ACP Pradyuman",
+      "Aahat",
+      "Adaalat",
+      "Crime Patrol"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 2000s movie featured a magic alien. Which one?",
+    "options": [
+      "Koi... Mil Gaya",
+      "Krrish",
+      "Taarzan The Wonder Car",
+      "Ra.One"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this 2000s reality TV show.",
+    "options": [
+      "MTV Roadies",
+      "Splitsvilla",
+      "Dare 2 Dance",
+      "Fear Factor India"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s Indian video game does this clip show?",
+    "options": [
+      "GTA Vice City (Indian mods) / PC Gaming era",
+      "Road Rash",
+      "NFS Most Wanted",
+      "Project IGI"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this classic 2000s Bollywood emotional scene.",
+    "options": [
+      "Kabhi Khushi Kabhie Gham (K3G)",
+      "Kal Ho Naa Ho",
+      "Mohabbatein",
+      "Veer-Zaara"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which early 2000s youth TV show is this?",
+    "options": [
+      "Remix (STAR One)",
+      "Left Right Left",
+      "Dill Mill Gayye",
+      "Hip Hip Hurray"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
+    "question": "This legendary 2000s Indian cricket moment is?",
+    "options": [
+      "Yuvraj Singh hitting 6 sixes",
+      "Dhoni World Cup winning six",
+      "Sachin 200 against SA",
+      "Sehwag 309 Multan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2000s cartoon network original aired this clip?",
+    "options": [
+      "Roll No. 21",
+      "Chhota Bheem",
+      "Little Singham",
+      "Motu Patlu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this massive 2000s Bollywood dance track.",
+    "options": [
+      "Kajra Re (Bunty Aur Babli)",
+      "Beedi Jalaile (Omkara)",
+      "Desi Girl (Dostana)",
+      "Sheila Ki Jawani"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
+    "question": "What phenomenon does this early 2000s ad belong to?",
+    "options": [
+      "ZooZoos (Vodafone)",
+      "Hutch Pug",
+      "Amul Girl",
+      "Airtel"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s show featured this iconic CID officer?",
+    "options": [
+      "CID (Sony TV) - ACP Pradyuman",
+      "Aahat",
+      "Adaalat",
+      "Crime Patrol"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 2000s movie featured a magic alien. Which one?",
+    "options": [
+      "Koi... Mil Gaya",
+      "Krrish",
+      "Taarzan The Wonder Car",
+      "Ra.One"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this 2000s reality TV show.",
+    "options": [
+      "MTV Roadies",
+      "Splitsvilla",
+      "Dare 2 Dance",
+      "Fear Factor India"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s Indian video game does this clip show?",
+    "options": [
+      "GTA Vice City (Indian mods) / PC Gaming era",
+      "Road Rash",
+      "NFS Most Wanted",
+      "Project IGI"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this classic 2000s Bollywood emotional scene.",
+    "options": [
+      "Kabhi Khushi Kabhie Gham (K3G)",
+      "Kal Ho Naa Ho",
+      "Mohabbatein",
+      "Veer-Zaara"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which early 2000s youth TV show is this?",
+    "options": [
+      "Remix (STAR One)",
+      "Left Right Left",
+      "Dill Mill Gayye",
+      "Hip Hip Hurray"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
+    "question": "This legendary 2000s Indian cricket moment is?",
+    "options": [
+      "Yuvraj Singh hitting 6 sixes",
+      "Dhoni World Cup winning six",
+      "Sachin 200 against SA",
+      "Sehwag 309 Multan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2000s cartoon network original aired this clip?",
+    "options": [
+      "Roll No. 21",
+      "Chhota Bheem",
+      "Little Singham",
+      "Motu Patlu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this massive 2000s Bollywood dance track.",
+    "options": [
+      "Kajra Re (Bunty Aur Babli)",
+      "Beedi Jalaile (Omkara)",
+      "Desi Girl (Dostana)",
+      "Sheila Ki Jawani"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
+    "question": "What phenomenon does this early 2000s ad belong to?",
+    "options": [
+      "ZooZoos (Vodafone)",
+      "Hutch Pug",
+      "Amul Girl",
+      "Airtel"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s show featured this iconic CID officer?",
+    "options": [
+      "CID (Sony TV) - ACP Pradyuman",
+      "Aahat",
+      "Adaalat",
+      "Crime Patrol"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 2000s movie featured a magic alien. Which one?",
+    "options": [
+      "Koi... Mil Gaya",
+      "Krrish",
+      "Taarzan The Wonder Car",
+      "Ra.One"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this 2000s reality TV show.",
+    "options": [
+      "MTV Roadies",
+      "Splitsvilla",
+      "Dare 2 Dance",
+      "Fear Factor India"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2000s Indian video game does this clip show?",
+    "options": [
+      "GTA Vice City (Indian mods) / PC Gaming era",
+      "Road Rash",
+      "NFS Most Wanted",
+      "Project IGI"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenZ",
     "type": "image",
     "question": "Identify this classic early 2000s cartoon character from India.",
-    "mediaUrl": "https://picsum.photos/seed/Chhota%20Bheem%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Chhota%20Bheem%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Chhota Bheem",
       "Roll No. 21",
@@ -616,7 +1916,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which famous 2000s Bollywood film features this iconic college scene?",
-    "mediaUrl": "https://picsum.photos/seed/3%20Idiots%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/3%20Idiots%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "3 Idiots",
       "Munna Bhai M.B.B.S.",
@@ -629,7 +1929,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this legendary early IPL cricket captain.",
-    "mediaUrl": "https://picsum.photos/seed/MS%20Dhoni%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/MS%20Dhoni%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "MS Dhoni",
       "Shane Warne",
@@ -642,7 +1942,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this iconic 2000s Indian reality TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Indian%20Idol%202000s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Indian%20Idol%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Indian Idol",
       "Sa Re Ga Ma Pa",
@@ -655,7 +1955,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian snack.",
-    "mediaUrl": "https://picsum.photos/seed/Kurkure%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kurkure%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kurkure",
       "Lays",
@@ -668,7 +1968,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Bollywood actor is known as the 'Khiladi'?",
-    "mediaUrl": "https://picsum.photos/seed/Akshay%20Kumar%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Akshay%20Kumar%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Akshay Kumar",
       "Shah Rukh Khan",
@@ -681,7 +1981,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this early 2000s Indian pop music video.",
-    "mediaUrl": "https://picsum.photos/seed/Kanta%20Laga%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kanta%20Laga%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kanta Laga",
       "Pari Hoon Main",
@@ -694,7 +1994,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian TV serial.",
-    "mediaUrl": "https://picsum.photos/seed/Kyunki%20Saas%20Bhi%20Kabhi%20Bahu%20Thi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kyunki%20Saas%20Bhi%20Kabhi%20Bahu%20Thi%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kyunki Saas Bhi Kabhi Bahu Thi",
       "Kahaani Ghar Ghar Kii",
@@ -707,7 +2007,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this legendary 2000s Indian cricket moment.",
-    "mediaUrl": "https://picsum.photos/seed/Yuvraj%20Singh%206%20Sixes%202000s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Yuvraj%20Singh%206%20Sixes%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Yuvraj Singh 6 Sixes",
       "2007 T20 World Cup Win",
@@ -720,7 +2020,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian ad character.",
-    "mediaUrl": "https://picsum.photos/seed/ZooZoos%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/ZooZoos%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "ZooZoos",
       "Pug (Hutch)",
@@ -733,7 +2033,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which early 2000s kids show featured this magical boy?",
-    "mediaUrl": "https://picsum.photos/seed/Son%20Pari%20(Fruity%2FAltamash)%20200/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Son%20Pari%20(Fruity%2FAltamash)%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Son Pari (Fruity/Altamash)",
       "Shararat",
@@ -746,7 +2046,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this iconic 2000s Indian video game.",
-    "mediaUrl": "https://picsum.photos/seed/Road%20Rash%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Road%20Rash%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Road Rash",
       "NFS Underground",
@@ -759,7 +2059,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Bollywood comedy movie.",
-    "mediaUrl": "https://picsum.photos/seed/Hera%20Pheri%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hera%20Pheri%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hera Pheri",
       "Welcome",
@@ -772,7 +2072,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this famous 2000s Indian comedy show.",
-    "mediaUrl": "https://picsum.photos/seed/The%20Great%20Indian%20Laughter%20Chal/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/The%20Great%20Indian%20Laughter%20Challenge%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "The Great Indian Laughter Challenge",
       "Comedy Circus",
@@ -785,7 +2085,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian fast food item.",
-    "mediaUrl": "https://picsum.photos/seed/Vada%20Pav%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Vada%20Pav%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Vada Pav",
       "Pav Bhaji",
@@ -798,7 +2098,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this early 2000s Indian music channel VJ.",
-    "mediaUrl": "https://picsum.photos/seed/Ranvijay%20Singha%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Ranvijay%20Singha%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Ranvijay Singha",
       "Ayushmann Khurrana",
@@ -811,7 +2111,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian film won a National Award for its portrayal of dyslexia?",
-    "mediaUrl": "https://picsum.photos/seed/Taare%20Zameen%20Par%202000s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Taare%20Zameen%20Par%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Taare Zameen Par",
       "Black",
@@ -824,7 +2124,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this iconic 2000s Indian TV advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Fevicol%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Fevicol%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Fevicol",
       "Center Shock",
@@ -837,7 +2137,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this popular 2000s Indian cartoon show on Cartoon Network.",
-    "mediaUrl": "https://picsum.photos/seed/Pokemon%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pokemon%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pokemon",
       "Beyblade",
@@ -850,7 +2150,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this legendary 2000s Indian playback singer.",
-    "mediaUrl": "https://picsum.photos/seed/Sonu%20Nigam%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Sonu%20Nigam%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Sonu Nigam",
       "Shaan",
@@ -863,7 +2163,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this 2000s Bollywood actress known for 'Poo' character.",
-    "mediaUrl": "https://picsum.photos/seed/Kareena%20Kapoor%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kareena%20Kapoor%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kareena Kapoor",
       "Priyanka Chopra",
@@ -876,7 +2176,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian TV show featured cadets in a military academy?",
-    "mediaUrl": "https://picsum.photos/seed/Left%20Right%20Left%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Left%20Right%20Left%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Left Right Left",
       "Remix",
@@ -889,7 +2189,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian mobile phone.",
-    "mediaUrl": "https://picsum.photos/seed/Nokia%203310%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Nokia%203310%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Nokia 3310",
       "Motorola Razr",
@@ -902,7 +2202,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this famous 2000s Indian pop band.",
-    "mediaUrl": "https://picsum.photos/seed/Indian%20Ocean%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Indian%20Ocean%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Indian Ocean",
       "Euphoria",
@@ -915,7 +2215,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Bollywood romantic drama.",
-    "mediaUrl": "https://picsum.photos/seed/Kal%20Ho%20Naa%20Ho%202000s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kal%20Ho%20Naa%20Ho%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kal Ho Naa Ho",
       "Kabhi Khushi Kabhie Gham",
@@ -928,7 +2228,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this iconic 2000s Indian comic book.",
-    "mediaUrl": "https://picsum.photos/seed/Tinkle%202000s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tinkle%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tinkle",
       "Champak",
@@ -941,7 +2241,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian cricket legend is known as 'Dada'?",
-    "mediaUrl": "https://picsum.photos/seed/Sourav%20Ganguly%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Sourav%20Ganguly%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Sourav Ganguly",
       "Rahul Dravid",
@@ -954,7 +2254,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian TV dance show.",
-    "mediaUrl": "https://picsum.photos/seed/Boogie%20Woogie%202000s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Boogie%20Woogie%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Boogie Woogie",
       "Dance India Dance",
@@ -967,7 +2267,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this famous 2000s Indian advertisement tagline.",
-    "mediaUrl": "https://picsum.photos/seed/Kuch%20Meetha%20Ho%20Jaye%202000s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kuch%20Meetha%20Ho%20Jaye%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kuch Meetha Ho Jaye",
       "Thanda Matlab Coca Cola",
@@ -980,7 +2280,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian video game console.",
-    "mediaUrl": "https://picsum.photos/seed/PlayStation%202%202000s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/PlayStation%202%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "PlayStation 2",
       "Xbox 360",
@@ -993,7 +2293,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this 2000s Bollywood movie featuring a superhero.",
-    "mediaUrl": "https://picsum.photos/seed/Krrish%202000s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Krrish%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Krrish",
       "Koi Mil Gaya",
@@ -1006,7 +2306,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian TV show featured medical interns?",
-    "mediaUrl": "https://picsum.photos/seed/Dill%20Mill%20Gayye%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dill%20Mill%20Gayye%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dill Mill Gayye",
       "Sanjivani",
@@ -1019,7 +2319,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this iconic 2000s Indian pop indie song.",
-    "mediaUrl": "https://picsum.photos/seed/Pari%20Hoon%20Main%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pari%20Hoon%20Main%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pari Hoon Main",
       "Made in India",
@@ -1032,7 +2332,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this legendary 2000s Indian cricket match.",
-    "mediaUrl": "https://picsum.photos/seed/NatWest%20Series%20Final%202002%202000/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/NatWest%20Series%20Final%202002%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "NatWest Series Final 2002",
       "2003 World Cup Final",
@@ -1045,7 +2345,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian reality MTV show.",
-    "mediaUrl": "https://picsum.photos/seed/Roadies%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Roadies%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Roadies",
       "Splitsvilla",
@@ -1058,7 +2358,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this early 2000s Indian social networking site.",
-    "mediaUrl": "https://picsum.photos/seed/Orkut%202000s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Orkut%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Orkut",
       "Facebook",
@@ -1071,7 +2371,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Bollywood film featured the 'Dhoom Machale' song?",
-    "mediaUrl": "https://picsum.photos/seed/Dhoom%202000s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dhoom%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dhoom",
       "Don",
@@ -1084,7 +2384,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian candy.",
-    "mediaUrl": "https://picsum.photos/seed/Alpenliebe%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Alpenliebe%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Alpenliebe",
       "Center Fresh",
@@ -1097,7 +2397,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this iconic 2000s Indian music television channel.",
-    "mediaUrl": "https://picsum.photos/seed/Channel%20V%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Channel%20V%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Channel V",
       "MTV India",
@@ -1110,7 +2410,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Indian comedian.",
-    "mediaUrl": "https://picsum.photos/seed/Raju%20Srivastav%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Raju%20Srivastav%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Raju Srivastav",
       "Kapil Sharma",
@@ -1123,7 +2423,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this famous 2000s Indian TV show about friends finding ghosts.",
-    "mediaUrl": "https://picsum.photos/seed/Aahat%202000s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Aahat%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Aahat",
       "Ssshhhh...Koi Hai",
@@ -1136,7 +2436,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian film won multiple Oscars?",
-    "mediaUrl": "https://picsum.photos/seed/Slumdog%20Millionaire%202000s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Slumdog%20Millionaire%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Slumdog Millionaire",
       "Lagaan",
@@ -1149,7 +2449,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian cartoon show featuring beyblades.",
-    "mediaUrl": "https://picsum.photos/seed/Beyblade%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Beyblade%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Beyblade",
       "Pokemon",
@@ -1162,7 +2462,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this legendary 2000s Indian playback singer (female).",
-    "mediaUrl": "https://picsum.photos/seed/Shreya%20Ghoshal%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shreya%20Ghoshal%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shreya Ghoshal",
       "Sunidhi Chauhan",
@@ -1175,7 +2475,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Tata%20Safari%20(Reclaim%20Your%20Life/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tata%20Safari%20(Reclaim%20Your%20Life)%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tata Safari (Reclaim Your Life)",
       "Bajaj Pulsar (Definitely Male)",
@@ -1188,7 +2488,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this 2000s Bollywood movie featuring a ghost.",
-    "mediaUrl": "https://picsum.photos/seed/Bhool%20Bhulaiyaa%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Bhool%20Bhulaiyaa%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Bhool Bhulaiyaa",
       "Bhoot",
@@ -1201,7 +2501,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian TV show featured a spelling bee competition?",
-    "mediaUrl": "https://picsum.photos/seed/Bournvita%20Quiz%20Contest%202000s%20I/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Bournvita%20Quiz%20Contest%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Bournvita Quiz Contest",
       "Spell Bee India",
@@ -1214,7 +2514,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this iconic 2000s Indian video game character.",
-    "mediaUrl": "https://picsum.photos/seed/Max%20Payne%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Max%20Payne%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Max Payne",
       "Hitman",
@@ -1227,7 +2527,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this popular 2000s Indian pop indie singer.",
-    "mediaUrl": "https://picsum.photos/seed/Lucky%20Ali%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Lucky%20Ali%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Lucky Ali",
       "Shaan",
@@ -1240,7 +2540,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Indian cricket stadium.",
-    "mediaUrl": "https://picsum.photos/seed/Eden%20Gardens%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Eden%20Gardens%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Eden Gardens",
       "Wankhede Stadium",
@@ -1253,7 +2553,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic early 2000s cartoon character from India.",
-    "mediaUrl": "https://picsum.photos/seed/Chhota%20Bheem%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Chhota%20Bheem%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Chhota Bheem",
       "Roll No. 21",
@@ -1266,7 +2566,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which famous 2000s Bollywood film features this iconic college scene?",
-    "mediaUrl": "https://picsum.photos/seed/3%20Idiots%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/3%20Idiots%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "3 Idiots",
       "Munna Bhai M.B.B.S.",
@@ -1279,7 +2579,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this legendary early IPL cricket captain.",
-    "mediaUrl": "https://picsum.photos/seed/MS%20Dhoni%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/MS%20Dhoni%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "MS Dhoni",
       "Shane Warne",
@@ -1292,7 +2592,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this iconic 2000s Indian reality TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Indian%20Idol%202000s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Indian%20Idol%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Indian Idol",
       "Sa Re Ga Ma Pa",
@@ -1305,7 +2605,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian snack.",
-    "mediaUrl": "https://picsum.photos/seed/Kurkure%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kurkure%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kurkure",
       "Lays",
@@ -1318,7 +2618,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Bollywood actor is known as the 'Khiladi'?",
-    "mediaUrl": "https://picsum.photos/seed/Akshay%20Kumar%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Akshay%20Kumar%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Akshay Kumar",
       "Shah Rukh Khan",
@@ -1331,7 +2631,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this early 2000s Indian pop music video.",
-    "mediaUrl": "https://picsum.photos/seed/Kanta%20Laga%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kanta%20Laga%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kanta Laga",
       "Pari Hoon Main",
@@ -1344,7 +2644,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian TV serial.",
-    "mediaUrl": "https://picsum.photos/seed/Kyunki%20Saas%20Bhi%20Kabhi%20Bahu%20Thi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kyunki%20Saas%20Bhi%20Kabhi%20Bahu%20Thi%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kyunki Saas Bhi Kabhi Bahu Thi",
       "Kahaani Ghar Ghar Kii",
@@ -1357,7 +2657,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this legendary 2000s Indian cricket moment.",
-    "mediaUrl": "https://picsum.photos/seed/Yuvraj%20Singh%206%20Sixes%202000s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Yuvraj%20Singh%206%20Sixes%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Yuvraj Singh 6 Sixes",
       "2007 T20 World Cup Win",
@@ -1370,7 +2670,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian ad character.",
-    "mediaUrl": "https://picsum.photos/seed/ZooZoos%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/ZooZoos%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "ZooZoos",
       "Pug (Hutch)",
@@ -1383,7 +2683,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which early 2000s kids show featured this magical boy?",
-    "mediaUrl": "https://picsum.photos/seed/Son%20Pari%20(Fruity%2FAltamash)%20200/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Son%20Pari%20(Fruity%2FAltamash)%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Son Pari (Fruity/Altamash)",
       "Shararat",
@@ -1396,7 +2696,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this iconic 2000s Indian video game.",
-    "mediaUrl": "https://picsum.photos/seed/Road%20Rash%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Road%20Rash%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Road Rash",
       "NFS Underground",
@@ -1409,7 +2709,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Bollywood comedy movie.",
-    "mediaUrl": "https://picsum.photos/seed/Hera%20Pheri%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hera%20Pheri%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hera Pheri",
       "Welcome",
@@ -1422,7 +2722,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this famous 2000s Indian comedy show.",
-    "mediaUrl": "https://picsum.photos/seed/The%20Great%20Indian%20Laughter%20Chal/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/The%20Great%20Indian%20Laughter%20Challenge%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "The Great Indian Laughter Challenge",
       "Comedy Circus",
@@ -1435,7 +2735,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian fast food item.",
-    "mediaUrl": "https://picsum.photos/seed/Vada%20Pav%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Vada%20Pav%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Vada Pav",
       "Pav Bhaji",
@@ -1448,7 +2748,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this early 2000s Indian music channel VJ.",
-    "mediaUrl": "https://picsum.photos/seed/Ranvijay%20Singha%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Ranvijay%20Singha%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Ranvijay Singha",
       "Ayushmann Khurrana",
@@ -1461,7 +2761,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian film won a National Award for its portrayal of dyslexia?",
-    "mediaUrl": "https://picsum.photos/seed/Taare%20Zameen%20Par%202000s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Taare%20Zameen%20Par%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Taare Zameen Par",
       "Black",
@@ -1474,7 +2774,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this iconic 2000s Indian TV advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Fevicol%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Fevicol%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Fevicol",
       "Center Shock",
@@ -1487,7 +2787,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this popular 2000s Indian cartoon show on Cartoon Network.",
-    "mediaUrl": "https://picsum.photos/seed/Pokemon%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pokemon%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pokemon",
       "Beyblade",
@@ -1500,7 +2800,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this legendary 2000s Indian playback singer.",
-    "mediaUrl": "https://picsum.photos/seed/Sonu%20Nigam%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Sonu%20Nigam%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Sonu Nigam",
       "Shaan",
@@ -1513,7 +2813,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this 2000s Bollywood actress known for 'Poo' character.",
-    "mediaUrl": "https://picsum.photos/seed/Kareena%20Kapoor%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kareena%20Kapoor%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kareena Kapoor",
       "Priyanka Chopra",
@@ -1526,7 +2826,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian TV show featured cadets in a military academy?",
-    "mediaUrl": "https://picsum.photos/seed/Left%20Right%20Left%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Left%20Right%20Left%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Left Right Left",
       "Remix",
@@ -1539,7 +2839,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian mobile phone.",
-    "mediaUrl": "https://picsum.photos/seed/Nokia%203310%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Nokia%203310%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Nokia 3310",
       "Motorola Razr",
@@ -1552,7 +2852,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this famous 2000s Indian pop band.",
-    "mediaUrl": "https://picsum.photos/seed/Indian%20Ocean%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Indian%20Ocean%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Indian Ocean",
       "Euphoria",
@@ -1565,7 +2865,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Bollywood romantic drama.",
-    "mediaUrl": "https://picsum.photos/seed/Kal%20Ho%20Naa%20Ho%202000s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kal%20Ho%20Naa%20Ho%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kal Ho Naa Ho",
       "Kabhi Khushi Kabhie Gham",
@@ -1578,7 +2878,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this iconic 2000s Indian comic book.",
-    "mediaUrl": "https://picsum.photos/seed/Tinkle%202000s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tinkle%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tinkle",
       "Champak",
@@ -1591,7 +2891,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian cricket legend is known as 'Dada'?",
-    "mediaUrl": "https://picsum.photos/seed/Sourav%20Ganguly%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Sourav%20Ganguly%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Sourav Ganguly",
       "Rahul Dravid",
@@ -1604,7 +2904,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian TV dance show.",
-    "mediaUrl": "https://picsum.photos/seed/Boogie%20Woogie%202000s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Boogie%20Woogie%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Boogie Woogie",
       "Dance India Dance",
@@ -1617,7 +2917,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this famous 2000s Indian advertisement tagline.",
-    "mediaUrl": "https://picsum.photos/seed/Kuch%20Meetha%20Ho%20Jaye%202000s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kuch%20Meetha%20Ho%20Jaye%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kuch Meetha Ho Jaye",
       "Thanda Matlab Coca Cola",
@@ -1630,7 +2930,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian video game console.",
-    "mediaUrl": "https://picsum.photos/seed/PlayStation%202%202000s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/PlayStation%202%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "PlayStation 2",
       "Xbox 360",
@@ -1643,7 +2943,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this 2000s Bollywood movie featuring a superhero.",
-    "mediaUrl": "https://picsum.photos/seed/Krrish%202000s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Krrish%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Krrish",
       "Koi Mil Gaya",
@@ -1656,7 +2956,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian TV show featured medical interns?",
-    "mediaUrl": "https://picsum.photos/seed/Dill%20Mill%20Gayye%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dill%20Mill%20Gayye%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dill Mill Gayye",
       "Sanjivani",
@@ -1669,7 +2969,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this iconic 2000s Indian pop indie song.",
-    "mediaUrl": "https://picsum.photos/seed/Pari%20Hoon%20Main%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pari%20Hoon%20Main%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pari Hoon Main",
       "Made in India",
@@ -1682,7 +2982,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this legendary 2000s Indian cricket match.",
-    "mediaUrl": "https://picsum.photos/seed/NatWest%20Series%20Final%202002%202000/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/NatWest%20Series%20Final%202002%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "NatWest Series Final 2002",
       "2003 World Cup Final",
@@ -1695,7 +2995,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian reality MTV show.",
-    "mediaUrl": "https://picsum.photos/seed/Roadies%202000s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Roadies%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Roadies",
       "Splitsvilla",
@@ -1708,7 +3008,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this early 2000s Indian social networking site.",
-    "mediaUrl": "https://picsum.photos/seed/Orkut%202000s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Orkut%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Orkut",
       "Facebook",
@@ -1721,7 +3021,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Bollywood film featured the 'Dhoom Machale' song?",
-    "mediaUrl": "https://picsum.photos/seed/Dhoom%202000s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dhoom%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dhoom",
       "Don",
@@ -1734,7 +3034,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian candy.",
-    "mediaUrl": "https://picsum.photos/seed/Alpenliebe%202000s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Alpenliebe%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Alpenliebe",
       "Center Fresh",
@@ -1747,7 +3047,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this iconic 2000s Indian music television channel.",
-    "mediaUrl": "https://picsum.photos/seed/Channel%20V%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Channel%20V%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Channel V",
       "MTV India",
@@ -1760,7 +3060,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Indian comedian.",
-    "mediaUrl": "https://picsum.photos/seed/Raju%20Srivastav%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Raju%20Srivastav%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Raju Srivastav",
       "Kapil Sharma",
@@ -1773,7 +3073,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this famous 2000s Indian TV show about friends finding ghosts.",
-    "mediaUrl": "https://picsum.photos/seed/Aahat%202000s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Aahat%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Aahat",
       "Ssshhhh...Koi Hai",
@@ -1786,7 +3086,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian film won multiple Oscars?",
-    "mediaUrl": "https://picsum.photos/seed/Slumdog%20Millionaire%202000s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Slumdog%20Millionaire%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Slumdog Millionaire",
       "Lagaan",
@@ -1799,7 +3099,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this popular 2000s Indian cartoon show featuring beyblades.",
-    "mediaUrl": "https://picsum.photos/seed/Beyblade%202000s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Beyblade%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Beyblade",
       "Pokemon",
@@ -1812,7 +3112,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this legendary 2000s Indian playback singer (female).",
-    "mediaUrl": "https://picsum.photos/seed/Shreya%20Ghoshal%202000s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shreya%20Ghoshal%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shreya Ghoshal",
       "Sunidhi Chauhan",
@@ -1825,7 +3125,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this classic 2000s Indian advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Tata%20Safari%20(Reclaim%20Your%20Life/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tata%20Safari%20(Reclaim%20Your%20Life)%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tata Safari (Reclaim Your Life)",
       "Bajaj Pulsar (Definitely Male)",
@@ -1838,7 +3138,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Name this 2000s Bollywood movie featuring a ghost.",
-    "mediaUrl": "https://picsum.photos/seed/Bhool%20Bhulaiyaa%202000s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Bhool%20Bhulaiyaa%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Bhool Bhulaiyaa",
       "Bhoot",
@@ -1851,7 +3151,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Which 2000s Indian TV show featured a spelling bee competition?",
-    "mediaUrl": "https://picsum.photos/seed/Bournvita%20Quiz%20Contest%202000s%20I/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Bournvita%20Quiz%20Contest%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Bournvita Quiz Contest",
       "Spell Bee India",
@@ -1864,7 +3164,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this iconic 2000s Indian video game character.",
-    "mediaUrl": "https://picsum.photos/seed/Max%20Payne%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Max%20Payne%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Max Payne",
       "Hitman",
@@ -1877,7 +3177,7 @@
     "era": "GenZ",
     "type": "image",
     "question": "Guess this popular 2000s Indian pop indie singer.",
-    "mediaUrl": "https://picsum.photos/seed/Lucky%20Ali%202000s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Lucky%20Ali%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Lucky Ali",
       "Shaan",
@@ -1890,1312 +3190,12 @@
     "era": "GenZ",
     "type": "image",
     "question": "Identify this 2000s Indian cricket stadium.",
-    "mediaUrl": "https://picsum.photos/seed/Eden%20Gardens%202000s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Eden%20Gardens%202000s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Eden Gardens",
       "Wankhede Stadium",
       "M. Chinnaswamy Stadium",
       "Feroz Shah Kotla"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
-    "options": [
-      "Nokia 3310 ringtone",
-      "Sony Ericsson Walkman",
-      "Motorola Razr",
-      "Blackberry alert"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
-    "options": [
-      "It's The Time To Disco (Kal Ho Naa Ho)",
-      "Where's The Party Tonight",
-      "Koi Kahe Kehta Rahe",
-      "Dus Bahane"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
-    "options": [
-      "Indian Idol",
-      "Roadies",
-      "Splitsvilla",
-      "Boogie Woogie"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
-    "options": [
-      "Lucky Ali (O Sanam)",
-      "Shaan (Tanha Dil)",
-      "KK (Pal)",
-      "Mohit Chauhan (Dooba Dooba)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "What famous 2000s Indian cartoon intro song is this?",
-    "options": [
-      "Pokemon Hindi Rap Intro",
-      "Beyblade Hindi Intro",
-      "Dragon Ball Z Hindi",
-      "Digimon Hindi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s sports event featured this legendary commentary?",
-    "options": [
-      "2007 T20 World Cup Final (Joginder Sharma over)",
-      "2011 WC Final (Dhoni six)",
-      "NatWest 2002 Final",
-      "Yuvraj 6 Sixes"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
-    "options": [
-      "K-serials (Balaji Telefilms)",
-      "CID",
-      "Aahat",
-      "MTV Roadies"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify the 2000s mobile network ad jingle.",
-    "options": [
-      "Hutch / Vodafone (You & I)",
-      "Airtel (A.R. Rahman tune)",
-      "BSNL",
-      "Reliance India Mobile"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
-    "options": [
-      "Dhoom Theme",
-      "Krrish Theme",
-      "Don Theme",
-      "Race Theme"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
-    "options": [
-      "Raju Srivastav",
-      "Kapil Sharma",
-      "Sunil Pal",
-      "Ehsan Qureshi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
-    "options": [
-      "Nokia 3310 ringtone",
-      "Sony Ericsson Walkman",
-      "Motorola Razr",
-      "Blackberry alert"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
-    "options": [
-      "It's The Time To Disco (Kal Ho Naa Ho)",
-      "Where's The Party Tonight",
-      "Koi Kahe Kehta Rahe",
-      "Dus Bahane"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
-    "options": [
-      "Indian Idol",
-      "Roadies",
-      "Splitsvilla",
-      "Boogie Woogie"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
-    "options": [
-      "Lucky Ali (O Sanam)",
-      "Shaan (Tanha Dil)",
-      "KK (Pal)",
-      "Mohit Chauhan (Dooba Dooba)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "What famous 2000s Indian cartoon intro song is this?",
-    "options": [
-      "Pokemon Hindi Rap Intro",
-      "Beyblade Hindi Intro",
-      "Dragon Ball Z Hindi",
-      "Digimon Hindi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s sports event featured this legendary commentary?",
-    "options": [
-      "2007 T20 World Cup Final (Joginder Sharma over)",
-      "2011 WC Final (Dhoni six)",
-      "NatWest 2002 Final",
-      "Yuvraj 6 Sixes"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
-    "options": [
-      "K-serials (Balaji Telefilms)",
-      "CID",
-      "Aahat",
-      "MTV Roadies"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the 2000s mobile network ad jingle.",
-    "options": [
-      "Hutch / Vodafone (You & I)",
-      "Airtel (A.R. Rahman tune)",
-      "BSNL",
-      "Reliance India Mobile"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
-    "options": [
-      "Dhoom Theme",
-      "Krrish Theme",
-      "Don Theme",
-      "Race Theme"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
-    "options": [
-      "Raju Srivastav",
-      "Kapil Sharma",
-      "Sunil Pal",
-      "Ehsan Qureshi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
-    "options": [
-      "Nokia 3310 ringtone",
-      "Sony Ericsson Walkman",
-      "Motorola Razr",
-      "Blackberry alert"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
-    "options": [
-      "It's The Time To Disco (Kal Ho Naa Ho)",
-      "Where's The Party Tonight",
-      "Koi Kahe Kehta Rahe",
-      "Dus Bahane"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
-    "options": [
-      "Indian Idol",
-      "Roadies",
-      "Splitsvilla",
-      "Boogie Woogie"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
-    "options": [
-      "Lucky Ali (O Sanam)",
-      "Shaan (Tanha Dil)",
-      "KK (Pal)",
-      "Mohit Chauhan (Dooba Dooba)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "What famous 2000s Indian cartoon intro song is this?",
-    "options": [
-      "Pokemon Hindi Rap Intro",
-      "Beyblade Hindi Intro",
-      "Dragon Ball Z Hindi",
-      "Digimon Hindi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2000s sports event featured this legendary commentary?",
-    "options": [
-      "2007 T20 World Cup Final (Joginder Sharma over)",
-      "2011 WC Final (Dhoni six)",
-      "NatWest 2002 Final",
-      "Yuvraj 6 Sixes"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
-    "options": [
-      "K-serials (Balaji Telefilms)",
-      "CID",
-      "Aahat",
-      "MTV Roadies"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the 2000s mobile network ad jingle.",
-    "options": [
-      "Hutch / Vodafone (You & I)",
-      "Airtel (A.R. Rahman tune)",
-      "BSNL",
-      "Reliance India Mobile"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
-    "options": [
-      "Dhoom Theme",
-      "Krrish Theme",
-      "Don Theme",
-      "Race Theme"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
-    "options": [
-      "Raju Srivastav",
-      "Kapil Sharma",
-      "Sunil Pal",
-      "Ehsan Qureshi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
-    "options": [
-      "Nokia 3310 ringtone",
-      "Sony Ericsson Walkman",
-      "Motorola Razr",
-      "Blackberry alert"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
-    "options": [
-      "It's The Time To Disco (Kal Ho Naa Ho)",
-      "Where's The Party Tonight",
-      "Koi Kahe Kehta Rahe",
-      "Dus Bahane"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
-    "options": [
-      "Indian Idol",
-      "Roadies",
-      "Splitsvilla",
-      "Boogie Woogie"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
-    "options": [
-      "Lucky Ali (O Sanam)",
-      "Shaan (Tanha Dil)",
-      "KK (Pal)",
-      "Mohit Chauhan (Dooba Dooba)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "What famous 2000s Indian cartoon intro song is this?",
-    "options": [
-      "Pokemon Hindi Rap Intro",
-      "Beyblade Hindi Intro",
-      "Dragon Ball Z Hindi",
-      "Digimon Hindi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s sports event featured this legendary commentary?",
-    "options": [
-      "2007 T20 World Cup Final (Joginder Sharma over)",
-      "2011 WC Final (Dhoni six)",
-      "NatWest 2002 Final",
-      "Yuvraj 6 Sixes"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
-    "options": [
-      "K-serials (Balaji Telefilms)",
-      "CID",
-      "Aahat",
-      "MTV Roadies"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify the 2000s mobile network ad jingle.",
-    "options": [
-      "Hutch / Vodafone (You & I)",
-      "Airtel (A.R. Rahman tune)",
-      "BSNL",
-      "Reliance India Mobile"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
-    "options": [
-      "Dhoom Theme",
-      "Krrish Theme",
-      "Don Theme",
-      "Race Theme"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
-    "options": [
-      "Raju Srivastav",
-      "Kapil Sharma",
-      "Sunil Pal",
-      "Ehsan Qureshi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This early 2000s ringtone belongs to which famous polyphonic phone?",
-    "options": [
-      "Nokia 3310 ringtone",
-      "Sony Ericsson Walkman",
-      "Motorola Razr",
-      "Blackberry alert"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which iconic 2000s Bollywood party song has this fast beat?",
-    "options": [
-      "It's The Time To Disco (Kal Ho Naa Ho)",
-      "Where's The Party Tonight",
-      "Koi Kahe Kehta Rahe",
-      "Dus Bahane"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: Which famous 2000s talent show had this dramatic suspense music?",
-    "options": [
-      "Indian Idol",
-      "Roadies",
-      "Splitsvilla",
-      "Boogie Woogie"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify the lead singer from this soulful early 2000s indie pop song.",
-    "options": [
-      "Lucky Ali (O Sanam)",
-      "Shaan (Tanha Dil)",
-      "KK (Pal)",
-      "Mohit Chauhan (Dooba Dooba)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "What famous 2000s Indian cartoon intro song is this?",
-    "options": [
-      "Pokemon Hindi Rap Intro",
-      "Beyblade Hindi Intro",
-      "Dragon Ball Z Hindi",
-      "Digimon Hindi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s sports event featured this legendary commentary?",
-    "options": [
-      "2007 T20 World Cup Final (Joginder Sharma over)",
-      "2011 WC Final (Dhoni six)",
-      "NatWest 2002 Final",
-      "Yuvraj 6 Sixes"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This melodramatic 'Dhoom Tana' sound effect is a staple of which 2000s TV genre?",
-    "options": [
-      "K-serials (Balaji Telefilms)",
-      "CID",
-      "Aahat",
-      "MTV Roadies"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the 2000s mobile network ad jingle.",
-    "options": [
-      "Hutch / Vodafone (You & I)",
-      "Airtel (A.R. Rahman tune)",
-      "BSNL",
-      "Reliance India Mobile"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2000s Bollywood franchise featured this iconic background score?",
-    "options": [
-      "Dhoom Theme",
-      "Krrish Theme",
-      "Don Theme",
-      "Race Theme"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this voice of a famous 2000s Indian stand-up comedian.",
-    "options": [
-      "Raju Srivastav",
-      "Kapil Sharma",
-      "Sunil Pal",
-      "Ehsan Qureshi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this classic 2000s Bollywood emotional scene.",
-    "options": [
-      "Kabhi Khushi Kabhie Gham (K3G)",
-      "Kal Ho Naa Ho",
-      "Mohabbatein",
-      "Veer-Zaara"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which early 2000s youth TV show is this?",
-    "options": [
-      "Remix (STAR One)",
-      "Left Right Left",
-      "Dill Mill Gayye",
-      "Hip Hip Hurray"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
-    "question": "This legendary 2000s Indian cricket moment is?",
-    "options": [
-      "Yuvraj Singh hitting 6 sixes",
-      "Dhoni World Cup winning six",
-      "Sachin 200 against SA",
-      "Sehwag 309 Multan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2000s cartoon network original aired this clip?",
-    "options": [
-      "Roll No. 21",
-      "Chhota Bheem",
-      "Little Singham",
-      "Motu Patlu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this massive 2000s Bollywood dance track.",
-    "options": [
-      "Kajra Re (Bunty Aur Babli)",
-      "Beedi Jalaile (Omkara)",
-      "Desi Girl (Dostana)",
-      "Sheila Ki Jawani"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
-    "question": "What phenomenon does this early 2000s ad belong to?",
-    "options": [
-      "ZooZoos (Vodafone)",
-      "Hutch Pug",
-      "Amul Girl",
-      "Airtel"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s show featured this iconic CID officer?",
-    "options": [
-      "CID (Sony TV) - ACP Pradyuman",
-      "Aahat",
-      "Adaalat",
-      "Crime Patrol"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 2000s movie featured a magic alien. Which one?",
-    "options": [
-      "Koi... Mil Gaya",
-      "Krrish",
-      "Taarzan The Wonder Car",
-      "Ra.One"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this 2000s reality TV show.",
-    "options": [
-      "MTV Roadies",
-      "Splitsvilla",
-      "Dare 2 Dance",
-      "Fear Factor India"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s Indian video game does this clip show?",
-    "options": [
-      "GTA Vice City (Indian mods) / PC Gaming era",
-      "Road Rash",
-      "NFS Most Wanted",
-      "Project IGI"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this classic 2000s Bollywood emotional scene.",
-    "options": [
-      "Kabhi Khushi Kabhie Gham (K3G)",
-      "Kal Ho Naa Ho",
-      "Mohabbatein",
-      "Veer-Zaara"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which early 2000s youth TV show is this?",
-    "options": [
-      "Remix (STAR One)",
-      "Left Right Left",
-      "Dill Mill Gayye",
-      "Hip Hip Hurray"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
-    "question": "This legendary 2000s Indian cricket moment is?",
-    "options": [
-      "Yuvraj Singh hitting 6 sixes",
-      "Dhoni World Cup winning six",
-      "Sachin 200 against SA",
-      "Sehwag 309 Multan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2000s cartoon network original aired this clip?",
-    "options": [
-      "Roll No. 21",
-      "Chhota Bheem",
-      "Little Singham",
-      "Motu Patlu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this massive 2000s Bollywood dance track.",
-    "options": [
-      "Kajra Re (Bunty Aur Babli)",
-      "Beedi Jalaile (Omkara)",
-      "Desi Girl (Dostana)",
-      "Sheila Ki Jawani"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
-    "question": "What phenomenon does this early 2000s ad belong to?",
-    "options": [
-      "ZooZoos (Vodafone)",
-      "Hutch Pug",
-      "Amul Girl",
-      "Airtel"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s show featured this iconic CID officer?",
-    "options": [
-      "CID (Sony TV) - ACP Pradyuman",
-      "Aahat",
-      "Adaalat",
-      "Crime Patrol"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 2000s movie featured a magic alien. Which one?",
-    "options": [
-      "Koi... Mil Gaya",
-      "Krrish",
-      "Taarzan The Wonder Car",
-      "Ra.One"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this 2000s reality TV show.",
-    "options": [
-      "MTV Roadies",
-      "Splitsvilla",
-      "Dare 2 Dance",
-      "Fear Factor India"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s Indian video game does this clip show?",
-    "options": [
-      "GTA Vice City (Indian mods) / PC Gaming era",
-      "Road Rash",
-      "NFS Most Wanted",
-      "Project IGI"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this classic 2000s Bollywood emotional scene.",
-    "options": [
-      "Kabhi Khushi Kabhie Gham (K3G)",
-      "Kal Ho Naa Ho",
-      "Mohabbatein",
-      "Veer-Zaara"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which early 2000s youth TV show is this?",
-    "options": [
-      "Remix (STAR One)",
-      "Left Right Left",
-      "Dill Mill Gayye",
-      "Hip Hip Hurray"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
-    "question": "This legendary 2000s Indian cricket moment is?",
-    "options": [
-      "Yuvraj Singh hitting 6 sixes",
-      "Dhoni World Cup winning six",
-      "Sachin 200 against SA",
-      "Sehwag 309 Multan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2000s cartoon network original aired this clip?",
-    "options": [
-      "Roll No. 21",
-      "Chhota Bheem",
-      "Little Singham",
-      "Motu Patlu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this massive 2000s Bollywood dance track.",
-    "options": [
-      "Kajra Re (Bunty Aur Babli)",
-      "Beedi Jalaile (Omkara)",
-      "Desi Girl (Dostana)",
-      "Sheila Ki Jawani"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
-    "question": "What phenomenon does this early 2000s ad belong to?",
-    "options": [
-      "ZooZoos (Vodafone)",
-      "Hutch Pug",
-      "Amul Girl",
-      "Airtel"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s show featured this iconic CID officer?",
-    "options": [
-      "CID (Sony TV) - ACP Pradyuman",
-      "Aahat",
-      "Adaalat",
-      "Crime Patrol"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 2000s movie featured a magic alien. Which one?",
-    "options": [
-      "Koi... Mil Gaya",
-      "Krrish",
-      "Taarzan The Wonder Car",
-      "Ra.One"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this 2000s reality TV show.",
-    "options": [
-      "MTV Roadies",
-      "Splitsvilla",
-      "Dare 2 Dance",
-      "Fear Factor India"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s Indian video game does this clip show?",
-    "options": [
-      "GTA Vice City (Indian mods) / PC Gaming era",
-      "Road Rash",
-      "NFS Most Wanted",
-      "Project IGI"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this classic 2000s Bollywood emotional scene.",
-    "options": [
-      "Kabhi Khushi Kabhie Gham (K3G)",
-      "Kal Ho Naa Ho",
-      "Mohabbatein",
-      "Veer-Zaara"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which early 2000s youth TV show is this?",
-    "options": [
-      "Remix (STAR One)",
-      "Left Right Left",
-      "Dill Mill Gayye",
-      "Hip Hip Hurray"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
-    "question": "This legendary 2000s Indian cricket moment is?",
-    "options": [
-      "Yuvraj Singh hitting 6 sixes",
-      "Dhoni World Cup winning six",
-      "Sachin 200 against SA",
-      "Sehwag 309 Multan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2000s cartoon network original aired this clip?",
-    "options": [
-      "Roll No. 21",
-      "Chhota Bheem",
-      "Little Singham",
-      "Motu Patlu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this massive 2000s Bollywood dance track.",
-    "options": [
-      "Kajra Re (Bunty Aur Babli)",
-      "Beedi Jalaile (Omkara)",
-      "Desi Girl (Dostana)",
-      "Sheila Ki Jawani"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
-    "question": "What phenomenon does this early 2000s ad belong to?",
-    "options": [
-      "ZooZoos (Vodafone)",
-      "Hutch Pug",
-      "Amul Girl",
-      "Airtel"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s show featured this iconic CID officer?",
-    "options": [
-      "CID (Sony TV) - ACP Pradyuman",
-      "Aahat",
-      "Adaalat",
-      "Crime Patrol"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 2000s movie featured a magic alien. Which one?",
-    "options": [
-      "Koi... Mil Gaya",
-      "Krrish",
-      "Taarzan The Wonder Car",
-      "Ra.One"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this 2000s reality TV show.",
-    "options": [
-      "MTV Roadies",
-      "Splitsvilla",
-      "Dare 2 Dance",
-      "Fear Factor India"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s Indian video game does this clip show?",
-    "options": [
-      "GTA Vice City (Indian mods) / PC Gaming era",
-      "Road Rash",
-      "NFS Most Wanted",
-      "Project IGI"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wF_B_aagLfI?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this classic 2000s Bollywood emotional scene.",
-    "options": [
-      "Kabhi Khushi Kabhie Gham (K3G)",
-      "Kal Ho Naa Ho",
-      "Mohabbatein",
-      "Veer-Zaara"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which early 2000s youth TV show is this?",
-    "options": [
-      "Remix (STAR One)",
-      "Left Right Left",
-      "Dill Mill Gayye",
-      "Hip Hip Hurray"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=10&end=25&autoplay=0&rel=0",
-    "question": "This legendary 2000s Indian cricket moment is?",
-    "options": [
-      "Yuvraj Singh hitting 6 sixes",
-      "Dhoni World Cup winning six",
-      "Sachin 200 against SA",
-      "Sehwag 309 Multan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2000s cartoon network original aired this clip?",
-    "options": [
-      "Roll No. 21",
-      "Chhota Bheem",
-      "Little Singham",
-      "Motu Patlu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this massive 2000s Bollywood dance track.",
-    "options": [
-      "Kajra Re (Bunty Aur Babli)",
-      "Beedi Jalaile (Omkara)",
-      "Desi Girl (Dostana)",
-      "Sheila Ki Jawani"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=0&end=15&autoplay=0&rel=0",
-    "question": "What phenomenon does this early 2000s ad belong to?",
-    "options": [
-      "ZooZoos (Vodafone)",
-      "Hutch Pug",
-      "Amul Girl",
-      "Airtel"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s show featured this iconic CID officer?",
-    "options": [
-      "CID (Sony TV) - ACP Pradyuman",
-      "Aahat",
-      "Adaalat",
-      "Crime Patrol"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 2000s movie featured a magic alien. Which one?",
-    "options": [
-      "Koi... Mil Gaya",
-      "Krrish",
-      "Taarzan The Wonder Car",
-      "Ra.One"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this 2000s reality TV show.",
-    "options": [
-      "MTV Roadies",
-      "Splitsvilla",
-      "Dare 2 Dance",
-      "Fear Factor India"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenZ",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2000s Indian video game does this clip show?",
-    "options": [
-      "GTA Vice City (Indian mods) / PC Gaming era",
-      "Road Rash",
-      "NFS Most Wanted",
-      "Project IGI"
     ],
     "correctOption": 0
   }

@@ -601,9 +601,1309 @@
   },
   {
     "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this popular 2020s viral Hindi meme audio.",
+    "options": [
+      "Moye Moye / Kacha Badam",
+      "Rasode Mein Kaun Tha",
+      "Pawri Ho Rahi Hai",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
+    "options": [
+      "Mortal / Dynamo / Scout style",
+      "CarryMinati",
+      "Triggered Insaan",
+      "Jonathan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
+    "options": [
+      "CarryMinati (Yalgaar era)",
+      "BB Ki Vines",
+      "Ashish Chanchlani",
+      "Technical Guruji"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
+    "options": [
+      "Paytm 'Received' Soundbox",
+      "PhonePe",
+      "Google Pay",
+      "CRED"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2020s pan-Indian movie background score is this?",
+    "options": [
+      "KGF Chapter 2",
+      "RRR",
+      "Pushpa",
+      "Baahubali 2"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 2020s viral Indian indie pop song.",
+    "options": [
+      "Pasoori (Coke Studio / Ali Sethi)",
+      "Manike Mage Hithe",
+      "Udd Gaye",
+      "Baarishein"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s shark tank judge's catchphrase is this?",
+    "options": [
+      "Ashneer Grover (Yeh sab doglapan hai)",
+      "Aman Gupta",
+      "Anupam Mittal",
+      "Namita Thapar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This rap beat belongs to which 2020s viral Indian artist?",
+    "options": [
+      "MC Stan / AP Dhillon",
+      "Divine",
+      "Naezy",
+      "Krsna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s short-form video platform popularized this audio trend?",
+    "options": [
+      "Instagram Reels / TikTok India",
+      "YouTube Shorts",
+      "Snapchat",
+      "Moj"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the 2020s Indian commentator describing this sports moment.",
+    "options": [
+      "Neeraj Chopra Olympic Gold call",
+      "IPL 2023 Final (Jadeja)",
+      "T20 World Cup 2022 (Kohli vs Pak)",
+      "Thomas Cup victory"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this popular 2020s viral Hindi meme audio.",
+    "options": [
+      "Moye Moye / Kacha Badam",
+      "Rasode Mein Kaun Tha",
+      "Pawri Ho Rahi Hai",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
+    "options": [
+      "Mortal / Dynamo / Scout style",
+      "CarryMinati",
+      "Triggered Insaan",
+      "Jonathan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
+    "options": [
+      "CarryMinati (Yalgaar era)",
+      "BB Ki Vines",
+      "Ashish Chanchlani",
+      "Technical Guruji"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
+    "options": [
+      "Paytm 'Received' Soundbox",
+      "PhonePe",
+      "Google Pay",
+      "CRED"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s pan-Indian movie background score is this?",
+    "options": [
+      "KGF Chapter 2",
+      "RRR",
+      "Pushpa",
+      "Baahubali 2"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 2020s viral Indian indie pop song.",
+    "options": [
+      "Pasoori (Coke Studio / Ali Sethi)",
+      "Manike Mage Hithe",
+      "Udd Gaye",
+      "Baarishein"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2020s shark tank judge's catchphrase is this?",
+    "options": [
+      "Ashneer Grover (Yeh sab doglapan hai)",
+      "Aman Gupta",
+      "Anupam Mittal",
+      "Namita Thapar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This rap beat belongs to which 2020s viral Indian artist?",
+    "options": [
+      "MC Stan / AP Dhillon",
+      "Divine",
+      "Naezy",
+      "Krsna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s short-form video platform popularized this audio trend?",
+    "options": [
+      "Instagram Reels / TikTok India",
+      "YouTube Shorts",
+      "Snapchat",
+      "Moj"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify the 2020s Indian commentator describing this sports moment.",
+    "options": [
+      "Neeraj Chopra Olympic Gold call",
+      "IPL 2023 Final (Jadeja)",
+      "T20 World Cup 2022 (Kohli vs Pak)",
+      "Thomas Cup victory"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this popular 2020s viral Hindi meme audio.",
+    "options": [
+      "Moye Moye / Kacha Badam",
+      "Rasode Mein Kaun Tha",
+      "Pawri Ho Rahi Hai",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
+    "options": [
+      "Mortal / Dynamo / Scout style",
+      "CarryMinati",
+      "Triggered Insaan",
+      "Jonathan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
+    "options": [
+      "CarryMinati (Yalgaar era)",
+      "BB Ki Vines",
+      "Ashish Chanchlani",
+      "Technical Guruji"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
+    "options": [
+      "Paytm 'Received' Soundbox",
+      "PhonePe",
+      "Google Pay",
+      "CRED"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s pan-Indian movie background score is this?",
+    "options": [
+      "KGF Chapter 2",
+      "RRR",
+      "Pushpa",
+      "Baahubali 2"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this 2020s viral Indian indie pop song.",
+    "options": [
+      "Pasoori (Coke Studio / Ali Sethi)",
+      "Manike Mage Hithe",
+      "Udd Gaye",
+      "Baarishein"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s shark tank judge's catchphrase is this?",
+    "options": [
+      "Ashneer Grover (Yeh sab doglapan hai)",
+      "Aman Gupta",
+      "Anupam Mittal",
+      "Namita Thapar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This rap beat belongs to which 2020s viral Indian artist?",
+    "options": [
+      "MC Stan / AP Dhillon",
+      "Divine",
+      "Naezy",
+      "Krsna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2020s short-form video platform popularized this audio trend?",
+    "options": [
+      "Instagram Reels / TikTok India",
+      "YouTube Shorts",
+      "Snapchat",
+      "Moj"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the 2020s Indian commentator describing this sports moment.",
+    "options": [
+      "Neeraj Chopra Olympic Gold call",
+      "IPL 2023 Final (Jadeja)",
+      "T20 World Cup 2022 (Kohli vs Pak)",
+      "Thomas Cup victory"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this popular 2020s viral Hindi meme audio.",
+    "options": [
+      "Moye Moye / Kacha Badam",
+      "Rasode Mein Kaun Tha",
+      "Pawri Ho Rahi Hai",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
+    "options": [
+      "Mortal / Dynamo / Scout style",
+      "CarryMinati",
+      "Triggered Insaan",
+      "Jonathan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
+    "options": [
+      "CarryMinati (Yalgaar era)",
+      "BB Ki Vines",
+      "Ashish Chanchlani",
+      "Technical Guruji"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
+    "options": [
+      "Paytm 'Received' Soundbox",
+      "PhonePe",
+      "Google Pay",
+      "CRED"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2020s pan-Indian movie background score is this?",
+    "options": [
+      "KGF Chapter 2",
+      "RRR",
+      "Pushpa",
+      "Baahubali 2"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 2020s viral Indian indie pop song.",
+    "options": [
+      "Pasoori (Coke Studio / Ali Sethi)",
+      "Manike Mage Hithe",
+      "Udd Gaye",
+      "Baarishein"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s shark tank judge's catchphrase is this?",
+    "options": [
+      "Ashneer Grover (Yeh sab doglapan hai)",
+      "Aman Gupta",
+      "Anupam Mittal",
+      "Namita Thapar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This rap beat belongs to which 2020s viral Indian artist?",
+    "options": [
+      "MC Stan / AP Dhillon",
+      "Divine",
+      "Naezy",
+      "Krsna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s short-form video platform popularized this audio trend?",
+    "options": [
+      "Instagram Reels / TikTok India",
+      "YouTube Shorts",
+      "Snapchat",
+      "Moj"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify the 2020s Indian commentator describing this sports moment.",
+    "options": [
+      "Neeraj Chopra Olympic Gold call",
+      "IPL 2023 Final (Jadeja)",
+      "T20 World Cup 2022 (Kohli vs Pak)",
+      "Thomas Cup victory"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this popular 2020s viral Hindi meme audio.",
+    "options": [
+      "Moye Moye / Kacha Badam",
+      "Rasode Mein Kaun Tha",
+      "Pawri Ho Rahi Hai",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
+    "options": [
+      "Mortal / Dynamo / Scout style",
+      "CarryMinati",
+      "Triggered Insaan",
+      "Jonathan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
+    "options": [
+      "CarryMinati (Yalgaar era)",
+      "BB Ki Vines",
+      "Ashish Chanchlani",
+      "Technical Guruji"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
+    "options": [
+      "Paytm 'Received' Soundbox",
+      "PhonePe",
+      "Google Pay",
+      "CRED"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s pan-Indian movie background score is this?",
+    "options": [
+      "KGF Chapter 2",
+      "RRR",
+      "Pushpa",
+      "Baahubali 2"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 2020s viral Indian indie pop song.",
+    "options": [
+      "Pasoori (Coke Studio / Ali Sethi)",
+      "Manike Mage Hithe",
+      "Udd Gaye",
+      "Baarishein"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 2020s shark tank judge's catchphrase is this?",
+    "options": [
+      "Ashneer Grover (Yeh sab doglapan hai)",
+      "Aman Gupta",
+      "Anupam Mittal",
+      "Namita Thapar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This rap beat belongs to which 2020s viral Indian artist?",
+    "options": [
+      "MC Stan / AP Dhillon",
+      "Divine",
+      "Naezy",
+      "Krsna"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 2020s short-form video platform popularized this audio trend?",
+    "options": [
+      "Instagram Reels / TikTok India",
+      "YouTube Shorts",
+      "Snapchat",
+      "Moj"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify the 2020s Indian commentator describing this sports moment.",
+    "options": [
+      "Neeraj Chopra Olympic Gold call",
+      "IPL 2023 Final (Jadeja)",
+      "T20 World Cup 2022 (Kohli vs Pak)",
+      "Thomas Cup victory"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2020s viral meme video is this?",
+    "options": [
+      "Pawri Ho Rahi Hai",
+      "Rasode Mein Kaun Tha",
+      "Binod",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
+    "options": [
+      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
+      "RRR (Naatu Naatu)",
+      "KGF (Rocky Bhai)",
+      "Salaar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This video shows which famous 2020s Indian reality TV pitch?",
+    "options": [
+      "Shark Tank India (Pitchers)",
+      "MasterChef India",
+      "Khatron Ke Khiladi",
+      "Bigg Boss OTT"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian web series does this gritty scene belong to?",
+    "options": [
+      "The Family Man / Mirzapur",
+      "Scam 1992",
+      "Panchayat",
+      "Aspirants"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this popular 2020s gaming stream.",
+    "options": [
+      "BGMI (Battlegrounds Mobile India) Tournament",
+      "Free Fire",
+      "Valorant India",
+      "GTA V Roleplay"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
+    "question": "What phenomenon does this 2020s ad belong to?",
+    "options": [
+      "CRED Ads (featuring retro celebs)",
+      "Zomato Delivery Ads",
+      "Dream11 IPL Ads",
+      "Swiggy Instamart"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2020s Indian educational platform is known for this style of video?",
+    "options": [
+      "Physics Wallah (Alakh Pandey)",
+      "Unacademy",
+      "BYJU's",
+      "Vedantu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This 2020s film clip features which famous song?",
+    "options": [
+      "Naatu Naatu (RRR)",
+      "Jhoome Jo Pathaan",
+      "Tum Kya Mile",
+      "Kesariya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
+    "options": [
+      "CarryMinati / Triggered Insaan",
+      "Bhuvan Bam (BB Ki Vines)",
+      "Fukra Insaan",
+      "Slayy Point"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian sports moment is this?",
+    "options": [
+      "India winning Thomas Cup / Women's U19 WC",
+      "T20 World Cup 2024",
+      "Neeraj Chopra Gold",
+      "IPL Final 2023"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2020s viral meme video is this?",
+    "options": [
+      "Pawri Ho Rahi Hai",
+      "Rasode Mein Kaun Tha",
+      "Binod",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
+    "options": [
+      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
+      "RRR (Naatu Naatu)",
+      "KGF (Rocky Bhai)",
+      "Salaar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This video shows which famous 2020s Indian reality TV pitch?",
+    "options": [
+      "Shark Tank India (Pitchers)",
+      "MasterChef India",
+      "Khatron Ke Khiladi",
+      "Bigg Boss OTT"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian web series does this gritty scene belong to?",
+    "options": [
+      "The Family Man / Mirzapur",
+      "Scam 1992",
+      "Panchayat",
+      "Aspirants"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this popular 2020s gaming stream.",
+    "options": [
+      "BGMI (Battlegrounds Mobile India) Tournament",
+      "Free Fire",
+      "Valorant India",
+      "GTA V Roleplay"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
+    "question": "What phenomenon does this 2020s ad belong to?",
+    "options": [
+      "CRED Ads (featuring retro celebs)",
+      "Zomato Delivery Ads",
+      "Dream11 IPL Ads",
+      "Swiggy Instamart"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2020s Indian educational platform is known for this style of video?",
+    "options": [
+      "Physics Wallah (Alakh Pandey)",
+      "Unacademy",
+      "BYJU's",
+      "Vedantu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This 2020s film clip features which famous song?",
+    "options": [
+      "Naatu Naatu (RRR)",
+      "Jhoome Jo Pathaan",
+      "Tum Kya Mile",
+      "Kesariya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
+    "options": [
+      "CarryMinati / Triggered Insaan",
+      "Bhuvan Bam (BB Ki Vines)",
+      "Fukra Insaan",
+      "Slayy Point"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian sports moment is this?",
+    "options": [
+      "India winning Thomas Cup / Women's U19 WC",
+      "T20 World Cup 2024",
+      "Neeraj Chopra Gold",
+      "IPL Final 2023"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2020s viral meme video is this?",
+    "options": [
+      "Pawri Ho Rahi Hai",
+      "Rasode Mein Kaun Tha",
+      "Binod",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
+    "options": [
+      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
+      "RRR (Naatu Naatu)",
+      "KGF (Rocky Bhai)",
+      "Salaar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This video shows which famous 2020s Indian reality TV pitch?",
+    "options": [
+      "Shark Tank India (Pitchers)",
+      "MasterChef India",
+      "Khatron Ke Khiladi",
+      "Bigg Boss OTT"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian web series does this gritty scene belong to?",
+    "options": [
+      "The Family Man / Mirzapur",
+      "Scam 1992",
+      "Panchayat",
+      "Aspirants"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this popular 2020s gaming stream.",
+    "options": [
+      "BGMI (Battlegrounds Mobile India) Tournament",
+      "Free Fire",
+      "Valorant India",
+      "GTA V Roleplay"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
+    "question": "What phenomenon does this 2020s ad belong to?",
+    "options": [
+      "CRED Ads (featuring retro celebs)",
+      "Zomato Delivery Ads",
+      "Dream11 IPL Ads",
+      "Swiggy Instamart"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2020s Indian educational platform is known for this style of video?",
+    "options": [
+      "Physics Wallah (Alakh Pandey)",
+      "Unacademy",
+      "BYJU's",
+      "Vedantu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This 2020s film clip features which famous song?",
+    "options": [
+      "Naatu Naatu (RRR)",
+      "Jhoome Jo Pathaan",
+      "Tum Kya Mile",
+      "Kesariya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
+    "options": [
+      "CarryMinati / Triggered Insaan",
+      "Bhuvan Bam (BB Ki Vines)",
+      "Fukra Insaan",
+      "Slayy Point"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian sports moment is this?",
+    "options": [
+      "India winning Thomas Cup / Women's U19 WC",
+      "T20 World Cup 2024",
+      "Neeraj Chopra Gold",
+      "IPL Final 2023"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2020s viral meme video is this?",
+    "options": [
+      "Pawri Ho Rahi Hai",
+      "Rasode Mein Kaun Tha",
+      "Binod",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
+    "options": [
+      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
+      "RRR (Naatu Naatu)",
+      "KGF (Rocky Bhai)",
+      "Salaar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This video shows which famous 2020s Indian reality TV pitch?",
+    "options": [
+      "Shark Tank India (Pitchers)",
+      "MasterChef India",
+      "Khatron Ke Khiladi",
+      "Bigg Boss OTT"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian web series does this gritty scene belong to?",
+    "options": [
+      "The Family Man / Mirzapur",
+      "Scam 1992",
+      "Panchayat",
+      "Aspirants"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this popular 2020s gaming stream.",
+    "options": [
+      "BGMI (Battlegrounds Mobile India) Tournament",
+      "Free Fire",
+      "Valorant India",
+      "GTA V Roleplay"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
+    "question": "What phenomenon does this 2020s ad belong to?",
+    "options": [
+      "CRED Ads (featuring retro celebs)",
+      "Zomato Delivery Ads",
+      "Dream11 IPL Ads",
+      "Swiggy Instamart"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2020s Indian educational platform is known for this style of video?",
+    "options": [
+      "Physics Wallah (Alakh Pandey)",
+      "Unacademy",
+      "BYJU's",
+      "Vedantu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This 2020s film clip features which famous song?",
+    "options": [
+      "Naatu Naatu (RRR)",
+      "Jhoome Jo Pathaan",
+      "Tum Kya Mile",
+      "Kesariya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
+    "options": [
+      "CarryMinati / Triggered Insaan",
+      "Bhuvan Bam (BB Ki Vines)",
+      "Fukra Insaan",
+      "Slayy Point"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian sports moment is this?",
+    "options": [
+      "India winning Thomas Cup / Women's U19 WC",
+      "T20 World Cup 2024",
+      "Neeraj Chopra Gold",
+      "IPL Final 2023"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 2020s viral meme video is this?",
+    "options": [
+      "Pawri Ho Rahi Hai",
+      "Rasode Mein Kaun Tha",
+      "Binod",
+      "Jal Lijiye"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
+    "options": [
+      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
+      "RRR (Naatu Naatu)",
+      "KGF (Rocky Bhai)",
+      "Salaar"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This video shows which famous 2020s Indian reality TV pitch?",
+    "options": [
+      "Shark Tank India (Pitchers)",
+      "MasterChef India",
+      "Khatron Ke Khiladi",
+      "Bigg Boss OTT"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian web series does this gritty scene belong to?",
+    "options": [
+      "The Family Man / Mirzapur",
+      "Scam 1992",
+      "Panchayat",
+      "Aspirants"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this popular 2020s gaming stream.",
+    "options": [
+      "BGMI (Battlegrounds Mobile India) Tournament",
+      "Free Fire",
+      "Valorant India",
+      "GTA V Roleplay"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
+    "question": "What phenomenon does this 2020s ad belong to?",
+    "options": [
+      "CRED Ads (featuring retro celebs)",
+      "Zomato Delivery Ads",
+      "Dream11 IPL Ads",
+      "Swiggy Instamart"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 2020s Indian educational platform is known for this style of video?",
+    "options": [
+      "Physics Wallah (Alakh Pandey)",
+      "Unacademy",
+      "BYJU's",
+      "Vedantu"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
+    "question": "This 2020s film clip features which famous song?",
+    "options": [
+      "Naatu Naatu (RRR)",
+      "Jhoome Jo Pathaan",
+      "Tum Kya Mile",
+      "Kesariya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
+    "options": [
+      "CarryMinati / Triggered Insaan",
+      "Bhuvan Bam (BB Ki Vines)",
+      "Fukra Insaan",
+      "Slayy Point"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
+    "question": "Which 2020s Indian sports moment is this?",
+    "options": [
+      "India winning Thomas Cup / Women's U19 WC",
+      "T20 World Cup 2024",
+      "Neeraj Chopra Gold",
+      "IPL Final 2023"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s popular Indian kids' cartoon character.",
-    "mediaUrl": "https://picsum.photos/seed/Little%20Singham%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Little%20Singham%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Little Singham",
       "Motu Patlu",
@@ -616,7 +1916,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which famous Indian 2020s meme is this?",
-    "mediaUrl": "https://picsum.photos/seed/Binod%202020s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Binod%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Binod",
       "Jal Lijiye",
@@ -629,7 +1929,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this legendary 2020s Indian e-sports game.",
-    "mediaUrl": "https://picsum.photos/seed/BGMI%20(Battlegrounds%20Mobile%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/BGMI%20(Battlegrounds%20Mobile%20India)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "BGMI (Battlegrounds Mobile India)",
       "Free Fire",
@@ -642,7 +1942,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this iconic 2020s Indian digital creator.",
-    "mediaUrl": "https://picsum.photos/seed/CarryMinati%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/CarryMinati%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "CarryMinati",
       "Bhuvan Bam",
@@ -655,7 +1955,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian OTT series character.",
-    "mediaUrl": "https://picsum.photos/seed/Harshad%20Mehta%20(Scam%201992)%202020/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Harshad%20Mehta%20(Scam%201992)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Harshad Mehta (Scam 1992)",
       "Gaitonde (Sacred Games)",
@@ -668,7 +1968,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Bollywood actor is known for this action scene?",
-    "mediaUrl": "https://picsum.photos/seed/Tiger%20Shroff%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tiger%20Shroff%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tiger Shroff",
       "Hrithik Roshan",
@@ -681,7 +1981,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian viral music video.",
-    "mediaUrl": "https://picsum.photos/seed/Kacha%20Badam%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kacha%20Badam%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kacha Badam",
       "Manike Mage Hithe",
@@ -694,7 +1994,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian TV advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Cred%202020s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Cred%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Cred",
       "Dream11",
@@ -707,7 +2007,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian cricket moment.",
-    "mediaUrl": "https://picsum.photos/seed/Rishabh%20Pant%20at%20Gabba%202020s%20In/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rishabh%20Pant%20at%20Gabba%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rishabh Pant at Gabba",
       "Kohli 82 vs Pakistan",
@@ -720,7 +2020,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian snack brand.",
-    "mediaUrl": "https://picsum.photos/seed/Too%20Yumm%202020s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Too%20Yumm%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Too Yumm",
       "Bingo Twist",
@@ -733,7 +2033,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s kids show features this magical girl?",
-    "mediaUrl": "https://picsum.photos/seed/Rudra%202020s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rudra%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rudra",
       "Baalveer Returns",
@@ -746,7 +2046,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this iconic 2020s Indian mobile application.",
-    "mediaUrl": "https://picsum.photos/seed/UPI%20(BharatPe%2FPhonePe%2FGPay)%2020/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/UPI%20(BharatPe%2FPhonePe%2FGPay)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "UPI (BharatPe/PhonePe/GPay)",
       "Paytm",
@@ -759,7 +2059,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Pan-Indian blockbuster movie.",
-    "mediaUrl": "https://picsum.photos/seed/RRR%202020s%20India%20Bollywood%20TV%20g/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/RRR%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "RRR",
       "KGF Chapter 2",
@@ -772,7 +2072,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian comedy sketch group.",
-    "mediaUrl": "https://picsum.photos/seed/AIB%202020s%20India%20Bollywood%20TV%20g/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/AIB%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "AIB",
       "FilterCopy",
@@ -785,7 +2085,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s viral Indian street food trend.",
-    "mediaUrl": "https://picsum.photos/seed/Fanta%20Maggi%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Fanta%20Maggi%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Fanta Maggi",
       "Cheese Burst Dosa",
@@ -798,7 +2098,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian music sensation.",
-    "mediaUrl": "https://picsum.photos/seed/AP%20Dhillon%202020s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/AP%20Dhillon%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "AP Dhillon",
       "Sidhu Moose Wala",
@@ -811,7 +2111,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian film won a National Award for Best Actor?",
-    "mediaUrl": "https://picsum.photos/seed/Allu%20Arjun%20(Pushpa)%202020s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Allu%20Arjun%20(Pushpa)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Allu Arjun (Pushpa)",
       "Suriya (Soorarai Pottru)",
@@ -824,7 +2124,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian start-up founder.",
-    "mediaUrl": "https://picsum.photos/seed/Ashneer%20Grover%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Ashneer%20Grover%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Ashneer Grover",
       "Aman Gupta",
@@ -837,7 +2137,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this popular 2020s Indian animation movie.",
-    "mediaUrl": "https://picsum.photos/seed/Hanuman%20vs%20Mahiravana%202020s%20In/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hanuman%20vs%20Mahiravana%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hanuman vs Mahiravana",
       "Chhota Bheem Kung Fu Dhamaka",
@@ -850,7 +2150,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s legendary Indian playback singer.",
-    "mediaUrl": "https://picsum.photos/seed/Arijit%20Singh%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Arijit%20Singh%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Arijit Singh",
       "Jubin Nautiyal",
@@ -863,7 +2163,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Bollywood actress known for 'Pasoori' cover.",
-    "mediaUrl": "https://picsum.photos/seed/Alia%20Bhatt%202020s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Alia%20Bhatt%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Alia Bhatt",
       "Kiara Advani",
@@ -876,7 +2176,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian web series featured students in an engineering college?",
-    "mediaUrl": "https://picsum.photos/seed/Kota%20Factory%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kota%20Factory%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kota Factory",
       "Hostel Daze",
@@ -889,7 +2189,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this iconic 2020s Indian smartwatch brand.",
-    "mediaUrl": "https://picsum.photos/seed/boAt%202020s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/boAt%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "boAt",
       "Noise",
@@ -902,7 +2202,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian Shark Tank judge.",
-    "mediaUrl": "https://picsum.photos/seed/Anupam%20Mittal%202020s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Anupam%20Mittal%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Anupam Mittal",
       "Vineeta Singh",
@@ -915,7 +2215,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Bollywood romantic comedy.",
-    "mediaUrl": "https://picsum.photos/seed/Tu%20Jhoothi%20Main%20Makkaar%202020s%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tu%20Jhoothi%20Main%20Makkaar%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tu Jhoothi Main Makkaar",
       "Rocky Aur Rani Kii Prem Kahaani",
@@ -928,7 +2228,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this iconic 2020s Indian digital payment soundbox.",
-    "mediaUrl": "https://picsum.photos/seed/Paytm%20Soundbox%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Paytm%20Soundbox%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Paytm Soundbox",
       "PhonePe SmartSpeaker",
@@ -941,7 +2241,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian cricket legend is known as 'Hitman'?",
-    "mediaUrl": "https://picsum.photos/seed/Rohit%20Sharma%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rohit%20Sharma%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rohit Sharma",
       "Virat Kohli",
@@ -954,7 +2254,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian reality TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Shark%20Tank%20India%202020s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shark%20Tank%20India%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shark Tank India",
       "MasterChef India",
@@ -967,7 +2267,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian meme template.",
-    "mediaUrl": "https://picsum.photos/seed/Giga%20Chad%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Giga%20Chad%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Giga Chad",
       "Drake Hotline Bling",
@@ -980,7 +2280,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian EdTech giant mascot.",
-    "mediaUrl": "https://picsum.photos/seed/Byju's%202020s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Byju's%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Byju's",
       "Unacademy",
@@ -993,7 +2293,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Pan-Indian movie featuring an underworld don.",
-    "mediaUrl": "https://picsum.photos/seed/KGF%20Chapter%202%202020s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/KGF%20Chapter%202%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "KGF Chapter 2",
       "Pushpa",
@@ -1006,7 +2306,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian web series featured an intelligence officer?",
-    "mediaUrl": "https://picsum.photos/seed/The%20Family%20Man%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/The%20Family%20Man%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "The Family Man",
       "Special OPS",
@@ -1019,7 +2319,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this iconic 2020s Indian independent artist.",
-    "mediaUrl": "https://picsum.photos/seed/Prateek%20Kuhad%202020s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Prateek%20Kuhad%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Prateek Kuhad",
       "Anuv Jain",
@@ -1032,7 +2332,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this legendary 2020s Indian sports achievement.",
-    "mediaUrl": "https://picsum.photos/seed/Neeraj%20Chopra%20Olympic%20Gold%20202/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Neeraj%20Chopra%20Olympic%20Gold%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Neeraj Chopra Olympic Gold",
       "Thomas Cup Win",
@@ -1045,7 +2345,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian tech YouTuber.",
-    "mediaUrl": "https://picsum.photos/seed/Technical%20Guruji%202020s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Technical%20Guruji%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Technical Guruji",
       "Trakin Tech",
@@ -1058,7 +2358,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian online multiplayer ludo game.",
-    "mediaUrl": "https://picsum.photos/seed/Ludo%20King%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Ludo%20King%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Ludo King",
       "Ludo Supreme",
@@ -1071,7 +2371,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Bollywood film featured the 'Naatu Naatu' song?",
-    "mediaUrl": "https://picsum.photos/seed/RRR%202020s%20India%20Bollywood%20TV%20g/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/RRR%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "RRR",
       "Baahubali",
@@ -1084,7 +2384,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian dark comedy series.",
-    "mediaUrl": "https://picsum.photos/seed/Panchayat%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Panchayat%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Panchayat",
       "Gullak",
@@ -1097,7 +2397,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this legendary 2020s Indian female playback singer.",
-    "mediaUrl": "https://picsum.photos/seed/Neha%20Kakkar%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Neha%20Kakkar%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Neha Kakkar",
       "Asees Kaur",
@@ -1110,7 +2410,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s popular Indian meme song.",
-    "mediaUrl": "https://picsum.photos/seed/Moye%20Moye%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Moye%20Moye%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Moye Moye",
       "Kacha Badam",
@@ -1123,7 +2423,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Bollywood movie featuring a female spy.",
-    "mediaUrl": "https://picsum.photos/seed/Pathaan%202020s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pathaan%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pathaan",
       "Tiger 3",
@@ -1136,7 +2436,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian TV show featured a spelling bee competition for kids?",
-    "mediaUrl": "https://picsum.photos/seed/India's%20Spelling%20Champion%202020/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/India's%20Spelling%20Champion%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "India's Spelling Champion",
       "Spell Bee India",
@@ -1149,7 +2449,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this iconic 2020s Indian female cricketer.",
-    "mediaUrl": "https://picsum.photos/seed/Smriti%20Mandhana%202020s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Smriti%20Mandhana%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Smriti Mandhana",
       "Harmanpreet Kaur",
@@ -1162,7 +2462,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this popular 2020s Indian indie pop track.",
-    "mediaUrl": "https://picsum.photos/seed/Udd%20Gaye%202020s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Udd%20Gaye%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Udd Gaye",
       "Baarishein",
@@ -1175,7 +2475,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian stadium known for IPL finals.",
-    "mediaUrl": "https://picsum.photos/seed/Narendra%20Modi%20Stadium%202020s%20In/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Narendra%20Modi%20Stadium%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Narendra Modi Stadium",
       "Wankhede Stadium",
@@ -1188,7 +2488,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian stand-up comedian.",
-    "mediaUrl": "https://picsum.photos/seed/Zakir%20Khan%202020s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Zakir%20Khan%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Zakir Khan",
       "Abhishek Upmanyu",
@@ -1201,7 +2501,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian web show featured UPSC aspirants?",
-    "mediaUrl": "https://picsum.photos/seed/Aspirants%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Aspirants%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Aspirants",
       "Kota Factory",
@@ -1214,7 +2514,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this classic 2020s Indian smartphone brand.",
-    "mediaUrl": "https://picsum.photos/seed/Poco%202020s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Poco%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Poco",
       "OnePlus",
@@ -1227,7 +2527,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this legendary 2020s Indian music composer duo.",
-    "mediaUrl": "https://picsum.photos/seed/Sachin-Jigar%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Sachin-Jigar%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Sachin-Jigar",
       "Ajay-Atul",
@@ -1240,7 +2540,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian movie known for the 'Tum Kya Mile' song.",
-    "mediaUrl": "https://picsum.photos/seed/Rocky%20Aur%20Rani%20Kii%20Prem%20Kahaan/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rocky%20Aur%20Rani%20Kii%20Prem%20Kahaani%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rocky Aur Rani Kii Prem Kahaani",
       "Brahmastra",
@@ -1253,7 +2553,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s popular Indian kids' cartoon character.",
-    "mediaUrl": "https://picsum.photos/seed/Little%20Singham%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Little%20Singham%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Little Singham",
       "Motu Patlu",
@@ -1266,7 +2566,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which famous Indian 2020s meme is this?",
-    "mediaUrl": "https://picsum.photos/seed/Binod%202020s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Binod%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Binod",
       "Jal Lijiye",
@@ -1279,7 +2579,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this legendary 2020s Indian e-sports game.",
-    "mediaUrl": "https://picsum.photos/seed/BGMI%20(Battlegrounds%20Mobile%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/BGMI%20(Battlegrounds%20Mobile%20India)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "BGMI (Battlegrounds Mobile India)",
       "Free Fire",
@@ -1292,7 +2592,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this iconic 2020s Indian digital creator.",
-    "mediaUrl": "https://picsum.photos/seed/CarryMinati%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/CarryMinati%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "CarryMinati",
       "Bhuvan Bam",
@@ -1305,7 +2605,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian OTT series character.",
-    "mediaUrl": "https://picsum.photos/seed/Harshad%20Mehta%20(Scam%201992)%202020/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Harshad%20Mehta%20(Scam%201992)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Harshad Mehta (Scam 1992)",
       "Gaitonde (Sacred Games)",
@@ -1318,7 +2618,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Bollywood actor is known for this action scene?",
-    "mediaUrl": "https://picsum.photos/seed/Tiger%20Shroff%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tiger%20Shroff%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tiger Shroff",
       "Hrithik Roshan",
@@ -1331,7 +2631,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian viral music video.",
-    "mediaUrl": "https://picsum.photos/seed/Kacha%20Badam%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kacha%20Badam%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kacha Badam",
       "Manike Mage Hithe",
@@ -1344,7 +2644,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian TV advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Cred%202020s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Cred%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Cred",
       "Dream11",
@@ -1357,7 +2657,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian cricket moment.",
-    "mediaUrl": "https://picsum.photos/seed/Rishabh%20Pant%20at%20Gabba%202020s%20In/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rishabh%20Pant%20at%20Gabba%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rishabh Pant at Gabba",
       "Kohli 82 vs Pakistan",
@@ -1370,7 +2670,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian snack brand.",
-    "mediaUrl": "https://picsum.photos/seed/Too%20Yumm%202020s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Too%20Yumm%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Too Yumm",
       "Bingo Twist",
@@ -1383,7 +2683,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s kids show features this magical girl?",
-    "mediaUrl": "https://picsum.photos/seed/Rudra%202020s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rudra%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rudra",
       "Baalveer Returns",
@@ -1396,7 +2696,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this iconic 2020s Indian mobile application.",
-    "mediaUrl": "https://picsum.photos/seed/UPI%20(BharatPe%2FPhonePe%2FGPay)%2020/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/UPI%20(BharatPe%2FPhonePe%2FGPay)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "UPI (BharatPe/PhonePe/GPay)",
       "Paytm",
@@ -1409,7 +2709,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Pan-Indian blockbuster movie.",
-    "mediaUrl": "https://picsum.photos/seed/RRR%202020s%20India%20Bollywood%20TV%20g/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/RRR%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "RRR",
       "KGF Chapter 2",
@@ -1422,7 +2722,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian comedy sketch group.",
-    "mediaUrl": "https://picsum.photos/seed/AIB%202020s%20India%20Bollywood%20TV%20g/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/AIB%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "AIB",
       "FilterCopy",
@@ -1435,7 +2735,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s viral Indian street food trend.",
-    "mediaUrl": "https://picsum.photos/seed/Fanta%20Maggi%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Fanta%20Maggi%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Fanta Maggi",
       "Cheese Burst Dosa",
@@ -1448,7 +2748,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian music sensation.",
-    "mediaUrl": "https://picsum.photos/seed/AP%20Dhillon%202020s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/AP%20Dhillon%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "AP Dhillon",
       "Sidhu Moose Wala",
@@ -1461,7 +2761,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian film won a National Award for Best Actor?",
-    "mediaUrl": "https://picsum.photos/seed/Allu%20Arjun%20(Pushpa)%202020s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Allu%20Arjun%20(Pushpa)%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Allu Arjun (Pushpa)",
       "Suriya (Soorarai Pottru)",
@@ -1474,7 +2774,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian start-up founder.",
-    "mediaUrl": "https://picsum.photos/seed/Ashneer%20Grover%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Ashneer%20Grover%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Ashneer Grover",
       "Aman Gupta",
@@ -1487,7 +2787,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this popular 2020s Indian animation movie.",
-    "mediaUrl": "https://picsum.photos/seed/Hanuman%20vs%20Mahiravana%202020s%20In/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hanuman%20vs%20Mahiravana%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hanuman vs Mahiravana",
       "Chhota Bheem Kung Fu Dhamaka",
@@ -1500,7 +2800,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s legendary Indian playback singer.",
-    "mediaUrl": "https://picsum.photos/seed/Arijit%20Singh%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Arijit%20Singh%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Arijit Singh",
       "Jubin Nautiyal",
@@ -1513,7 +2813,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Bollywood actress known for 'Pasoori' cover.",
-    "mediaUrl": "https://picsum.photos/seed/Alia%20Bhatt%202020s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Alia%20Bhatt%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Alia Bhatt",
       "Kiara Advani",
@@ -1526,7 +2826,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian web series featured students in an engineering college?",
-    "mediaUrl": "https://picsum.photos/seed/Kota%20Factory%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kota%20Factory%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kota Factory",
       "Hostel Daze",
@@ -1539,7 +2839,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this iconic 2020s Indian smartwatch brand.",
-    "mediaUrl": "https://picsum.photos/seed/boAt%202020s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/boAt%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "boAt",
       "Noise",
@@ -1552,7 +2852,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian Shark Tank judge.",
-    "mediaUrl": "https://picsum.photos/seed/Anupam%20Mittal%202020s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Anupam%20Mittal%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Anupam Mittal",
       "Vineeta Singh",
@@ -1565,7 +2865,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Bollywood romantic comedy.",
-    "mediaUrl": "https://picsum.photos/seed/Tu%20Jhoothi%20Main%20Makkaar%202020s%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tu%20Jhoothi%20Main%20Makkaar%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tu Jhoothi Main Makkaar",
       "Rocky Aur Rani Kii Prem Kahaani",
@@ -1578,7 +2878,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this iconic 2020s Indian digital payment soundbox.",
-    "mediaUrl": "https://picsum.photos/seed/Paytm%20Soundbox%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Paytm%20Soundbox%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Paytm Soundbox",
       "PhonePe SmartSpeaker",
@@ -1591,7 +2891,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian cricket legend is known as 'Hitman'?",
-    "mediaUrl": "https://picsum.photos/seed/Rohit%20Sharma%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rohit%20Sharma%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rohit Sharma",
       "Virat Kohli",
@@ -1604,7 +2904,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian reality TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Shark%20Tank%20India%202020s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shark%20Tank%20India%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shark Tank India",
       "MasterChef India",
@@ -1617,7 +2917,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this famous 2020s Indian meme template.",
-    "mediaUrl": "https://picsum.photos/seed/Giga%20Chad%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Giga%20Chad%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Giga Chad",
       "Drake Hotline Bling",
@@ -1630,7 +2930,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian EdTech giant mascot.",
-    "mediaUrl": "https://picsum.photos/seed/Byju's%202020s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Byju's%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Byju's",
       "Unacademy",
@@ -1643,7 +2943,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Pan-Indian movie featuring an underworld don.",
-    "mediaUrl": "https://picsum.photos/seed/KGF%20Chapter%202%202020s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/KGF%20Chapter%202%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "KGF Chapter 2",
       "Pushpa",
@@ -1656,7 +2956,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian web series featured an intelligence officer?",
-    "mediaUrl": "https://picsum.photos/seed/The%20Family%20Man%202020s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/The%20Family%20Man%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "The Family Man",
       "Special OPS",
@@ -1669,7 +2969,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this iconic 2020s Indian independent artist.",
-    "mediaUrl": "https://picsum.photos/seed/Prateek%20Kuhad%202020s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Prateek%20Kuhad%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Prateek Kuhad",
       "Anuv Jain",
@@ -1682,7 +2982,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this legendary 2020s Indian sports achievement.",
-    "mediaUrl": "https://picsum.photos/seed/Neeraj%20Chopra%20Olympic%20Gold%20202/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Neeraj%20Chopra%20Olympic%20Gold%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Neeraj Chopra Olympic Gold",
       "Thomas Cup Win",
@@ -1695,7 +2995,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian tech YouTuber.",
-    "mediaUrl": "https://picsum.photos/seed/Technical%20Guruji%202020s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Technical%20Guruji%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Technical Guruji",
       "Trakin Tech",
@@ -1708,7 +3008,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian online multiplayer ludo game.",
-    "mediaUrl": "https://picsum.photos/seed/Ludo%20King%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Ludo%20King%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Ludo King",
       "Ludo Supreme",
@@ -1721,7 +3021,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Bollywood film featured the 'Naatu Naatu' song?",
-    "mediaUrl": "https://picsum.photos/seed/RRR%202020s%20India%20Bollywood%20TV%20g/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/RRR%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "RRR",
       "Baahubali",
@@ -1734,7 +3034,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this popular 2020s Indian dark comedy series.",
-    "mediaUrl": "https://picsum.photos/seed/Panchayat%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Panchayat%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Panchayat",
       "Gullak",
@@ -1747,7 +3047,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this legendary 2020s Indian female playback singer.",
-    "mediaUrl": "https://picsum.photos/seed/Neha%20Kakkar%202020s%20India%20Bollyw/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Neha%20Kakkar%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Neha Kakkar",
       "Asees Kaur",
@@ -1760,7 +3060,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s popular Indian meme song.",
-    "mediaUrl": "https://picsum.photos/seed/Moye%20Moye%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Moye%20Moye%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Moye Moye",
       "Kacha Badam",
@@ -1773,7 +3073,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Bollywood movie featuring a female spy.",
-    "mediaUrl": "https://picsum.photos/seed/Pathaan%202020s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pathaan%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pathaan",
       "Tiger 3",
@@ -1786,7 +3086,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian TV show featured a spelling bee competition for kids?",
-    "mediaUrl": "https://picsum.photos/seed/India's%20Spelling%20Champion%202020/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/India's%20Spelling%20Champion%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "India's Spelling Champion",
       "Spell Bee India",
@@ -1799,7 +3099,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this iconic 2020s Indian female cricketer.",
-    "mediaUrl": "https://picsum.photos/seed/Smriti%20Mandhana%202020s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Smriti%20Mandhana%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Smriti Mandhana",
       "Harmanpreet Kaur",
@@ -1812,7 +3112,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this popular 2020s Indian indie pop track.",
-    "mediaUrl": "https://picsum.photos/seed/Udd%20Gaye%202020s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Udd%20Gaye%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Udd Gaye",
       "Baarishein",
@@ -1825,7 +3125,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian stadium known for IPL finals.",
-    "mediaUrl": "https://picsum.photos/seed/Narendra%20Modi%20Stadium%202020s%20In/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Narendra%20Modi%20Stadium%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Narendra Modi Stadium",
       "Wankhede Stadium",
@@ -1838,7 +3138,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Name this 2020s Indian stand-up comedian.",
-    "mediaUrl": "https://picsum.photos/seed/Zakir%20Khan%202020s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Zakir%20Khan%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Zakir Khan",
       "Abhishek Upmanyu",
@@ -1851,7 +3151,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Which 2020s Indian web show featured UPSC aspirants?",
-    "mediaUrl": "https://picsum.photos/seed/Aspirants%202020s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Aspirants%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Aspirants",
       "Kota Factory",
@@ -1864,7 +3164,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this classic 2020s Indian smartphone brand.",
-    "mediaUrl": "https://picsum.photos/seed/Poco%202020s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Poco%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Poco",
       "OnePlus",
@@ -1877,7 +3177,7 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Guess this legendary 2020s Indian music composer duo.",
-    "mediaUrl": "https://picsum.photos/seed/Sachin-Jigar%202020s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Sachin-Jigar%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Sachin-Jigar",
       "Ajay-Atul",
@@ -1890,1312 +3190,12 @@
     "era": "GenAlpha",
     "type": "image",
     "question": "Identify this 2020s Indian movie known for the 'Tum Kya Mile' song.",
-    "mediaUrl": "https://picsum.photos/seed/Rocky%20Aur%20Rani%20Kii%20Prem%20Kahaan/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rocky%20Aur%20Rani%20Kii%20Prem%20Kahaani%202020s%20India%20Bollywood%20TV%20gen-alpha%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rocky Aur Rani Kii Prem Kahaani",
       "Brahmastra",
       "Bawaal",
       "Satyaprem Ki Katha"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this popular 2020s viral Hindi meme audio.",
-    "options": [
-      "Moye Moye / Kacha Badam",
-      "Rasode Mein Kaun Tha",
-      "Pawri Ho Rahi Hai",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
-    "options": [
-      "Mortal / Dynamo / Scout style",
-      "CarryMinati",
-      "Triggered Insaan",
-      "Jonathan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
-    "options": [
-      "CarryMinati (Yalgaar era)",
-      "BB Ki Vines",
-      "Ashish Chanchlani",
-      "Technical Guruji"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
-    "options": [
-      "Paytm 'Received' Soundbox",
-      "PhonePe",
-      "Google Pay",
-      "CRED"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2020s pan-Indian movie background score is this?",
-    "options": [
-      "KGF Chapter 2",
-      "RRR",
-      "Pushpa",
-      "Baahubali 2"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 2020s viral Indian indie pop song.",
-    "options": [
-      "Pasoori (Coke Studio / Ali Sethi)",
-      "Manike Mage Hithe",
-      "Udd Gaye",
-      "Baarishein"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s shark tank judge's catchphrase is this?",
-    "options": [
-      "Ashneer Grover (Yeh sab doglapan hai)",
-      "Aman Gupta",
-      "Anupam Mittal",
-      "Namita Thapar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This rap beat belongs to which 2020s viral Indian artist?",
-    "options": [
-      "MC Stan / AP Dhillon",
-      "Divine",
-      "Naezy",
-      "Krsna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s short-form video platform popularized this audio trend?",
-    "options": [
-      "Instagram Reels / TikTok India",
-      "YouTube Shorts",
-      "Snapchat",
-      "Moj"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the 2020s Indian commentator describing this sports moment.",
-    "options": [
-      "Neeraj Chopra Olympic Gold call",
-      "IPL 2023 Final (Jadeja)",
-      "T20 World Cup 2022 (Kohli vs Pak)",
-      "Thomas Cup victory"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this popular 2020s viral Hindi meme audio.",
-    "options": [
-      "Moye Moye / Kacha Badam",
-      "Rasode Mein Kaun Tha",
-      "Pawri Ho Rahi Hai",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
-    "options": [
-      "Mortal / Dynamo / Scout style",
-      "CarryMinati",
-      "Triggered Insaan",
-      "Jonathan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
-    "options": [
-      "CarryMinati (Yalgaar era)",
-      "BB Ki Vines",
-      "Ashish Chanchlani",
-      "Technical Guruji"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
-    "options": [
-      "Paytm 'Received' Soundbox",
-      "PhonePe",
-      "Google Pay",
-      "CRED"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s pan-Indian movie background score is this?",
-    "options": [
-      "KGF Chapter 2",
-      "RRR",
-      "Pushpa",
-      "Baahubali 2"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 2020s viral Indian indie pop song.",
-    "options": [
-      "Pasoori (Coke Studio / Ali Sethi)",
-      "Manike Mage Hithe",
-      "Udd Gaye",
-      "Baarishein"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2020s shark tank judge's catchphrase is this?",
-    "options": [
-      "Ashneer Grover (Yeh sab doglapan hai)",
-      "Aman Gupta",
-      "Anupam Mittal",
-      "Namita Thapar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This rap beat belongs to which 2020s viral Indian artist?",
-    "options": [
-      "MC Stan / AP Dhillon",
-      "Divine",
-      "Naezy",
-      "Krsna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s short-form video platform popularized this audio trend?",
-    "options": [
-      "Instagram Reels / TikTok India",
-      "YouTube Shorts",
-      "Snapchat",
-      "Moj"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify the 2020s Indian commentator describing this sports moment.",
-    "options": [
-      "Neeraj Chopra Olympic Gold call",
-      "IPL 2023 Final (Jadeja)",
-      "T20 World Cup 2022 (Kohli vs Pak)",
-      "Thomas Cup victory"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this popular 2020s viral Hindi meme audio.",
-    "options": [
-      "Moye Moye / Kacha Badam",
-      "Rasode Mein Kaun Tha",
-      "Pawri Ho Rahi Hai",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
-    "options": [
-      "Mortal / Dynamo / Scout style",
-      "CarryMinati",
-      "Triggered Insaan",
-      "Jonathan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
-    "options": [
-      "CarryMinati (Yalgaar era)",
-      "BB Ki Vines",
-      "Ashish Chanchlani",
-      "Technical Guruji"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
-    "options": [
-      "Paytm 'Received' Soundbox",
-      "PhonePe",
-      "Google Pay",
-      "CRED"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s pan-Indian movie background score is this?",
-    "options": [
-      "KGF Chapter 2",
-      "RRR",
-      "Pushpa",
-      "Baahubali 2"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this 2020s viral Indian indie pop song.",
-    "options": [
-      "Pasoori (Coke Studio / Ali Sethi)",
-      "Manike Mage Hithe",
-      "Udd Gaye",
-      "Baarishein"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s shark tank judge's catchphrase is this?",
-    "options": [
-      "Ashneer Grover (Yeh sab doglapan hai)",
-      "Aman Gupta",
-      "Anupam Mittal",
-      "Namita Thapar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This rap beat belongs to which 2020s viral Indian artist?",
-    "options": [
-      "MC Stan / AP Dhillon",
-      "Divine",
-      "Naezy",
-      "Krsna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2020s short-form video platform popularized this audio trend?",
-    "options": [
-      "Instagram Reels / TikTok India",
-      "YouTube Shorts",
-      "Snapchat",
-      "Moj"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the 2020s Indian commentator describing this sports moment.",
-    "options": [
-      "Neeraj Chopra Olympic Gold call",
-      "IPL 2023 Final (Jadeja)",
-      "T20 World Cup 2022 (Kohli vs Pak)",
-      "Thomas Cup victory"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this popular 2020s viral Hindi meme audio.",
-    "options": [
-      "Moye Moye / Kacha Badam",
-      "Rasode Mein Kaun Tha",
-      "Pawri Ho Rahi Hai",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
-    "options": [
-      "Mortal / Dynamo / Scout style",
-      "CarryMinati",
-      "Triggered Insaan",
-      "Jonathan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
-    "options": [
-      "CarryMinati (Yalgaar era)",
-      "BB Ki Vines",
-      "Ashish Chanchlani",
-      "Technical Guruji"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
-    "options": [
-      "Paytm 'Received' Soundbox",
-      "PhonePe",
-      "Google Pay",
-      "CRED"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2020s pan-Indian movie background score is this?",
-    "options": [
-      "KGF Chapter 2",
-      "RRR",
-      "Pushpa",
-      "Baahubali 2"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 2020s viral Indian indie pop song.",
-    "options": [
-      "Pasoori (Coke Studio / Ali Sethi)",
-      "Manike Mage Hithe",
-      "Udd Gaye",
-      "Baarishein"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s shark tank judge's catchphrase is this?",
-    "options": [
-      "Ashneer Grover (Yeh sab doglapan hai)",
-      "Aman Gupta",
-      "Anupam Mittal",
-      "Namita Thapar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This rap beat belongs to which 2020s viral Indian artist?",
-    "options": [
-      "MC Stan / AP Dhillon",
-      "Divine",
-      "Naezy",
-      "Krsna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s short-form video platform popularized this audio trend?",
-    "options": [
-      "Instagram Reels / TikTok India",
-      "YouTube Shorts",
-      "Snapchat",
-      "Moj"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the 2020s Indian commentator describing this sports moment.",
-    "options": [
-      "Neeraj Chopra Olympic Gold call",
-      "IPL 2023 Final (Jadeja)",
-      "T20 World Cup 2022 (Kohli vs Pak)",
-      "Thomas Cup victory"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this popular 2020s viral Hindi meme audio.",
-    "options": [
-      "Moye Moye / Kacha Badam",
-      "Rasode Mein Kaun Tha",
-      "Pawri Ho Rahi Hai",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s Indian e-sports caster voice is heard in this clip?",
-    "options": [
-      "Mortal / Dynamo / Scout style",
-      "CarryMinati",
-      "Triggered Insaan",
-      "Jonathan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: This music represents the intro of which 2020s Indian YouTuber?",
-    "options": [
-      "CarryMinati (Yalgaar era)",
-      "BB Ki Vines",
-      "Ashish Chanchlani",
-      "Technical Guruji"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This notification sound comes from which prominent 2020s Indian payment app?",
-    "options": [
-      "Paytm 'Received' Soundbox",
-      "PhonePe",
-      "Google Pay",
-      "CRED"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s pan-Indian movie background score is this?",
-    "options": [
-      "KGF Chapter 2",
-      "RRR",
-      "Pushpa",
-      "Baahubali 2"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 2020s viral Indian indie pop song.",
-    "options": [
-      "Pasoori (Coke Studio / Ali Sethi)",
-      "Manike Mage Hithe",
-      "Udd Gaye",
-      "Baarishein"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 2020s shark tank judge's catchphrase is this?",
-    "options": [
-      "Ashneer Grover (Yeh sab doglapan hai)",
-      "Aman Gupta",
-      "Anupam Mittal",
-      "Namita Thapar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This rap beat belongs to which 2020s viral Indian artist?",
-    "options": [
-      "MC Stan / AP Dhillon",
-      "Divine",
-      "Naezy",
-      "Krsna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 2020s short-form video platform popularized this audio trend?",
-    "options": [
-      "Instagram Reels / TikTok India",
-      "YouTube Shorts",
-      "Snapchat",
-      "Moj"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify the 2020s Indian commentator describing this sports moment.",
-    "options": [
-      "Neeraj Chopra Olympic Gold call",
-      "IPL 2023 Final (Jadeja)",
-      "T20 World Cup 2022 (Kohli vs Pak)",
-      "Thomas Cup victory"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2020s viral meme video is this?",
-    "options": [
-      "Pawri Ho Rahi Hai",
-      "Rasode Mein Kaun Tha",
-      "Binod",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
-    "options": [
-      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
-      "RRR (Naatu Naatu)",
-      "KGF (Rocky Bhai)",
-      "Salaar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This video shows which famous 2020s Indian reality TV pitch?",
-    "options": [
-      "Shark Tank India (Pitchers)",
-      "MasterChef India",
-      "Khatron Ke Khiladi",
-      "Bigg Boss OTT"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian web series does this gritty scene belong to?",
-    "options": [
-      "The Family Man / Mirzapur",
-      "Scam 1992",
-      "Panchayat",
-      "Aspirants"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this popular 2020s gaming stream.",
-    "options": [
-      "BGMI (Battlegrounds Mobile India) Tournament",
-      "Free Fire",
-      "Valorant India",
-      "GTA V Roleplay"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
-    "question": "What phenomenon does this 2020s ad belong to?",
-    "options": [
-      "CRED Ads (featuring retro celebs)",
-      "Zomato Delivery Ads",
-      "Dream11 IPL Ads",
-      "Swiggy Instamart"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2020s Indian educational platform is known for this style of video?",
-    "options": [
-      "Physics Wallah (Alakh Pandey)",
-      "Unacademy",
-      "BYJU's",
-      "Vedantu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This 2020s film clip features which famous song?",
-    "options": [
-      "Naatu Naatu (RRR)",
-      "Jhoome Jo Pathaan",
-      "Tum Kya Mile",
-      "Kesariya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
-    "options": [
-      "CarryMinati / Triggered Insaan",
-      "Bhuvan Bam (BB Ki Vines)",
-      "Fukra Insaan",
-      "Slayy Point"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian sports moment is this?",
-    "options": [
-      "India winning Thomas Cup / Women's U19 WC",
-      "T20 World Cup 2024",
-      "Neeraj Chopra Gold",
-      "IPL Final 2023"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2020s viral meme video is this?",
-    "options": [
-      "Pawri Ho Rahi Hai",
-      "Rasode Mein Kaun Tha",
-      "Binod",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
-    "options": [
-      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
-      "RRR (Naatu Naatu)",
-      "KGF (Rocky Bhai)",
-      "Salaar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This video shows which famous 2020s Indian reality TV pitch?",
-    "options": [
-      "Shark Tank India (Pitchers)",
-      "MasterChef India",
-      "Khatron Ke Khiladi",
-      "Bigg Boss OTT"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian web series does this gritty scene belong to?",
-    "options": [
-      "The Family Man / Mirzapur",
-      "Scam 1992",
-      "Panchayat",
-      "Aspirants"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this popular 2020s gaming stream.",
-    "options": [
-      "BGMI (Battlegrounds Mobile India) Tournament",
-      "Free Fire",
-      "Valorant India",
-      "GTA V Roleplay"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
-    "question": "What phenomenon does this 2020s ad belong to?",
-    "options": [
-      "CRED Ads (featuring retro celebs)",
-      "Zomato Delivery Ads",
-      "Dream11 IPL Ads",
-      "Swiggy Instamart"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2020s Indian educational platform is known for this style of video?",
-    "options": [
-      "Physics Wallah (Alakh Pandey)",
-      "Unacademy",
-      "BYJU's",
-      "Vedantu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This 2020s film clip features which famous song?",
-    "options": [
-      "Naatu Naatu (RRR)",
-      "Jhoome Jo Pathaan",
-      "Tum Kya Mile",
-      "Kesariya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
-    "options": [
-      "CarryMinati / Triggered Insaan",
-      "Bhuvan Bam (BB Ki Vines)",
-      "Fukra Insaan",
-      "Slayy Point"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian sports moment is this?",
-    "options": [
-      "India winning Thomas Cup / Women's U19 WC",
-      "T20 World Cup 2024",
-      "Neeraj Chopra Gold",
-      "IPL Final 2023"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2020s viral meme video is this?",
-    "options": [
-      "Pawri Ho Rahi Hai",
-      "Rasode Mein Kaun Tha",
-      "Binod",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
-    "options": [
-      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
-      "RRR (Naatu Naatu)",
-      "KGF (Rocky Bhai)",
-      "Salaar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This video shows which famous 2020s Indian reality TV pitch?",
-    "options": [
-      "Shark Tank India (Pitchers)",
-      "MasterChef India",
-      "Khatron Ke Khiladi",
-      "Bigg Boss OTT"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian web series does this gritty scene belong to?",
-    "options": [
-      "The Family Man / Mirzapur",
-      "Scam 1992",
-      "Panchayat",
-      "Aspirants"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this popular 2020s gaming stream.",
-    "options": [
-      "BGMI (Battlegrounds Mobile India) Tournament",
-      "Free Fire",
-      "Valorant India",
-      "GTA V Roleplay"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
-    "question": "What phenomenon does this 2020s ad belong to?",
-    "options": [
-      "CRED Ads (featuring retro celebs)",
-      "Zomato Delivery Ads",
-      "Dream11 IPL Ads",
-      "Swiggy Instamart"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2020s Indian educational platform is known for this style of video?",
-    "options": [
-      "Physics Wallah (Alakh Pandey)",
-      "Unacademy",
-      "BYJU's",
-      "Vedantu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This 2020s film clip features which famous song?",
-    "options": [
-      "Naatu Naatu (RRR)",
-      "Jhoome Jo Pathaan",
-      "Tum Kya Mile",
-      "Kesariya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
-    "options": [
-      "CarryMinati / Triggered Insaan",
-      "Bhuvan Bam (BB Ki Vines)",
-      "Fukra Insaan",
-      "Slayy Point"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian sports moment is this?",
-    "options": [
-      "India winning Thomas Cup / Women's U19 WC",
-      "T20 World Cup 2024",
-      "Neeraj Chopra Gold",
-      "IPL Final 2023"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2020s viral meme video is this?",
-    "options": [
-      "Pawri Ho Rahi Hai",
-      "Rasode Mein Kaun Tha",
-      "Binod",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
-    "options": [
-      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
-      "RRR (Naatu Naatu)",
-      "KGF (Rocky Bhai)",
-      "Salaar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This video shows which famous 2020s Indian reality TV pitch?",
-    "options": [
-      "Shark Tank India (Pitchers)",
-      "MasterChef India",
-      "Khatron Ke Khiladi",
-      "Bigg Boss OTT"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian web series does this gritty scene belong to?",
-    "options": [
-      "The Family Man / Mirzapur",
-      "Scam 1992",
-      "Panchayat",
-      "Aspirants"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this popular 2020s gaming stream.",
-    "options": [
-      "BGMI (Battlegrounds Mobile India) Tournament",
-      "Free Fire",
-      "Valorant India",
-      "GTA V Roleplay"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
-    "question": "What phenomenon does this 2020s ad belong to?",
-    "options": [
-      "CRED Ads (featuring retro celebs)",
-      "Zomato Delivery Ads",
-      "Dream11 IPL Ads",
-      "Swiggy Instamart"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2020s Indian educational platform is known for this style of video?",
-    "options": [
-      "Physics Wallah (Alakh Pandey)",
-      "Unacademy",
-      "BYJU's",
-      "Vedantu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This 2020s film clip features which famous song?",
-    "options": [
-      "Naatu Naatu (RRR)",
-      "Jhoome Jo Pathaan",
-      "Tum Kya Mile",
-      "Kesariya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
-    "options": [
-      "CarryMinati / Triggered Insaan",
-      "Bhuvan Bam (BB Ki Vines)",
-      "Fukra Insaan",
-      "Slayy Point"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian sports moment is this?",
-    "options": [
-      "India winning Thomas Cup / Women's U19 WC",
-      "T20 World Cup 2024",
-      "Neeraj Chopra Gold",
-      "IPL Final 2023"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Gd0oN2-u8qM?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 2020s viral meme video is this?",
-    "options": [
-      "Pawri Ho Rahi Hai",
-      "Rasode Mein Kaun Tha",
-      "Binod",
-      "Jal Lijiye"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/jKGjNBszGZg?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this 2020s Pan-Indian blockbuster scene.",
-    "options": [
-      "Pushpa: The Rise (Srivalli/Main Jhukega Nahi)",
-      "RRR (Naatu Naatu)",
-      "KGF (Rocky Bhai)",
-      "Salaar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/1Nzb0-O1bA8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This video shows which famous 2020s Indian reality TV pitch?",
-    "options": [
-      "Shark Tank India (Pitchers)",
-      "MasterChef India",
-      "Khatron Ke Khiladi",
-      "Bigg Boss OTT"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wD2cVhC-63I?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian web series does this gritty scene belong to?",
-    "options": [
-      "The Family Man / Mirzapur",
-      "Scam 1992",
-      "Panchayat",
-      "Aspirants"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/M7X82qEQRww?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this popular 2020s gaming stream.",
-    "options": [
-      "BGMI (Battlegrounds Mobile India) Tournament",
-      "Free Fire",
-      "Valorant India",
-      "GTA V Roleplay"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/3X9RSGXXbYw?start=5&end=20&autoplay=0&rel=0",
-    "question": "What phenomenon does this 2020s ad belong to?",
-    "options": [
-      "CRED Ads (featuring retro celebs)",
-      "Zomato Delivery Ads",
-      "Dream11 IPL Ads",
-      "Swiggy Instamart"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/I1oR_5v26mE?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 2020s Indian educational platform is known for this style of video?",
-    "options": [
-      "Physics Wallah (Alakh Pandey)",
-      "Unacademy",
-      "BYJU's",
-      "Vedantu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2qU2hTXY0N8?start=5&end=20&autoplay=0&rel=0",
-    "question": "This 2020s film clip features which famous song?",
-    "options": [
-      "Naatu Naatu (RRR)",
-      "Jhoome Jo Pathaan",
-      "Tum Kya Mile",
-      "Kesariya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/V9PBRu6GjY4?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this 2020s Indian YouTuber's distinct editing style.",
-    "options": [
-      "CarryMinati / Triggered Insaan",
-      "Bhuvan Bam (BB Ki Vines)",
-      "Fukra Insaan",
-      "Slayy Point"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenAlpha",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Q5aQ-qI_NZE?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which 2020s Indian sports moment is this?",
-    "options": [
-      "India winning Thomas Cup / Women's U19 WC",
-      "T20 World Cup 2024",
-      "Neeraj Chopra Gold",
-      "IPL Final 2023"
     ],
     "correctOption": 0
   }

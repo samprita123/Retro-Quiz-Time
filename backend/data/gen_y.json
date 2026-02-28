@@ -601,9 +601,1309 @@
   },
   {
     "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This 90s Bollywood intro belongs to which film?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge (DDLJ)",
+      "Kuch Kuch Hota Hai",
+      "Hum Aapke Hain Koun",
+      "Dil To Pagal Hai"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 90s Indian pop song does this catchy beat come from?",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Bolo Ta Ra Ra – Daler Mehndi",
+      "Ik Pal Ka Jeena",
+      "Pari Hoon Main"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
+    "options": [
+      "Shaktimaan title track",
+      "Hum Paanch",
+      "Son Pari",
+      "Shankar Jai Kishan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
+    "options": [
+      "Udit Narayan",
+      "Kumar Sanu",
+      "Sonu Nigam",
+      "Abhijeet Bhattacharya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this 90s iconic show opening tune.",
+    "options": [
+      "Antakshari (TV show opening)",
+      "Sa Re Ga Ma Pa opening",
+      "Kaun Banega Crorepati",
+      "Indian Idol opening"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This children's cartoon intro is from which 90s show?",
+    "options": [
+      "Ducktales (Cartoon Network India)",
+      "Shaktimaan",
+      "Chhota Bheem",
+      "Tom and Jerry"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
+    "options": [
+      "Cartoon Network India bumper",
+      "Disney Channel bumper",
+      "Nickelodeon India bumper",
+      "Pogo TV bumper"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
+    "options": [
+      "Nokia ringtone / jingle (1990s India)",
+      "Airtel tune",
+      "Hutch music",
+      "BSNL Landline tone"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 90s Bollywood composer created this dramatic background score style?",
+    "options": [
+      "A.R. Rahman",
+      "Jatin-Lalit",
+      "Nadeem-Shravan",
+      "Anu Malik"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
+    "options": [
+      "Pepsi (Sachin Tendulkar ad)",
+      "Coca Cola",
+      "Gold Spot",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This 90s Bollywood intro belongs to which film?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge (DDLJ)",
+      "Kuch Kuch Hota Hai",
+      "Hum Aapke Hain Koun",
+      "Dil To Pagal Hai"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 90s Indian pop song does this catchy beat come from?",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Bolo Ta Ra Ra – Daler Mehndi",
+      "Ik Pal Ka Jeena",
+      "Pari Hoon Main"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
+    "options": [
+      "Shaktimaan title track",
+      "Hum Paanch",
+      "Son Pari",
+      "Shankar Jai Kishan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
+    "options": [
+      "Udit Narayan",
+      "Kumar Sanu",
+      "Sonu Nigam",
+      "Abhijeet Bhattacharya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 90s iconic show opening tune.",
+    "options": [
+      "Antakshari (TV show opening)",
+      "Sa Re Ga Ma Pa opening",
+      "Kaun Banega Crorepati",
+      "Indian Idol opening"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This children's cartoon intro is from which 90s show?",
+    "options": [
+      "Ducktales (Cartoon Network India)",
+      "Shaktimaan",
+      "Chhota Bheem",
+      "Tom and Jerry"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
+    "options": [
+      "Cartoon Network India bumper",
+      "Disney Channel bumper",
+      "Nickelodeon India bumper",
+      "Pogo TV bumper"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
+    "options": [
+      "Nokia ringtone / jingle (1990s India)",
+      "Airtel tune",
+      "Hutch music",
+      "BSNL Landline tone"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 90s Bollywood composer created this dramatic background score style?",
+    "options": [
+      "A.R. Rahman",
+      "Jatin-Lalit",
+      "Nadeem-Shravan",
+      "Anu Malik"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
+    "options": [
+      "Pepsi (Sachin Tendulkar ad)",
+      "Coca Cola",
+      "Gold Spot",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This 90s Bollywood intro belongs to which film?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge (DDLJ)",
+      "Kuch Kuch Hota Hai",
+      "Hum Aapke Hain Koun",
+      "Dil To Pagal Hai"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 90s Indian pop song does this catchy beat come from?",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Bolo Ta Ra Ra – Daler Mehndi",
+      "Ik Pal Ka Jeena",
+      "Pari Hoon Main"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
+    "options": [
+      "Shaktimaan title track",
+      "Hum Paanch",
+      "Son Pari",
+      "Shankar Jai Kishan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
+    "options": [
+      "Udit Narayan",
+      "Kumar Sanu",
+      "Sonu Nigam",
+      "Abhijeet Bhattacharya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 90s iconic show opening tune.",
+    "options": [
+      "Antakshari (TV show opening)",
+      "Sa Re Ga Ma Pa opening",
+      "Kaun Banega Crorepati",
+      "Indian Idol opening"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This children's cartoon intro is from which 90s show?",
+    "options": [
+      "Ducktales (Cartoon Network India)",
+      "Shaktimaan",
+      "Chhota Bheem",
+      "Tom and Jerry"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
+    "options": [
+      "Cartoon Network India bumper",
+      "Disney Channel bumper",
+      "Nickelodeon India bumper",
+      "Pogo TV bumper"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
+    "options": [
+      "Nokia ringtone / jingle (1990s India)",
+      "Airtel tune",
+      "Hutch music",
+      "BSNL Landline tone"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 90s Bollywood composer created this dramatic background score style?",
+    "options": [
+      "A.R. Rahman",
+      "Jatin-Lalit",
+      "Nadeem-Shravan",
+      "Anu Malik"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
+    "options": [
+      "Pepsi (Sachin Tendulkar ad)",
+      "Coca Cola",
+      "Gold Spot",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This 90s Bollywood intro belongs to which film?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge (DDLJ)",
+      "Kuch Kuch Hota Hai",
+      "Hum Aapke Hain Koun",
+      "Dil To Pagal Hai"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which 90s Indian pop song does this catchy beat come from?",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Bolo Ta Ra Ra – Daler Mehndi",
+      "Ik Pal Ka Jeena",
+      "Pari Hoon Main"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
+    "options": [
+      "Shaktimaan title track",
+      "Hum Paanch",
+      "Son Pari",
+      "Shankar Jai Kishan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
+    "options": [
+      "Udit Narayan",
+      "Kumar Sanu",
+      "Sonu Nigam",
+      "Abhijeet Bhattacharya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this 90s iconic show opening tune.",
+    "options": [
+      "Antakshari (TV show opening)",
+      "Sa Re Ga Ma Pa opening",
+      "Kaun Banega Crorepati",
+      "Indian Idol opening"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This children's cartoon intro is from which 90s show?",
+    "options": [
+      "Ducktales (Cartoon Network India)",
+      "Shaktimaan",
+      "Chhota Bheem",
+      "Tom and Jerry"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
+    "options": [
+      "Cartoon Network India bumper",
+      "Disney Channel bumper",
+      "Nickelodeon India bumper",
+      "Pogo TV bumper"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
+    "options": [
+      "Nokia ringtone / jingle (1990s India)",
+      "Airtel tune",
+      "Hutch music",
+      "BSNL Landline tone"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 90s Bollywood composer created this dramatic background score style?",
+    "options": [
+      "A.R. Rahman",
+      "Jatin-Lalit",
+      "Nadeem-Shravan",
+      "Anu Malik"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
+    "options": [
+      "Pepsi (Sachin Tendulkar ad)",
+      "Coca Cola",
+      "Gold Spot",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This 90s Bollywood intro belongs to which film?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge (DDLJ)",
+      "Kuch Kuch Hota Hai",
+      "Hum Aapke Hain Koun",
+      "Dil To Pagal Hai"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 90s Indian pop song does this catchy beat come from?",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Bolo Ta Ra Ra – Daler Mehndi",
+      "Ik Pal Ka Jeena",
+      "Pari Hoon Main"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
+    "options": [
+      "Shaktimaan title track",
+      "Hum Paanch",
+      "Son Pari",
+      "Shankar Jai Kishan"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
+    "options": [
+      "Udit Narayan",
+      "Kumar Sanu",
+      "Sonu Nigam",
+      "Abhijeet Bhattacharya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "Identify this 90s iconic show opening tune.",
+    "options": [
+      "Antakshari (TV show opening)",
+      "Sa Re Ga Ma Pa opening",
+      "Kaun Banega Crorepati",
+      "Indian Idol opening"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "This children's cartoon intro is from which 90s show?",
+    "options": [
+      "Ducktales (Cartoon Network India)",
+      "Shaktimaan",
+      "Chhota Bheem",
+      "Tom and Jerry"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
+    "options": [
+      "Cartoon Network India bumper",
+      "Disney Channel bumper",
+      "Nickelodeon India bumper",
+      "Pogo TV bumper"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
+    "options": [
+      "Nokia ringtone / jingle (1990s India)",
+      "Airtel tune",
+      "Hutch music",
+      "BSNL Landline tone"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
+    "question": "Which 90s Bollywood composer created this dramatic background score style?",
+    "options": [
+      "A.R. Rahman",
+      "Jatin-Lalit",
+      "Nadeem-Shravan",
+      "Anu Malik"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
+    "options": [
+      "Pepsi (Sachin Tendulkar ad)",
+      "Coca Cola",
+      "Gold Spot",
+      "Limca"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s Bollywood train scene.",
+    "options": [
+      "DDLJ – Simran runs for the train",
+      "Dil Hai Ke Manta Nahi",
+      "Dil To Pagal Hai",
+      "Pyaar Kiya Toh Darna Kya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 90s Bollywood song features this famous hook step?",
+    "options": [
+      "Ek Do Teen – Madhuri Dixit",
+      "Dhak Dhak",
+      "Choli Ke Peeche",
+      "Tamma Tamma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s music video completely shot in USA.",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Keh Do Na",
+      "Pari Hoon Main",
+      "Bolo Ta Ra Ra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which college romance classic does this 90s Bollywood clip come from?",
+    "options": [
+      "Jo Jeeta Wohi Sikandar",
+      "Kuch Kuch Hota Hai",
+      "Dil Chahta Hai",
+      "Maine Pyar Kiya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this legendary 90s Bollywood scene.",
+    "options": [
+      "KKHH – Rahul and Anjali meet",
+      "DDLJ – Raj and Simran",
+      "Mohabbatein – classroom scene",
+      "Taal – music room scene"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this classic 90s Indian TV commercial clip.",
+    "options": [
+      "Pepsi – Sachin/Kapil/Azhar ad",
+      "7Up Fido Dido ad",
+      "Thums Up ad",
+      "Limca ad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
+    "options": [
+      "Byomkesh Bakshi",
+      "CID",
+      "Tehkikaat",
+      "Karamchand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 90s Indian pop singer does this catchy music video feature?",
+    "options": [
+      "Daler Mehndi – Tunak Tunak Tun",
+      "Baba Sehgal",
+      "Jazzy B",
+      "Lucky Ali"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which iconic 90s sports moment is this?",
+    "options": [
+      "Sachin Tendulkar's Desert Storm 1998",
+      "1999 WC India vs Pakistan",
+      "2003 WC final",
+      "Ganguly at NatWest 2002"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this popular 90s Cartoon Network show intro.",
+    "options": [
+      "Tom and Jerry (India dub 90s)",
+      "Swat Kats",
+      "Dexter's Lab",
+      "Jungle Book CN"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s Bollywood train scene.",
+    "options": [
+      "DDLJ – Simran runs for the train",
+      "Dil Hai Ke Manta Nahi",
+      "Dil To Pagal Hai",
+      "Pyaar Kiya Toh Darna Kya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 90s Bollywood song features this famous hook step?",
+    "options": [
+      "Ek Do Teen – Madhuri Dixit",
+      "Dhak Dhak",
+      "Choli Ke Peeche",
+      "Tamma Tamma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s music video completely shot in USA.",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Keh Do Na",
+      "Pari Hoon Main",
+      "Bolo Ta Ra Ra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which college romance classic does this 90s Bollywood clip come from?",
+    "options": [
+      "Jo Jeeta Wohi Sikandar",
+      "Kuch Kuch Hota Hai",
+      "Dil Chahta Hai",
+      "Maine Pyar Kiya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this legendary 90s Bollywood scene.",
+    "options": [
+      "KKHH – Rahul and Anjali meet",
+      "DDLJ – Raj and Simran",
+      "Mohabbatein – classroom scene",
+      "Taal – music room scene"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this classic 90s Indian TV commercial clip.",
+    "options": [
+      "Pepsi – Sachin/Kapil/Azhar ad",
+      "7Up Fido Dido ad",
+      "Thums Up ad",
+      "Limca ad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
+    "options": [
+      "Byomkesh Bakshi",
+      "CID",
+      "Tehkikaat",
+      "Karamchand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 90s Indian pop singer does this catchy music video feature?",
+    "options": [
+      "Daler Mehndi – Tunak Tunak Tun",
+      "Baba Sehgal",
+      "Jazzy B",
+      "Lucky Ali"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which iconic 90s sports moment is this?",
+    "options": [
+      "Sachin Tendulkar's Desert Storm 1998",
+      "1999 WC India vs Pakistan",
+      "2003 WC final",
+      "Ganguly at NatWest 2002"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this popular 90s Cartoon Network show intro.",
+    "options": [
+      "Tom and Jerry (India dub 90s)",
+      "Swat Kats",
+      "Dexter's Lab",
+      "Jungle Book CN"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s Bollywood train scene.",
+    "options": [
+      "DDLJ – Simran runs for the train",
+      "Dil Hai Ke Manta Nahi",
+      "Dil To Pagal Hai",
+      "Pyaar Kiya Toh Darna Kya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 90s Bollywood song features this famous hook step?",
+    "options": [
+      "Ek Do Teen – Madhuri Dixit",
+      "Dhak Dhak",
+      "Choli Ke Peeche",
+      "Tamma Tamma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s music video completely shot in USA.",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Keh Do Na",
+      "Pari Hoon Main",
+      "Bolo Ta Ra Ra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which college romance classic does this 90s Bollywood clip come from?",
+    "options": [
+      "Jo Jeeta Wohi Sikandar",
+      "Kuch Kuch Hota Hai",
+      "Dil Chahta Hai",
+      "Maine Pyar Kiya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this legendary 90s Bollywood scene.",
+    "options": [
+      "KKHH – Rahul and Anjali meet",
+      "DDLJ – Raj and Simran",
+      "Mohabbatein – classroom scene",
+      "Taal – music room scene"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this classic 90s Indian TV commercial clip.",
+    "options": [
+      "Pepsi – Sachin/Kapil/Azhar ad",
+      "7Up Fido Dido ad",
+      "Thums Up ad",
+      "Limca ad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
+    "options": [
+      "Byomkesh Bakshi",
+      "CID",
+      "Tehkikaat",
+      "Karamchand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 90s Indian pop singer does this catchy music video feature?",
+    "options": [
+      "Daler Mehndi – Tunak Tunak Tun",
+      "Baba Sehgal",
+      "Jazzy B",
+      "Lucky Ali"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which iconic 90s sports moment is this?",
+    "options": [
+      "Sachin Tendulkar's Desert Storm 1998",
+      "1999 WC India vs Pakistan",
+      "2003 WC final",
+      "Ganguly at NatWest 2002"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this popular 90s Cartoon Network show intro.",
+    "options": [
+      "Tom and Jerry (India dub 90s)",
+      "Swat Kats",
+      "Dexter's Lab",
+      "Jungle Book CN"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s Bollywood train scene.",
+    "options": [
+      "DDLJ – Simran runs for the train",
+      "Dil Hai Ke Manta Nahi",
+      "Dil To Pagal Hai",
+      "Pyaar Kiya Toh Darna Kya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 90s Bollywood song features this famous hook step?",
+    "options": [
+      "Ek Do Teen – Madhuri Dixit",
+      "Dhak Dhak",
+      "Choli Ke Peeche",
+      "Tamma Tamma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s music video completely shot in USA.",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Keh Do Na",
+      "Pari Hoon Main",
+      "Bolo Ta Ra Ra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which college romance classic does this 90s Bollywood clip come from?",
+    "options": [
+      "Jo Jeeta Wohi Sikandar",
+      "Kuch Kuch Hota Hai",
+      "Dil Chahta Hai",
+      "Maine Pyar Kiya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this legendary 90s Bollywood scene.",
+    "options": [
+      "KKHH – Rahul and Anjali meet",
+      "DDLJ – Raj and Simran",
+      "Mohabbatein – classroom scene",
+      "Taal – music room scene"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this classic 90s Indian TV commercial clip.",
+    "options": [
+      "Pepsi – Sachin/Kapil/Azhar ad",
+      "7Up Fido Dido ad",
+      "Thums Up ad",
+      "Limca ad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
+    "options": [
+      "Byomkesh Bakshi",
+      "CID",
+      "Tehkikaat",
+      "Karamchand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 90s Indian pop singer does this catchy music video feature?",
+    "options": [
+      "Daler Mehndi – Tunak Tunak Tun",
+      "Baba Sehgal",
+      "Jazzy B",
+      "Lucky Ali"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which iconic 90s sports moment is this?",
+    "options": [
+      "Sachin Tendulkar's Desert Storm 1998",
+      "1999 WC India vs Pakistan",
+      "2003 WC final",
+      "Ganguly at NatWest 2002"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this popular 90s Cartoon Network show intro.",
+    "options": [
+      "Tom and Jerry (India dub 90s)",
+      "Swat Kats",
+      "Dexter's Lab",
+      "Jungle Book CN"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s Bollywood train scene.",
+    "options": [
+      "DDLJ – Simran runs for the train",
+      "Dil Hai Ke Manta Nahi",
+      "Dil To Pagal Hai",
+      "Pyaar Kiya Toh Darna Kya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which 90s Bollywood song features this famous hook step?",
+    "options": [
+      "Ek Do Teen – Madhuri Dixit",
+      "Dhak Dhak",
+      "Choli Ke Peeche",
+      "Tamma Tamma"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this iconic 90s music video completely shot in USA.",
+    "options": [
+      "Made in India – Alisha Chinai",
+      "Keh Do Na",
+      "Pari Hoon Main",
+      "Bolo Ta Ra Ra"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which college romance classic does this 90s Bollywood clip come from?",
+    "options": [
+      "Jo Jeeta Wohi Sikandar",
+      "Kuch Kuch Hota Hai",
+      "Dil Chahta Hai",
+      "Maine Pyar Kiya"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
+    "question": "Identify this legendary 90s Bollywood scene.",
+    "options": [
+      "KKHH – Rahul and Anjali meet",
+      "DDLJ – Raj and Simran",
+      "Mohabbatein – classroom scene",
+      "Taal – music room scene"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this classic 90s Indian TV commercial clip.",
+    "options": [
+      "Pepsi – Sachin/Kapil/Azhar ad",
+      "7Up Fido Dido ad",
+      "Thums Up ad",
+      "Limca ad"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
+    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
+    "options": [
+      "Byomkesh Bakshi",
+      "CID",
+      "Tehkikaat",
+      "Karamchand"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
+    "question": "Which 90s Indian pop singer does this catchy music video feature?",
+    "options": [
+      "Daler Mehndi – Tunak Tunak Tun",
+      "Baba Sehgal",
+      "Jazzy B",
+      "Lucky Ali"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
+    "question": "Which iconic 90s sports moment is this?",
+    "options": [
+      "Sachin Tendulkar's Desert Storm 1998",
+      "1999 WC India vs Pakistan",
+      "2003 WC final",
+      "Ganguly at NatWest 2002"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
+    "question": "Identify this popular 90s Cartoon Network show intro.",
+    "options": [
+      "Tom and Jerry (India dub 90s)",
+      "Swat Kats",
+      "Dexter's Lab",
+      "Jungle Book CN"
+    ],
+    "correctOption": 0
+  },
+  {
+    "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian superhero character.",
-    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shaktimaan%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shaktimaan",
       "Captain Vyom",
@@ -616,7 +1916,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this popular 90s Indian TV show about a magical pencil.",
-    "mediaUrl": "https://picsum.photos/seed/Shaka%20Laka%20Boom%20Boom%201990s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shaka%20Laka%20Boom%20Boom%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shaka Laka Boom Boom",
       "Son Pari",
@@ -629,7 +1929,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian cartoon character?",
-    "mediaUrl": "https://picsum.photos/seed/Mowgli%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Mowgli%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Mowgli",
       "Chhota Bheem",
@@ -642,7 +1942,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian pop indie band.",
-    "mediaUrl": "https://picsum.photos/seed/Euphoria%201990s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Euphoria%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Euphoria",
       "Silk Route",
@@ -655,7 +1955,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which famous 90s Bollywood movie features this train scene?",
-    "mediaUrl": "https://picsum.photos/seed/Dilwale%20Dulhania%20Le%20Jayenge%2019/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dilwale%20Dulhania%20Le%20Jayenge%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dilwale Dulhania Le Jayenge",
       "Kuch Kuch Hota Hai",
@@ -668,7 +1968,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this legendary 90s video game console popular in India.",
-    "mediaUrl": "https://picsum.photos/seed/Terminator%202%20(8-bit)%201990s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Terminator%202%20(8-bit)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Terminator 2 (8-bit)",
       "PlayStation 1",
@@ -681,7 +1981,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this iconic 90s Indian advertisement character.",
-    "mediaUrl": "https://picsum.photos/seed/Boomer%20Man%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Boomer%20Man%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Boomer Man",
       "Parle G Girl",
@@ -694,7 +1994,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this classic 90s Indian comic book superhero.",
-    "mediaUrl": "https://picsum.photos/seed/Nagraj%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Nagraj%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Nagraj",
       "Doga",
@@ -707,7 +2007,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which 90s Indian TV show featured these five sisters?",
-    "mediaUrl": "https://picsum.photos/seed/Hum%20Paanch%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hum%20Paanch%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hum Paanch",
       "Dekh Bhai Dekh",
@@ -720,7 +2020,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this legendary 90s Bollywood playback singer (male).",
-    "mediaUrl": "https://picsum.photos/seed/Kumar%20Sanu%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kumar%20Sanu%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kumar Sanu",
       "Udit Narayan",
@@ -733,7 +2033,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this popular 90s Indian candy.",
-    "mediaUrl": "https://picsum.photos/seed/Phantom%20Sweet%20Cigarettes%201990s/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Phantom%20Sweet%20Cigarettes%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Phantom Sweet Cigarettes",
       "Kismi Bar",
@@ -746,7 +2046,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian soft drink?",
-    "mediaUrl": "https://picsum.photos/seed/Gold%20Spot%201990s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Gold%20Spot%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Gold Spot",
       "Campa Cola",
@@ -759,7 +2059,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this iconic 90s Indian music video.",
-    "mediaUrl": "https://picsum.photos/seed/Made%20in%20India%20(Alisha%20Chinai)%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Made%20in%20India%20(Alisha%20Chinai)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Made in India (Alisha Chinai)",
       "Pari Hoon Main",
@@ -772,7 +2072,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian cricket captain.",
-    "mediaUrl": "https://picsum.photos/seed/Mohammad%20Azharuddin%201990s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Mohammad%20Azharuddin%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Mohammad Azharuddin",
       "Sachin Tendulkar",
@@ -785,7 +2085,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this famous 90s Indian TV show host.",
-    "mediaUrl": "https://picsum.photos/seed/Siddhartha%20Basu%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Siddhartha%20Basu%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Siddhartha Basu",
       "Roshan Abbas",
@@ -798,7 +2098,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which classic 90s Indian cartoon show is this?",
-    "mediaUrl": "https://picsum.photos/seed/Jungle%20Book%20(Anime)%201990s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Jungle%20Book%20(Anime)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Jungle Book (Anime)",
       "TaleSpin",
@@ -811,7 +2111,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian movie villain.",
-    "mediaUrl": "https://picsum.photos/seed/Crime%20Master%20Gogo%201990s%20India%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Crime%20Master%20Gogo%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Crime Master Gogo",
       "Mogambo",
@@ -824,7 +2124,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian TV show alien?",
-    "mediaUrl": "https://picsum.photos/seed/Jadoo%201990s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Jadoo%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Jadoo",
       "Karishma (Robot)",
@@ -837,7 +2137,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this legendary 90s Indian pop song.",
-    "mediaUrl": "https://picsum.photos/seed/Tunak%20Tunak%20Tun%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tunak%20Tunak%20Tun%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tunak Tunak Tun",
       "Ho Jayegi Balle Balle",
@@ -850,7 +2150,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this classic 90s Indian video game.",
-    "mediaUrl": "https://picsum.photos/seed/Super%20Mario%20Bros%201990s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Super%20Mario%20Bros%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Super Mario Bros",
       "Contra",
@@ -863,7 +2163,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this 90s Indian TV show about a detective.",
-    "mediaUrl": "https://picsum.photos/seed/Byomkesh%20Bakshi%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Byomkesh%20Bakshi%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Byomkesh Bakshi",
       "CID",
@@ -876,7 +2176,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which iconic 90s Indian advertisement featured a waterfall?",
-    "mediaUrl": "https://picsum.photos/seed/Liril%20Soap%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Liril%20Soap%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Liril Soap",
       "Cinthol",
@@ -889,7 +2189,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this popular 90s Indian magazine for kids.",
-    "mediaUrl": "https://picsum.photos/seed/Tinkle%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tinkle%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tinkle",
       "Champak",
@@ -902,7 +2202,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian TV show magical fairy?",
-    "mediaUrl": "https://picsum.photos/seed/Son%20Pari%201990s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Son%20Pari%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Son Pari",
       "Shararat",
@@ -915,7 +2215,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this classic 90s Indian Bollywood movie.",
-    "mediaUrl": "https://picsum.photos/seed/Andaz%20Apna%20Apna%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Andaz%20Apna%20Apna%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Andaz Apna Apna",
       "Hera Pheri",
@@ -928,7 +2228,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian cricket legend known as 'The Wall'.",
-    "mediaUrl": "https://picsum.photos/seed/Rahul%20Dravid%201990s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rahul%20Dravid%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rahul Dravid",
       "VVS Laxman",
@@ -941,7 +2241,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this famous 90s Indian VJ.",
-    "mediaUrl": "https://picsum.photos/seed/Cyrus%20Broacha%201990s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Cyrus%20Broacha%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Cyrus Broacha",
       "Nikhil Chinapa",
@@ -954,7 +2254,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which 90s Indian TV show featured this iconic title track?",
-    "mediaUrl": "https://picsum.photos/seed/Malgudi%20Days%201990s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Malgudi%20Days%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Malgudi Days",
       "Dekh Bhai Dekh",
@@ -967,7 +2267,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian indie pop singer.",
-    "mediaUrl": "https://picsum.photos/seed/Lucky%20Ali%201990s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Lucky%20Ali%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Lucky Ali",
       "Shaan",
@@ -980,7 +2280,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian snack?",
-    "mediaUrl": "https://picsum.photos/seed/Uncle%20Chipps%201990s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Uncle%20Chipps%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Uncle Chipps",
       "Crax",
@@ -993,7 +2293,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this popular 90s Indian TV show about a school.",
-    "mediaUrl": "https://picsum.photos/seed/Hip%20Hip%20Hurray%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hip%20Hip%20Hurray%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hip Hip Hurray",
       "Just Mohabbat",
@@ -1006,7 +2306,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this legendary 90s Bollywood movie scene.",
-    "mediaUrl": "https://picsum.photos/seed/Kuch%20Kuch%20Hota%20Hai%20(Basketball/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kuch%20Kuch%20Hota%20Hai%20(Basketball)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kuch Kuch Hota Hai (Basketball)",
       "Dil To Pagal Hai",
@@ -1019,7 +2319,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this 90s Indian comic book character.",
-    "mediaUrl": "https://picsum.photos/seed/Chacha%20Chaudhary%201990s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Chacha%20Chaudhary%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Chacha Chaudhary",
       "Tenali Rama",
@@ -1032,7 +2332,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which classic 90s Indian cartoon show featured a lab?",
-    "mediaUrl": "https://picsum.photos/seed/Dexter's%20Laboratory%201990s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dexter's%20Laboratory%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dexter's Laboratory",
       "Johnny Bravo",
@@ -1045,7 +2345,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Dhara%20Cooking%20Oil%20(Jalebi)%20199/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dhara%20Cooking%20Oil%20(Jalebi)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dhara Cooking Oil (Jalebi)",
       "Complan",
@@ -1058,7 +2358,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian TV show robot?",
-    "mediaUrl": "https://picsum.photos/seed/Karishma%201990s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Karishma%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Karishma",
       "Vicky",
@@ -1071,7 +2371,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this classic 90s Indian pop group.",
-    "mediaUrl": "https://picsum.photos/seed/Viva%201990s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Viva%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Viva",
       "Band of Boys",
@@ -1084,7 +2384,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian cricket moment.",
-    "mediaUrl": "https://picsum.photos/seed/Desert%20Storm%20(Sachin%201998)%20199/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Desert%20Storm%20(Sachin%201998)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Desert Storm (Sachin 1998)",
       "1992 World Cup",
@@ -1097,7 +2397,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this famous 90s Indian TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Office%20Office%201990s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Office%20Office%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Office Office",
       "Flop Show",
@@ -1110,7 +2410,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which 90s Indian movie featured this iconic friendship?",
-    "mediaUrl": "https://picsum.photos/seed/Dil%20Chahta%20Hai%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dil%20Chahta%20Hai%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dil Chahta Hai",
       "Zindagi Na Milegi Dobara",
@@ -1123,7 +2423,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this popular 90s Indian children's program.",
-    "mediaUrl": "https://picsum.photos/seed/Bournvita%20Quiz%20Contest%201990s%20I/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Bournvita%20Quiz%20Contest%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Bournvita Quiz Contest",
       "Takeshi's Castle",
@@ -1136,7 +2436,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian video game?",
-    "mediaUrl": "https://picsum.photos/seed/Contra%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Contra%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Contra",
       "Super Mario Bros",
@@ -1149,7 +2449,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this iconic 90s Indian pop song.",
-    "mediaUrl": "https://picsum.photos/seed/Pari%20Hoon%20Main%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pari%20Hoon%20Main%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pari Hoon Main",
       "Yaad Piya Ki Aane Lagi",
@@ -1162,7 +2462,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian Bollywood actor.",
-    "mediaUrl": "https://picsum.photos/seed/Shah%20Rukh%20Khan%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shah%20Rukh%20Khan%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shah Rukh Khan",
       "Salman Khan",
@@ -1175,7 +2475,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this 90s Indian comic book publisher.",
-    "mediaUrl": "https://picsum.photos/seed/Raj%20Comics%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Raj%20Comics%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Raj Comics",
       "Diamond Comics",
@@ -1188,7 +2488,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which classic 90s Indian TV show featured this family?",
-    "mediaUrl": "https://picsum.photos/seed/Dekh%20Bhai%20Dekh%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dekh%20Bhai%20Dekh%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dekh Bhai Dekh",
       "Hum Paanch",
@@ -1201,7 +2501,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian advertisement jingle.",
-    "mediaUrl": "https://picsum.photos/seed/Washing%20Powder%20Nirma%201990s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Washing%20Powder%20Nirma%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Washing Powder Nirma",
       "Babul Ki Duayen",
@@ -1214,7 +2514,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian soft drink brand?",
-    "mediaUrl": "https://picsum.photos/seed/Citra%201990s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Citra%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Citra",
       "Gold Spot",
@@ -1227,7 +2527,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this popular 90s Indian TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Surabhi%201990s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Surabhi%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Surabhi",
       "Khana Khazana",
@@ -1240,7 +2540,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian music television channel.",
-    "mediaUrl": "https://picsum.photos/seed/Channel%20V%201990s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Channel%20V%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Channel V",
       "MTV India",
@@ -1253,7 +2553,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian superhero character.",
-    "mediaUrl": "https://picsum.photos/seed/Shaktimaan%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shaktimaan%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shaktimaan",
       "Captain Vyom",
@@ -1266,7 +2566,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this popular 90s Indian TV show about a magical pencil.",
-    "mediaUrl": "https://picsum.photos/seed/Shaka%20Laka%20Boom%20Boom%201990s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shaka%20Laka%20Boom%20Boom%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shaka Laka Boom Boom",
       "Son Pari",
@@ -1279,7 +2579,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian cartoon character?",
-    "mediaUrl": "https://picsum.photos/seed/Mowgli%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Mowgli%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Mowgli",
       "Chhota Bheem",
@@ -1292,7 +2592,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian pop indie band.",
-    "mediaUrl": "https://picsum.photos/seed/Euphoria%201990s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Euphoria%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Euphoria",
       "Silk Route",
@@ -1305,7 +2605,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which famous 90s Bollywood movie features this train scene?",
-    "mediaUrl": "https://picsum.photos/seed/Dilwale%20Dulhania%20Le%20Jayenge%2019/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dilwale%20Dulhania%20Le%20Jayenge%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dilwale Dulhania Le Jayenge",
       "Kuch Kuch Hota Hai",
@@ -1318,7 +2618,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this legendary 90s video game console popular in India.",
-    "mediaUrl": "https://picsum.photos/seed/Terminator%202%20(8-bit)%201990s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Terminator%202%20(8-bit)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Terminator 2 (8-bit)",
       "PlayStation 1",
@@ -1331,7 +2631,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this iconic 90s Indian advertisement character.",
-    "mediaUrl": "https://picsum.photos/seed/Boomer%20Man%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Boomer%20Man%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Boomer Man",
       "Parle G Girl",
@@ -1344,7 +2644,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this classic 90s Indian comic book superhero.",
-    "mediaUrl": "https://picsum.photos/seed/Nagraj%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Nagraj%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Nagraj",
       "Doga",
@@ -1357,7 +2657,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which 90s Indian TV show featured these five sisters?",
-    "mediaUrl": "https://picsum.photos/seed/Hum%20Paanch%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hum%20Paanch%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hum Paanch",
       "Dekh Bhai Dekh",
@@ -1370,7 +2670,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this legendary 90s Bollywood playback singer (male).",
-    "mediaUrl": "https://picsum.photos/seed/Kumar%20Sanu%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kumar%20Sanu%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kumar Sanu",
       "Udit Narayan",
@@ -1383,7 +2683,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this popular 90s Indian candy.",
-    "mediaUrl": "https://picsum.photos/seed/Phantom%20Sweet%20Cigarettes%201990s/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Phantom%20Sweet%20Cigarettes%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Phantom Sweet Cigarettes",
       "Kismi Bar",
@@ -1396,7 +2696,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian soft drink?",
-    "mediaUrl": "https://picsum.photos/seed/Gold%20Spot%201990s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Gold%20Spot%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Gold Spot",
       "Campa Cola",
@@ -1409,7 +2709,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this iconic 90s Indian music video.",
-    "mediaUrl": "https://picsum.photos/seed/Made%20in%20India%20(Alisha%20Chinai)%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Made%20in%20India%20(Alisha%20Chinai)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Made in India (Alisha Chinai)",
       "Pari Hoon Main",
@@ -1422,7 +2722,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian cricket captain.",
-    "mediaUrl": "https://picsum.photos/seed/Mohammad%20Azharuddin%201990s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Mohammad%20Azharuddin%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Mohammad Azharuddin",
       "Sachin Tendulkar",
@@ -1435,7 +2735,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this famous 90s Indian TV show host.",
-    "mediaUrl": "https://picsum.photos/seed/Siddhartha%20Basu%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Siddhartha%20Basu%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Siddhartha Basu",
       "Roshan Abbas",
@@ -1448,7 +2748,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which classic 90s Indian cartoon show is this?",
-    "mediaUrl": "https://picsum.photos/seed/Jungle%20Book%20(Anime)%201990s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Jungle%20Book%20(Anime)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Jungle Book (Anime)",
       "TaleSpin",
@@ -1461,7 +2761,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian movie villain.",
-    "mediaUrl": "https://picsum.photos/seed/Crime%20Master%20Gogo%201990s%20India%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Crime%20Master%20Gogo%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Crime Master Gogo",
       "Mogambo",
@@ -1474,7 +2774,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian TV show alien?",
-    "mediaUrl": "https://picsum.photos/seed/Jadoo%201990s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Jadoo%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Jadoo",
       "Karishma (Robot)",
@@ -1487,7 +2787,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this legendary 90s Indian pop song.",
-    "mediaUrl": "https://picsum.photos/seed/Tunak%20Tunak%20Tun%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tunak%20Tunak%20Tun%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tunak Tunak Tun",
       "Ho Jayegi Balle Balle",
@@ -1500,7 +2800,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this classic 90s Indian video game.",
-    "mediaUrl": "https://picsum.photos/seed/Super%20Mario%20Bros%201990s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Super%20Mario%20Bros%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Super Mario Bros",
       "Contra",
@@ -1513,7 +2813,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this 90s Indian TV show about a detective.",
-    "mediaUrl": "https://picsum.photos/seed/Byomkesh%20Bakshi%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Byomkesh%20Bakshi%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Byomkesh Bakshi",
       "CID",
@@ -1526,7 +2826,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which iconic 90s Indian advertisement featured a waterfall?",
-    "mediaUrl": "https://picsum.photos/seed/Liril%20Soap%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Liril%20Soap%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Liril Soap",
       "Cinthol",
@@ -1539,7 +2839,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this popular 90s Indian magazine for kids.",
-    "mediaUrl": "https://picsum.photos/seed/Tinkle%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Tinkle%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Tinkle",
       "Champak",
@@ -1552,7 +2852,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian TV show magical fairy?",
-    "mediaUrl": "https://picsum.photos/seed/Son%20Pari%201990s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Son%20Pari%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Son Pari",
       "Shararat",
@@ -1565,7 +2865,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this classic 90s Indian Bollywood movie.",
-    "mediaUrl": "https://picsum.photos/seed/Andaz%20Apna%20Apna%201990s%20India%20Bo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Andaz%20Apna%20Apna%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Andaz Apna Apna",
       "Hera Pheri",
@@ -1578,7 +2878,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian cricket legend known as 'The Wall'.",
-    "mediaUrl": "https://picsum.photos/seed/Rahul%20Dravid%201990s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Rahul%20Dravid%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Rahul Dravid",
       "VVS Laxman",
@@ -1591,7 +2891,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this famous 90s Indian VJ.",
-    "mediaUrl": "https://picsum.photos/seed/Cyrus%20Broacha%201990s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Cyrus%20Broacha%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Cyrus Broacha",
       "Nikhil Chinapa",
@@ -1604,7 +2904,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which 90s Indian TV show featured this iconic title track?",
-    "mediaUrl": "https://picsum.photos/seed/Malgudi%20Days%201990s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Malgudi%20Days%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Malgudi Days",
       "Dekh Bhai Dekh",
@@ -1617,7 +2917,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian indie pop singer.",
-    "mediaUrl": "https://picsum.photos/seed/Lucky%20Ali%201990s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Lucky%20Ali%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Lucky Ali",
       "Shaan",
@@ -1630,7 +2930,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian snack?",
-    "mediaUrl": "https://picsum.photos/seed/Uncle%20Chipps%201990s%20India%20Bolly/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Uncle%20Chipps%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Uncle Chipps",
       "Crax",
@@ -1643,7 +2943,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this popular 90s Indian TV show about a school.",
-    "mediaUrl": "https://picsum.photos/seed/Hip%20Hip%20Hurray%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Hip%20Hip%20Hurray%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Hip Hip Hurray",
       "Just Mohabbat",
@@ -1656,7 +2956,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this legendary 90s Bollywood movie scene.",
-    "mediaUrl": "https://picsum.photos/seed/Kuch%20Kuch%20Hota%20Hai%20(Basketball/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Kuch%20Kuch%20Hota%20Hai%20(Basketball)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Kuch Kuch Hota Hai (Basketball)",
       "Dil To Pagal Hai",
@@ -1669,7 +2969,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this 90s Indian comic book character.",
-    "mediaUrl": "https://picsum.photos/seed/Chacha%20Chaudhary%201990s%20India%20B/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Chacha%20Chaudhary%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Chacha Chaudhary",
       "Tenali Rama",
@@ -1682,7 +2982,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which classic 90s Indian cartoon show featured a lab?",
-    "mediaUrl": "https://picsum.photos/seed/Dexter's%20Laboratory%201990s%20Indi/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dexter's%20Laboratory%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dexter's Laboratory",
       "Johnny Bravo",
@@ -1695,7 +2995,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian advertisement.",
-    "mediaUrl": "https://picsum.photos/seed/Dhara%20Cooking%20Oil%20(Jalebi)%20199/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dhara%20Cooking%20Oil%20(Jalebi)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dhara Cooking Oil (Jalebi)",
       "Complan",
@@ -1708,7 +3008,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian TV show robot?",
-    "mediaUrl": "https://picsum.photos/seed/Karishma%201990s%20India%20Bollywood/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Karishma%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Karishma",
       "Vicky",
@@ -1721,7 +3021,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this classic 90s Indian pop group.",
-    "mediaUrl": "https://picsum.photos/seed/Viva%201990s%20India%20Bollywood%20TV%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Viva%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Viva",
       "Band of Boys",
@@ -1734,7 +3034,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian cricket moment.",
-    "mediaUrl": "https://picsum.photos/seed/Desert%20Storm%20(Sachin%201998)%20199/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Desert%20Storm%20(Sachin%201998)%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Desert Storm (Sachin 1998)",
       "1992 World Cup",
@@ -1747,7 +3047,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this famous 90s Indian TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Office%20Office%201990s%20India%20Boll/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Office%20Office%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Office Office",
       "Flop Show",
@@ -1760,7 +3060,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which 90s Indian movie featured this iconic friendship?",
-    "mediaUrl": "https://picsum.photos/seed/Dil%20Chahta%20Hai%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dil%20Chahta%20Hai%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dil Chahta Hai",
       "Zindagi Na Milegi Dobara",
@@ -1773,7 +3073,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this popular 90s Indian children's program.",
-    "mediaUrl": "https://picsum.photos/seed/Bournvita%20Quiz%20Contest%201990s%20I/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Bournvita%20Quiz%20Contest%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Bournvita Quiz Contest",
       "Takeshi's Castle",
@@ -1786,7 +3086,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this classic 90s Indian video game?",
-    "mediaUrl": "https://picsum.photos/seed/Contra%201990s%20India%20Bollywood%20T/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Contra%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Contra",
       "Super Mario Bros",
@@ -1799,7 +3099,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this iconic 90s Indian pop song.",
-    "mediaUrl": "https://picsum.photos/seed/Pari%20Hoon%20Main%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Pari%20Hoon%20Main%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Pari Hoon Main",
       "Yaad Piya Ki Aane Lagi",
@@ -1812,7 +3112,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian Bollywood actor.",
-    "mediaUrl": "https://picsum.photos/seed/Shah%20Rukh%20Khan%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Shah%20Rukh%20Khan%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Shah Rukh Khan",
       "Salman Khan",
@@ -1825,7 +3125,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Name this 90s Indian comic book publisher.",
-    "mediaUrl": "https://picsum.photos/seed/Raj%20Comics%201990s%20India%20Bollywo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Raj%20Comics%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Raj Comics",
       "Diamond Comics",
@@ -1838,7 +3138,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Which classic 90s Indian TV show featured this family?",
-    "mediaUrl": "https://picsum.photos/seed/Dekh%20Bhai%20Dekh%201990s%20India%20Bol/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Dekh%20Bhai%20Dekh%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Dekh Bhai Dekh",
       "Hum Paanch",
@@ -1851,7 +3151,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this iconic 90s Indian advertisement jingle.",
-    "mediaUrl": "https://picsum.photos/seed/Washing%20Powder%20Nirma%201990s%20Ind/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Washing%20Powder%20Nirma%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Washing Powder Nirma",
       "Babul Ki Duayen",
@@ -1864,7 +3164,7 @@
     "era": "GenY",
     "type": "image",
     "question": "What is the name of this 90s Indian soft drink brand?",
-    "mediaUrl": "https://picsum.photos/seed/Citra%201990s%20India%20Bollywood%20TV/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Citra%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Citra",
       "Gold Spot",
@@ -1877,7 +3177,7 @@
     "era": "GenY",
     "type": "image",
     "question": "Guess this popular 90s Indian TV show.",
-    "mediaUrl": "https://picsum.photos/seed/Surabhi%201990s%20India%20Bollywood%20/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Surabhi%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Surabhi",
       "Khana Khazana",
@@ -1890,1312 +3190,12 @@
     "era": "GenY",
     "type": "image",
     "question": "Identify this 90s Indian music television channel.",
-    "mediaUrl": "https://picsum.photos/seed/Channel%20V%201990s%20India%20Bollywoo/600/400",
+    "mediaUrl": "https://image.pollinations.ai/prompt/Channel%20V%201990s%20India%20Bollywood%20TV%20nostalgia?width=600&height=400&nologo=true",
     "options": [
       "Channel V",
       "MTV India",
       "B4U Music",
       "9XM"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This 90s Bollywood intro belongs to which film?",
-    "options": [
-      "Dilwale Dulhania Le Jayenge (DDLJ)",
-      "Kuch Kuch Hota Hai",
-      "Hum Aapke Hain Koun",
-      "Dil To Pagal Hai"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 90s Indian pop song does this catchy beat come from?",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Bolo Ta Ra Ra – Daler Mehndi",
-      "Ik Pal Ka Jeena",
-      "Pari Hoon Main"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
-    "options": [
-      "Shaktimaan title track",
-      "Hum Paanch",
-      "Son Pari",
-      "Shankar Jai Kishan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
-    "options": [
-      "Udit Narayan",
-      "Kumar Sanu",
-      "Sonu Nigam",
-      "Abhijeet Bhattacharya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this 90s iconic show opening tune.",
-    "options": [
-      "Antakshari (TV show opening)",
-      "Sa Re Ga Ma Pa opening",
-      "Kaun Banega Crorepati",
-      "Indian Idol opening"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This children's cartoon intro is from which 90s show?",
-    "options": [
-      "Ducktales (Cartoon Network India)",
-      "Shaktimaan",
-      "Chhota Bheem",
-      "Tom and Jerry"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
-    "options": [
-      "Cartoon Network India bumper",
-      "Disney Channel bumper",
-      "Nickelodeon India bumper",
-      "Pogo TV bumper"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
-    "options": [
-      "Nokia ringtone / jingle (1990s India)",
-      "Airtel tune",
-      "Hutch music",
-      "BSNL Landline tone"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 90s Bollywood composer created this dramatic background score style?",
-    "options": [
-      "A.R. Rahman",
-      "Jatin-Lalit",
-      "Nadeem-Shravan",
-      "Anu Malik"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
-    "options": [
-      "Pepsi (Sachin Tendulkar ad)",
-      "Coca Cola",
-      "Gold Spot",
-      "Limca"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This 90s Bollywood intro belongs to which film?",
-    "options": [
-      "Dilwale Dulhania Le Jayenge (DDLJ)",
-      "Kuch Kuch Hota Hai",
-      "Hum Aapke Hain Koun",
-      "Dil To Pagal Hai"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 90s Indian pop song does this catchy beat come from?",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Bolo Ta Ra Ra – Daler Mehndi",
-      "Ik Pal Ka Jeena",
-      "Pari Hoon Main"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
-    "options": [
-      "Shaktimaan title track",
-      "Hum Paanch",
-      "Son Pari",
-      "Shankar Jai Kishan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
-    "options": [
-      "Udit Narayan",
-      "Kumar Sanu",
-      "Sonu Nigam",
-      "Abhijeet Bhattacharya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 90s iconic show opening tune.",
-    "options": [
-      "Antakshari (TV show opening)",
-      "Sa Re Ga Ma Pa opening",
-      "Kaun Banega Crorepati",
-      "Indian Idol opening"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This children's cartoon intro is from which 90s show?",
-    "options": [
-      "Ducktales (Cartoon Network India)",
-      "Shaktimaan",
-      "Chhota Bheem",
-      "Tom and Jerry"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
-    "options": [
-      "Cartoon Network India bumper",
-      "Disney Channel bumper",
-      "Nickelodeon India bumper",
-      "Pogo TV bumper"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
-    "options": [
-      "Nokia ringtone / jingle (1990s India)",
-      "Airtel tune",
-      "Hutch music",
-      "BSNL Landline tone"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 90s Bollywood composer created this dramatic background score style?",
-    "options": [
-      "A.R. Rahman",
-      "Jatin-Lalit",
-      "Nadeem-Shravan",
-      "Anu Malik"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
-    "options": [
-      "Pepsi (Sachin Tendulkar ad)",
-      "Coca Cola",
-      "Gold Spot",
-      "Limca"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This 90s Bollywood intro belongs to which film?",
-    "options": [
-      "Dilwale Dulhania Le Jayenge (DDLJ)",
-      "Kuch Kuch Hota Hai",
-      "Hum Aapke Hain Koun",
-      "Dil To Pagal Hai"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 90s Indian pop song does this catchy beat come from?",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Bolo Ta Ra Ra – Daler Mehndi",
-      "Ik Pal Ka Jeena",
-      "Pari Hoon Main"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
-    "options": [
-      "Shaktimaan title track",
-      "Hum Paanch",
-      "Son Pari",
-      "Shankar Jai Kishan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
-    "options": [
-      "Udit Narayan",
-      "Kumar Sanu",
-      "Sonu Nigam",
-      "Abhijeet Bhattacharya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 90s iconic show opening tune.",
-    "options": [
-      "Antakshari (TV show opening)",
-      "Sa Re Ga Ma Pa opening",
-      "Kaun Banega Crorepati",
-      "Indian Idol opening"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This children's cartoon intro is from which 90s show?",
-    "options": [
-      "Ducktales (Cartoon Network India)",
-      "Shaktimaan",
-      "Chhota Bheem",
-      "Tom and Jerry"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
-    "options": [
-      "Cartoon Network India bumper",
-      "Disney Channel bumper",
-      "Nickelodeon India bumper",
-      "Pogo TV bumper"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
-    "options": [
-      "Nokia ringtone / jingle (1990s India)",
-      "Airtel tune",
-      "Hutch music",
-      "BSNL Landline tone"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 90s Bollywood composer created this dramatic background score style?",
-    "options": [
-      "A.R. Rahman",
-      "Jatin-Lalit",
-      "Nadeem-Shravan",
-      "Anu Malik"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
-    "options": [
-      "Pepsi (Sachin Tendulkar ad)",
-      "Coca Cola",
-      "Gold Spot",
-      "Limca"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This 90s Bollywood intro belongs to which film?",
-    "options": [
-      "Dilwale Dulhania Le Jayenge (DDLJ)",
-      "Kuch Kuch Hota Hai",
-      "Hum Aapke Hain Koun",
-      "Dil To Pagal Hai"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which 90s Indian pop song does this catchy beat come from?",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Bolo Ta Ra Ra – Daler Mehndi",
-      "Ik Pal Ka Jeena",
-      "Pari Hoon Main"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
-    "options": [
-      "Shaktimaan title track",
-      "Hum Paanch",
-      "Son Pari",
-      "Shankar Jai Kishan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
-    "options": [
-      "Udit Narayan",
-      "Kumar Sanu",
-      "Sonu Nigam",
-      "Abhijeet Bhattacharya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this 90s iconic show opening tune.",
-    "options": [
-      "Antakshari (TV show opening)",
-      "Sa Re Ga Ma Pa opening",
-      "Kaun Banega Crorepati",
-      "Indian Idol opening"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This children's cartoon intro is from which 90s show?",
-    "options": [
-      "Ducktales (Cartoon Network India)",
-      "Shaktimaan",
-      "Chhota Bheem",
-      "Tom and Jerry"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
-    "options": [
-      "Cartoon Network India bumper",
-      "Disney Channel bumper",
-      "Nickelodeon India bumper",
-      "Pogo TV bumper"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
-    "options": [
-      "Nokia ringtone / jingle (1990s India)",
-      "Airtel tune",
-      "Hutch music",
-      "BSNL Landline tone"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 90s Bollywood composer created this dramatic background score style?",
-    "options": [
-      "A.R. Rahman",
-      "Jatin-Lalit",
-      "Nadeem-Shravan",
-      "Anu Malik"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
-    "options": [
-      "Pepsi (Sachin Tendulkar ad)",
-      "Coca Cola",
-      "Gold Spot",
-      "Limca"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This 90s Bollywood intro belongs to which film?",
-    "options": [
-      "Dilwale Dulhania Le Jayenge (DDLJ)",
-      "Kuch Kuch Hota Hai",
-      "Hum Aapke Hain Koun",
-      "Dil To Pagal Hai"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 90s Indian pop song does this catchy beat come from?",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Bolo Ta Ra Ra – Daler Mehndi",
-      "Ik Pal Ka Jeena",
-      "Pari Hoon Main"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: which popular 90s Indian TV show does this jingle represent?",
-    "options": [
-      "Shaktimaan title track",
-      "Hum Paanch",
-      "Son Pari",
-      "Shankar Jai Kishan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This iconic voice belongs to which 90s Bollywood playback singer?",
-    "options": [
-      "Udit Narayan",
-      "Kumar Sanu",
-      "Sonu Nigam",
-      "Abhijeet Bhattacharya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 90s iconic show opening tune.",
-    "options": [
-      "Antakshari (TV show opening)",
-      "Sa Re Ga Ma Pa opening",
-      "Kaun Banega Crorepati",
-      "Indian Idol opening"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This children's cartoon intro is from which 90s show?",
-    "options": [
-      "Ducktales (Cartoon Network India)",
-      "Shaktimaan",
-      "Chhota Bheem",
-      "Tom and Jerry"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify this famous Cartoon Network intro jingle that played in the 90s!",
-    "options": [
-      "Cartoon Network India bumper",
-      "Disney Channel bumper",
-      "Nickelodeon India bumper",
-      "Pogo TV bumper"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio from the late 90s sounds like which famous tech/mobile ad?",
-    "options": [
-      "Nokia ringtone / jingle (1990s India)",
-      "Airtel tune",
-      "Hutch music",
-      "BSNL Landline tone"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which 90s Bollywood composer created this dramatic background score style?",
-    "options": [
-      "A.R. Rahman",
-      "Jatin-Lalit",
-      "Nadeem-Shravan",
-      "Anu Malik"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which famous 90s jingle used the line 'Yeh Dil Maange More'?",
-    "options": [
-      "Pepsi (Sachin Tendulkar ad)",
-      "Coca Cola",
-      "Gold Spot",
-      "Limca"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s Bollywood train scene.",
-    "options": [
-      "DDLJ – Simran runs for the train",
-      "Dil Hai Ke Manta Nahi",
-      "Dil To Pagal Hai",
-      "Pyaar Kiya Toh Darna Kya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 90s Bollywood song features this famous hook step?",
-    "options": [
-      "Ek Do Teen – Madhuri Dixit",
-      "Dhak Dhak",
-      "Choli Ke Peeche",
-      "Tamma Tamma"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s music video completely shot in USA.",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Keh Do Na",
-      "Pari Hoon Main",
-      "Bolo Ta Ra Ra"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which college romance classic does this 90s Bollywood clip come from?",
-    "options": [
-      "Jo Jeeta Wohi Sikandar",
-      "Kuch Kuch Hota Hai",
-      "Dil Chahta Hai",
-      "Maine Pyar Kiya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this legendary 90s Bollywood scene.",
-    "options": [
-      "KKHH – Rahul and Anjali meet",
-      "DDLJ – Raj and Simran",
-      "Mohabbatein – classroom scene",
-      "Taal – music room scene"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this classic 90s Indian TV commercial clip.",
-    "options": [
-      "Pepsi – Sachin/Kapil/Azhar ad",
-      "7Up Fido Dido ad",
-      "Thums Up ad",
-      "Limca ad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
-    "options": [
-      "Byomkesh Bakshi",
-      "CID",
-      "Tehkikaat",
-      "Karamchand"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 90s Indian pop singer does this catchy music video feature?",
-    "options": [
-      "Daler Mehndi – Tunak Tunak Tun",
-      "Baba Sehgal",
-      "Jazzy B",
-      "Lucky Ali"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which iconic 90s sports moment is this?",
-    "options": [
-      "Sachin Tendulkar's Desert Storm 1998",
-      "1999 WC India vs Pakistan",
-      "2003 WC final",
-      "Ganguly at NatWest 2002"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this popular 90s Cartoon Network show intro.",
-    "options": [
-      "Tom and Jerry (India dub 90s)",
-      "Swat Kats",
-      "Dexter's Lab",
-      "Jungle Book CN"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s Bollywood train scene.",
-    "options": [
-      "DDLJ – Simran runs for the train",
-      "Dil Hai Ke Manta Nahi",
-      "Dil To Pagal Hai",
-      "Pyaar Kiya Toh Darna Kya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 90s Bollywood song features this famous hook step?",
-    "options": [
-      "Ek Do Teen – Madhuri Dixit",
-      "Dhak Dhak",
-      "Choli Ke Peeche",
-      "Tamma Tamma"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s music video completely shot in USA.",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Keh Do Na",
-      "Pari Hoon Main",
-      "Bolo Ta Ra Ra"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which college romance classic does this 90s Bollywood clip come from?",
-    "options": [
-      "Jo Jeeta Wohi Sikandar",
-      "Kuch Kuch Hota Hai",
-      "Dil Chahta Hai",
-      "Maine Pyar Kiya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this legendary 90s Bollywood scene.",
-    "options": [
-      "KKHH – Rahul and Anjali meet",
-      "DDLJ – Raj and Simran",
-      "Mohabbatein – classroom scene",
-      "Taal – music room scene"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this classic 90s Indian TV commercial clip.",
-    "options": [
-      "Pepsi – Sachin/Kapil/Azhar ad",
-      "7Up Fido Dido ad",
-      "Thums Up ad",
-      "Limca ad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
-    "options": [
-      "Byomkesh Bakshi",
-      "CID",
-      "Tehkikaat",
-      "Karamchand"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 90s Indian pop singer does this catchy music video feature?",
-    "options": [
-      "Daler Mehndi – Tunak Tunak Tun",
-      "Baba Sehgal",
-      "Jazzy B",
-      "Lucky Ali"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which iconic 90s sports moment is this?",
-    "options": [
-      "Sachin Tendulkar's Desert Storm 1998",
-      "1999 WC India vs Pakistan",
-      "2003 WC final",
-      "Ganguly at NatWest 2002"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this popular 90s Cartoon Network show intro.",
-    "options": [
-      "Tom and Jerry (India dub 90s)",
-      "Swat Kats",
-      "Dexter's Lab",
-      "Jungle Book CN"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s Bollywood train scene.",
-    "options": [
-      "DDLJ – Simran runs for the train",
-      "Dil Hai Ke Manta Nahi",
-      "Dil To Pagal Hai",
-      "Pyaar Kiya Toh Darna Kya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 90s Bollywood song features this famous hook step?",
-    "options": [
-      "Ek Do Teen – Madhuri Dixit",
-      "Dhak Dhak",
-      "Choli Ke Peeche",
-      "Tamma Tamma"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s music video completely shot in USA.",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Keh Do Na",
-      "Pari Hoon Main",
-      "Bolo Ta Ra Ra"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which college romance classic does this 90s Bollywood clip come from?",
-    "options": [
-      "Jo Jeeta Wohi Sikandar",
-      "Kuch Kuch Hota Hai",
-      "Dil Chahta Hai",
-      "Maine Pyar Kiya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this legendary 90s Bollywood scene.",
-    "options": [
-      "KKHH – Rahul and Anjali meet",
-      "DDLJ – Raj and Simran",
-      "Mohabbatein – classroom scene",
-      "Taal – music room scene"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this classic 90s Indian TV commercial clip.",
-    "options": [
-      "Pepsi – Sachin/Kapil/Azhar ad",
-      "7Up Fido Dido ad",
-      "Thums Up ad",
-      "Limca ad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
-    "options": [
-      "Byomkesh Bakshi",
-      "CID",
-      "Tehkikaat",
-      "Karamchand"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 90s Indian pop singer does this catchy music video feature?",
-    "options": [
-      "Daler Mehndi – Tunak Tunak Tun",
-      "Baba Sehgal",
-      "Jazzy B",
-      "Lucky Ali"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which iconic 90s sports moment is this?",
-    "options": [
-      "Sachin Tendulkar's Desert Storm 1998",
-      "1999 WC India vs Pakistan",
-      "2003 WC final",
-      "Ganguly at NatWest 2002"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this popular 90s Cartoon Network show intro.",
-    "options": [
-      "Tom and Jerry (India dub 90s)",
-      "Swat Kats",
-      "Dexter's Lab",
-      "Jungle Book CN"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s Bollywood train scene.",
-    "options": [
-      "DDLJ – Simran runs for the train",
-      "Dil Hai Ke Manta Nahi",
-      "Dil To Pagal Hai",
-      "Pyaar Kiya Toh Darna Kya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 90s Bollywood song features this famous hook step?",
-    "options": [
-      "Ek Do Teen – Madhuri Dixit",
-      "Dhak Dhak",
-      "Choli Ke Peeche",
-      "Tamma Tamma"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s music video completely shot in USA.",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Keh Do Na",
-      "Pari Hoon Main",
-      "Bolo Ta Ra Ra"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which college romance classic does this 90s Bollywood clip come from?",
-    "options": [
-      "Jo Jeeta Wohi Sikandar",
-      "Kuch Kuch Hota Hai",
-      "Dil Chahta Hai",
-      "Maine Pyar Kiya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this legendary 90s Bollywood scene.",
-    "options": [
-      "KKHH – Rahul and Anjali meet",
-      "DDLJ – Raj and Simran",
-      "Mohabbatein – classroom scene",
-      "Taal – music room scene"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this classic 90s Indian TV commercial clip.",
-    "options": [
-      "Pepsi – Sachin/Kapil/Azhar ad",
-      "7Up Fido Dido ad",
-      "Thums Up ad",
-      "Limca ad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
-    "options": [
-      "Byomkesh Bakshi",
-      "CID",
-      "Tehkikaat",
-      "Karamchand"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 90s Indian pop singer does this catchy music video feature?",
-    "options": [
-      "Daler Mehndi – Tunak Tunak Tun",
-      "Baba Sehgal",
-      "Jazzy B",
-      "Lucky Ali"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which iconic 90s sports moment is this?",
-    "options": [
-      "Sachin Tendulkar's Desert Storm 1998",
-      "1999 WC India vs Pakistan",
-      "2003 WC final",
-      "Ganguly at NatWest 2002"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this popular 90s Cartoon Network show intro.",
-    "options": [
-      "Tom and Jerry (India dub 90s)",
-      "Swat Kats",
-      "Dexter's Lab",
-      "Jungle Book CN"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/yFW9jxNKFJY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s Bollywood train scene.",
-    "options": [
-      "DDLJ – Simran runs for the train",
-      "Dil Hai Ke Manta Nahi",
-      "Dil To Pagal Hai",
-      "Pyaar Kiya Toh Darna Kya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/IwRT2UwxHOU?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 90s Bollywood song features this famous hook step?",
-    "options": [
-      "Ek Do Teen – Madhuri Dixit",
-      "Dhak Dhak",
-      "Choli Ke Peeche",
-      "Tamma Tamma"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/PkZATxzDjLY?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this iconic 90s music video completely shot in USA.",
-    "options": [
-      "Made in India – Alisha Chinai",
-      "Keh Do Na",
-      "Pari Hoon Main",
-      "Bolo Ta Ra Ra"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/WKcxHj9IzXY?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which college romance classic does this 90s Bollywood clip come from?",
-    "options": [
-      "Jo Jeeta Wohi Sikandar",
-      "Kuch Kuch Hota Hai",
-      "Dil Chahta Hai",
-      "Maine Pyar Kiya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/EtmXBb5qKiM?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this legendary 90s Bollywood scene.",
-    "options": [
-      "KKHH – Rahul and Anjali meet",
-      "DDLJ – Raj and Simran",
-      "Mohabbatein – classroom scene",
-      "Taal – music room scene"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/F4B4dXthz9I?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this classic 90s Indian TV commercial clip.",
-    "options": [
-      "Pepsi – Sachin/Kapil/Azhar ad",
-      "7Up Fido Dido ad",
-      "Thums Up ad",
-      "Limca ad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/4AuP84Ef3AY?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 90s Doordarshan show was a milestone for Indian TV. Which is it?",
-    "options": [
-      "Byomkesh Bakshi",
-      "CID",
-      "Tehkikaat",
-      "Karamchand"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/TqA60E70amk?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 90s Indian pop singer does this catchy music video feature?",
-    "options": [
-      "Daler Mehndi – Tunak Tunak Tun",
-      "Baba Sehgal",
-      "Jazzy B",
-      "Lucky Ali"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/0HKU4vvPy_A?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which iconic 90s sports moment is this?",
-    "options": [
-      "Sachin Tendulkar's Desert Storm 1998",
-      "1999 WC India vs Pakistan",
-      "2003 WC final",
-      "Ganguly at NatWest 2002"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenY",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/H9LiuX12PR8?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this popular 90s Cartoon Network show intro.",
-    "options": [
-      "Tom and Jerry (India dub 90s)",
-      "Swat Kats",
-      "Dexter's Lab",
-      "Jungle Book CN"
     ],
     "correctOption": 0
   }

@@ -2,8 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const makeUrl = (prompt) => {
-    const seed = encodeURIComponent(prompt.substring(0, 30));
-    return `https://picsum.photos/seed/${seed}/600/400`;
+    return `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?width=600&height=400&nologo=true`;
 };
 
 const yQuestions = [
