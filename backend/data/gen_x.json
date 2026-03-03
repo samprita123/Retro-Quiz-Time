@@ -589,2589 +589,2368 @@
   },
   {
     "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen and identify this legendary classic Bollywood melody from 70s.",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amitabh_Bachchan.jpg/440px-Amitabh_Bachchan.jpg",
+    "question": "This 'Angry Young Man' of 1970s–80s Bollywood is arguably India's greatest film icon. Who is he?",
     "options": [
-      "Kishore Kumar song clip",
-      "Mohammed Rafi song",
-      "Asha Bhosle clip",
-      "Lata Mangeshkar song"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which Bollywood era does this dramatic orchestral piece belong to?",
-    "options": [
-      "1970s Bollywood",
-      "1990s Bollywood",
-      "2000s Bollywood",
-      "1950s Bollywood"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which instrument is prominently featured in this Indian classical piece?",
-    "options": [
-      "Sitar",
-      "Guitar",
-      "Violin",
-      "Piano"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio features a signature sound of which Indian icon?",
-    "options": [
-      "Ravi Shankar (Sitar)",
-      "Bismillah Khan (Shehnai)",
-      "Hariprasad Chaurasia (Flute)",
-      "Ali Akbar Khan (Sarod)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Identify the folklore music style heard in this clip.",
-    "options": [
-      "Rajasthani folk music",
-      "Punjabi bhangra",
-      "Bihari kajri",
-      "Gujarati garba"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which decade's film music does this harmonium-heavy clip represent?",
-    "options": [
-      "1970s Indian cinema",
-      "1990s pop",
-      "2000s remix",
-      "1980s film"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio clip is from which classic Indian film genre?",
-    "options": [
-      "Bollywood drama",
-      "South Indian film",
-      "Documentary",
-      "Stage musical"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Listen: which classic Indian instrument creates this resonant tone?",
-    "options": [
-      "Tabla",
-      "Dholak",
-      "Mridangam",
-      "Dhol"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which song era does this dramatic filmy dialoguebaaing style represent?",
-    "options": [
-      "1975–1985 Bollywood",
-      "1995–2005",
-      "2010–2020",
-      "1950–1965"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify the style of this Indian devotional audio clip.",
-    "options": [
-      "Bhajan",
-      "Ghazal",
-      "Qawwali",
-      "Thumri"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which Bollywood actress was famous for this style of classical song?",
-    "options": [
-      "Waheeda Rehman",
-      "Hema Malini",
-      "Rekha",
-      "Zeenat Aman"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio belongs to which popular 70s Indian genre?",
-    "options": [
-      "Filmi geet",
-      "Indi-pop",
-      "Remix",
-      "Western pop"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen to this shehnai solo - who was the legendary shehnai maestro?",
-    "options": [
-      "Ustad Bismillah Khan",
-      "Ravi Shankar",
-      "Zakir Hussain",
-      "Ali Akbar Khan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "What style of clapping beat do you hear in this folk audio?",
-    "options": [
-      "Teen Taal",
-      "Dadra",
-      "Keherwa",
-      "Rupak"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This clip sounds like which famous song from the movie Sholay?",
-    "options": [
-      "Mehbooba Mehbooba",
-      "Yeh Dosti",
-      "Holi Ke Din",
-      "Koi Haseena"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which instrument is this long resonating pluck from?",
-    "options": [
-      "Sarod",
-      "Sitar",
-      "Veena",
-      "Guitar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio sounds like a 70s Doordarshan jingle - True or False?",
-    "options": [
-      "True – 70s DD style",
-      "False – it's 90s",
-      "False – it's 80s ads",
-      "False – foreign music"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which state's classical music is this Carnatic snippet from?",
-    "options": [
-      "Tamil Nadu / South India",
-      "Punjab",
-      "Rajasthan",
-      "Bengal"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio clip sounds like which kind of Indian percussion?",
-    "options": [
-      "Kathak footwork",
-      "Bhangra dhol",
-      "Garba claps",
-      "Lavani beats"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Listen to this vintage film song intro - which instrument plays first?",
-    "options": [
-      "Harmonium",
-      "Flute",
-      "Sitar",
-      "Tabla"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This audio is from which popular 70s Bollywood composer's era?",
-    "options": [
-      "R.D. Burman era",
-      "A.R. Rahman era",
-      "Anu Malik era",
-      "Shankar-Jaikishan era"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify this 70s film villain's iconic laugh / tone from the clip.",
-    "options": [
-      "Gabbar Singh (Sholay)",
-      "Mogambo (Mr. India)",
-      "Shakaal (Shaan)",
-      "Kancha Cheena (Agneepath)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which radio station was famous for broadcasting this 'Binaca Geetmala' style program?",
-    "options": [
-      "Radio Ceylon / Vividh Bharati",
-      "All India Radio",
-      "VOA",
-      "BBC Hindi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "What genre is this mournful violin melody from Indian cinema?",
-    "options": [
-      "Indian film sad song",
-      "Western classical",
-      "Jazz",
-      "Country music"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This 'aaao meri jaan' phrasing is typical of which 70s playback singer?",
-    "options": [
-      "Kishore Kumar",
-      "Mohammed Rafi",
-      "Mukesh",
-      "Manna Dey"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio has a distinctive western AND Indian fusion - from which era?",
-    "options": [
-      "Late 1970s Bollywood",
-      "2000s remixes",
-      "1950s films",
-      "90s indie pop"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen - which festive Indian song occasion does this celebrate?",
-    "options": [
-      "Diwali celebration song",
-      "Eid milad",
-      "Holi folk song",
-      "Navratri garba"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This tabla solo pattern is called?",
-    "options": [
-      "Teentaal",
-      "Ektaal",
-      "Jhaptaal",
-      "Rupak"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This vocal clip sounds like which classical Indian tradition?",
-    "options": [
-      "Hindustani classical",
-      "Carnatic classical",
-      "Folk qawwali",
-      "Punjabi classical"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This trumpety filmy opening belongs to which film era?",
-    "options": [
-      "1975–1985 masala films",
-      "1960s art films",
-      "1990s romance",
-      "2000s action"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which Indian classical concept is being demonstrated in this ascending scale?",
-    "options": [
-      "Aaroho (ascending)",
-      "Avroho (descending)",
-      "Meend",
-      "Gamak"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio sounds like the signature music of which Indian TV show?",
-    "options": [
-      "Krishi Darshan (Doordarshan)",
-      "Chitrahaar",
-      "Rangoli",
-      "Mahabharat"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen to this folk singing style - it comes from which Indian state?",
-    "options": [
-      "Bengal (Baul music)",
-      "Rajasthan",
-      "Punjab",
-      "Kerala"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which decade's Bollywood is this rock-and-roll influenced song from?",
-    "options": [
-      "1960s Bollywood",
-      "1980s Bollywood",
-      "2000s Bollywood",
-      "1990s Bollywood"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "What is the name of this percussion instrument playing rapid beats?",
-    "options": [
-      "Dholak",
-      "Tabla",
-      "Mridangam",
-      "Dhol"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This 'koyal' bird sound is used symbolically in which season's folk songs?",
-    "options": [
-      "Spring (Basant) songs",
-      "Monsoon (Sawan) songs",
-      "Winter songs",
-      "Harvest songs"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Listen: this vocal style with ornamentation is called?",
-    "options": [
-      "Taan (gamakas)",
-      "Sargam recitation",
-      "Alap",
-      "Paltas"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "Which Indian instrument makes this deep resonating drone sound?",
-    "options": [
-      "Tanpura",
-      "Harmonium",
-      "Santoor",
-      "Dilruba"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "This jingle-like clip sounds like which company's famous TV ad?",
-    "options": [
-      "Nirma Washing Powder",
-      "Amul Butter",
-      "Liril Soap",
-      "Lifebuoy"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Which vocalist style is this -- where words are sung very fast?",
-    "options": [
-      "Tarana",
-      "Bandish",
-      "Ghazal",
-      "Thumri"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio is from which style of Indian devotional singing?",
-    "options": [
-      "Qawwali",
-      "Bhajan",
-      "Kirtan",
-      "Shabad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which music category was popularized on Doordarshan?",
-    "options": [
-      "Gujarati folk songs",
-      "English pop",
-      "Hip hop",
-      "EDM"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "Identify: this vocal technique uses gliding between notes, called?",
-    "options": [
-      "Meend",
-      "Khatka",
-      "Murki",
-      "Gamak"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio embodies which 70s iconic Bollywood style?",
-    "options": [
-      "Disco / funk fusion",
-      "Ghazal",
-      "Folk ballad",
-      "Classical raga"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which classical singing style is famous for improvised bols?",
-    "options": [
-      "Khayal",
-      "Dhrupad",
-      "Thumri",
-      "Dadra"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "The shrill whistle you hear is used in which 70s film genre?",
-    "options": [
-      "Western / daaku films",
-      "Romantic dramas",
-      "Comedy films",
-      "Art house"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This audio snippet is from which type of Indian celebration?",
-    "options": [
-      "Baraat (wedding procession)",
-      "Temple aarti",
-      "Cricket victory",
-      "Republic Day parade"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
-    "question": "Which playback singer was known for melodramatic singing style in the 70s?",
-    "options": [
-      "Mukesh",
-      "Kishore Kumar",
-      "Mohammed Rafi",
-      "Manna Dey"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sa-re-ga-ma-pa.ogg/Sa-re-ga-ma-pa.ogg",
-    "question": "This string instrument creates a unique twanging sound - identify it.",
-    "options": [
-      "Ektara",
-      "Sitar",
-      "Guitar",
-      "Veena"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "audio",
-    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
-    "question": "This vintage audio is from which Indian news program?",
-    "options": [
-      "Doordarshan Evening News",
-      "Aaj Tak bulletin",
-      "Zee News",
-      "BBC Hindi service"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/KN4bsN7Eopg?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this iconic Bollywood film scene.",
-    "options": [
-      "Sholay (1975)",
-      "Deewar (1975)",
-      "Zanjeer (1973)",
-      "Don (1978)"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/l4Mc7gqBmVQ?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which classic Indian TV show does this opening belong to?",
-    "options": [
-      "Hum Log (Doordarshan)",
-      "Buniyaad",
-      "Nukkad",
-      "Malgudi Days"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/GiQKMqD9DjI?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this legendary 70s Bollywood song sequence.",
-    "options": [
-      "Mehbooba Mehbooba – Sholay",
-      "Yeh Dosti – Sholay",
-      "Amar Akbar Anthony theme",
-      "Julie theme"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/5TbUxGZtwGI?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which 80s Bollywood movie does this iconic scene come from?",
-    "options": [
-      "Mr. India (1987)",
-      "Tezaab",
-      "Ramesh Sippy film",
-      "Ram Teri Ganga Maili"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/H92pMOhEJGE?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this classic Bollywood movie opening credits.",
-    "options": [
-      "Amar Akbar Anthony (1977)",
-      "Don (1978)",
-      "Muqaddar Ka Sikandar",
-      "Jai santoshi maa"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/BzB5n9wA0jM?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which classic Doordarshan program does this clip represent?",
-    "options": [
-      "Chitrahaar",
-      "Rangoli",
-      "Phool Khile Hai Gulshan Gulshan",
-      "Krishi Darshan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/2BuReSZRulI?start=0&end=15&autoplay=0&rel=0",
-    "question": "What famous 80s Indian advertisement is this from?",
-    "options": [
-      "Hamara Bajaj (Bajaj scooter ad)",
-      "Nirma ad",
-      "Amul butter ad",
-      "Liril soap ad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/mFCmuVEqHsg?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this iconic 70s Indian pop / film number.",
-    "options": [
-      "Dum Maro Dum – Hare Rama Hare Krishna",
-      "Piya Tu Ab To Aaja",
-      "Mehbooba Mehbooba",
-      "Aap Jaisa Koi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Xd0oZ8aSSnQ?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this 80s legendary Indian sports moment.",
-    "options": [
-      "India wins 1983 Cricket World Cup",
-      "India wins 1979 Hockey WC",
-      "India vs Pakistan 1986 match",
-      "Kapil Dev 175 vs Zimbabwe"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/PdSMl3BZMEY?start=0&end=15&autoplay=0&rel=0",
-    "question": "This is the opening scene of which iconic 70s Bollywood thriller?",
-    "options": [
-      "Sholay",
-      "Don",
-      "Zanjeer",
-      "Deewar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/gBQZPjGVCgM?start=10&end=25&autoplay=0&rel=0",
-    "question": "Which Indian actor is depicted in this 80s action scene?",
-    "options": [
-      "Amitabh Bachchan",
       "Dharmendra",
       "Vinod Khanna",
-      "Shatrughan Sinha"
+      "Rajesh Khanna",
+      "Amitabh Bachchan"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/4Z5cRz3QJig?start=5&end=20&autoplay=0&rel=0",
-    "question": "What is this 70s Indian movie known for?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sholay_poster.jpg/440px-Sholay_poster.jpg",
+    "question": "Which 1975 Indian film is considered the greatest Bollywood film ever and gave us Jai-Veeru friendship?",
     "options": [
-      "Deewar – Dialogue scene",
-      "Ganga Jamuna",
-      "Mughal E Azam",
-      "Mera Gaon Mera Desh"
+      "Deewar",
+      "Don",
+      "Zanjeer",
+      "Sholay"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/PLvmcT-9O4qs4j3EePmIuBmrpMiH3Dp?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this famous Indian classical dance clip.",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kapil_Dev_1983.jpg/440px-Kapil_Dev_1983.jpg",
+    "question": "Which Indian cricket captain lifted the 1983 Cricket World Cup, stunning the world?",
     "options": [
-      "Bharatanatyam performance",
-      "Kathak dance",
-      "Kuchipudi dance",
-      "Odissi dance"
+      "Sunil Gavaskar",
+      "Dilip Vengsarkar",
+      "Mohinder Amarnath",
+      "Kapil Dev"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/VNvSm23CPHY?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 70s movie scene is from?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Doordarshan_India.jpg/440px-Doordarshan_India.jpg",
+    "question": "Which government TV channel was the ONLY channel available to Indian households in the 1980s?",
     "options": [
-      "Anand (1971) – Rajesh Khanna",
-      "Bobby (1973)",
-      "Aradhana (1969)",
-      "Haathi Mere Saathi"
+      "Zee TV",
+      "Star Plus",
+      "Sony",
+      "Doordarshan"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/J31bIBjL7aQ?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which Doordarshan serial does this theme song belong to?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rajinikanth.jpg/440px-Rajinikanth.jpg",
+    "question": "This Tamil superstar famous for coin-flipping and cigarette tricks is beloved across India. Who is he?",
     "options": [
-      "Malgudi Days",
-      "Chandrakanta",
-      "Bharat Ek Khoj",
-      "Buniyaad"
+      "Kamal Haasan",
+      "Vijay",
+      "Ajith Kumar",
+      "Rajinikanth"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/5l5Hw2EoAq0?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this legendary 80s Bollywood intro sequence.",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ravi_Shankar.jpg/440px-Ravi_Shankar.jpg",
+    "question": "This sitar maestro who collaborated with The Beatles made Indian classical music world-famous. Who?",
     "options": [
-      "Tezaab (1988)",
-      "Ram Lakhan",
-      "Tridev",
-      "Chandni"
+      "Ali Akbar Khan",
+      "Vilayat Khan",
+      "Hariprasad Chaurasia",
+      "Ravi Shankar"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/bTxH0JZBgdo?start=10&end=25&autoplay=0&rel=0",
-    "question": "This vintage Doordarshan ad is for which product?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lata_Mangeshkar.jpg/440px-Lata_Mangeshkar.jpg",
+    "question": "This 'Nightingale of India' who sang for almost every Bollywood heroine for 5 decades. Who is she?",
     "options": [
-      "Nirma Washing Powder",
-      "Amul Butter",
-      "BPL Television",
-      "Videocon"
+      "Asha Bhosle",
+      "Geeta Dutt",
+      "Suman Kalyanpur",
+      "Lata Mangeshkar"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/AwQZlp5Ks_Q?start=0&end=15&autoplay=0&rel=0",
-    "question": "This legendary film song clip is from?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amitabh_Bachchan_2012.jpg/300px-Amitabh_Bachchan_2012.jpg",
+    "question": "Which legendary playback singer with unmatched range sang for Amitabh, Dilip Kumar and Dev Anand?",
     "options": [
-      "Mere Sapno Ki Rani – Aradhana",
-      "Gulabi Aankhein – The Train",
-      "Pehla Nasha – Jo Jeeta",
-      "Tere Mere Milan Ki Yeh"
+      "Kishore Kumar",
+      "Mukesh",
+      "Manna Dey",
+      "Mohammed Rafi"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/UPL8s7dMmJ8?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 80s dance number is this from?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amitabh_Bachchan_2012.jpg/300px-Amitabh_Bachchan_2012.jpg",
+    "question": "Which versatile singer-actor-comedian was Amitabh Bachchan's primary singing voice in the 70s–80s?",
     "options": [
-      "Disco Dancer (1982)",
-      "Himmatwala",
-      "Tohfa",
-      "Masterji"
+      "Mukesh",
+      "Manna Dey",
+      "Mohammed Rafi",
+      "Kishore Kumar"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/N6VKzPZ2eQE?start=10&end=25&autoplay=0&rel=0",
-    "question": "Identify this memorable scene from a 70s classic.",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sunil_Gavaskar.jpg/440px-Sunil_Gavaskar.jpg",
+    "question": "Which Indian cricketer was the first to score 10,000 Test runs and was a wall against pace?",
     "options": [
-      "Jai – Veeru friendship in Sholay",
-      "Anand – Rajesh Khanna",
-      "Don chase scene",
-      "Abhimaan dance"
+      "Kapil Dev",
+      "Gundappa Viswanath",
+      "Mohinder Amarnath",
+      "Sunil Gavaskar"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/YQWJ7Og6mCo?start=0&end=15&autoplay=0&rel=0",
-    "question": "What Indian government propaganda film does this upbeat 70s clip represent?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hema_Malini.jpg/440px-Hema_Malini.jpg",
+    "question": "This 'Dream Girl' was Bollywood's top actress throughout the 70s and 80s. Who is she?",
     "options": [
-      "Hum Hindustani / National interest film",
-      "South Indian film songs",
-      "Documentary",
-      "Commercial ad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/Fup9TdkBBho?start=5&end=20&autoplay=0&rel=0",
-    "question": "Name the 70s/80s show this Doordarshan children's programming resembles.",
-    "options": [
-      "Ek Anek Aur Ekta (animated short)",
-      "Chhota Chetan",
-      "Jungle Book",
-      "Giant Robot"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/qCXk9GUqv4o?start=0&end=15&autoplay=0&rel=0",
-    "question": "This intro jingle is from which iconic Doordarshan show?",
-    "options": [
-      "Phool Khile Hai Gulshan Gulshan",
-      "Chitrahaar",
-      "Rangoli",
-      "Krishi Darshan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/c6mGLQT2QU8?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this Bollywood actress from her classic dance clip.",
-    "options": [
-      "Helen",
-      "Waheeda Rehman",
-      "Mumtaz",
+      "Rekha",
+      "Zeenat Aman",
+      "Jaya Bhaduri",
       "Hema Malini"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/GMwxm7e9_Fo?start=5&end=20&autoplay=0&rel=0",
-    "question": "This classic 70s number is from which Bollywood movie?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rekha.jpg/440px-Rekha.jpg",
+    "question": "Which timeless Bollywood actress was famous for her mujra and roles in Umrao Jaan and Silsila?",
     "options": [
-      "Bobby (1973)",
-      "Julie",
-      "Aradhana",
-      "Hare Rama Hare Krishna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/o3yBiclMB9Q?start=10&end=25&autoplay=0&rel=0",
-    "question": "This clip shows which Indian historical event?",
-    "options": [
-      "India's independence celebrations",
-      "Republic Day parade",
-      "Asian Games",
-      "Cricket world cup"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/nsmZlT3Xvog?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this 80s hit from the song's picturization style.",
-    "options": [
-      "Pyar Ka Dard – Kumar Sanu era",
-      "Disco number",
-      "Classical mujra",
-      "80s Bollywood melody"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/8SbxIeXqFGk?start=5&end=20&autoplay=0&rel=0",
-    "question": "This Doordarshan signature tone belongs to?",
-    "options": [
-      "Doordarshan news bulletin opening",
-      "Vividh Bharati radio",
-      "All India Radio",
-      "Star TV"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/G1oMVtBlXFg?start=5&end=20&autoplay=0&rel=0",
-    "question": "This upbeat song clip resembles which 70s Bollywood actress's style?",
-    "options": [
-      "Zeenat Aman",
-      "Rekha",
       "Hema Malini",
-      "Neetu Singh"
+      "Smita Patil",
+      "Shabana Azmi",
+      "Rekha"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/nFBFE43wdrc?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which comedy actor's style does this exaggerated dialogue clip resemble?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Indira_Gandhi.jpg/440px-Indira_Gandhi.jpg",
+    "question": "Which Indian PM declared India's Emergency (1975–77) that is central to Gen X political memory?",
     "options": [
-      "Kader Khan / Om Prakash style",
-      "Utpal Dutt",
-      "Mehmood",
-      "Asrani"
+      "Rajiv Gandhi",
+      "Lal Bahadur Shastri",
+      "Jawaharlal Nehru",
+      "Indira Gandhi"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/rGKfcE9WXXY?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this classic 80s Doordarshan children's show clip.",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rajesh_Khanna.jpg/440px-Rajesh_Khanna.jpg",
+    "question": "Which Bollywood actor was India's first superstar known for films like Anand and Aradhana?",
     "options": [
-      "Vikram Aur Betaal",
-      "Chandrakanta",
-      "Alif Laila",
+      "Dharmendra",
+      "Dev Anand",
+      "Dilip Kumar",
+      "Rajesh Khanna"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/RD_Burman.jpg/440px-RD_Burman.jpg",
+    "question": "Which music composer nicknamed 'Pancham Da' revolutionised Bollywood music with Western fusion?",
+    "options": [
+      "Shankar-Jaikishan",
+      "Laxmikant-Pyarelal",
+      "Kalyanji-Anandji",
+      "R.D. Burman"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zakir_Hussain.jpg/440px-Zakir_Hussain.jpg",
+    "question": "The world's greatest tabla player, son of Ustad Allah Rakha. Who is he?",
+    "options": [
+      "Shafaat Ali Khan",
+      "Anindo Chatterjee",
+      "Yogesh Samsi",
+      "Zakir Hussain"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ustad_Bismillah_Khan.jpg/440px-Ustad_Bismillah_Khan.jpg",
+    "question": "Which legendary shehnai maestro's performance inaugurated India's independence in 1947?",
+    "options": [
+      "Hariprasad Chaurasia",
+      "Ali Akbar Khan",
+      "Pandit Bhimsen Joshi",
+      "Ustad Bismillah Khan"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hariprasad_Chaurasia.jpg/440px-Hariprasad_Chaurasia.jpg",
+    "question": "Which master of the flute whose playing is inseparable from Indian classical music imagery?",
+    "options": [
+      "Ronu Majumdar",
+      "Rajendra Prasanna",
+      "Shiv Kumar Sharma",
+      "Hariprasad Chaurasia"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zeenat_Aman.jpg/440px-Zeenat_Aman.jpg",
+    "question": "Which actress starred in 'Hare Rama Hare Krishna' and was the 1970s face of modern Indian womanhood?",
+    "options": [
+      "Helen",
+      "Parveen Babi",
+      "Neetu Singh",
+      "Zeenat Aman"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amitabh_Bachchan_2012.jpg/300px-Amitabh_Bachchan_2012.jpg",
+    "question": "Which actor hailed as the 'Tragedy King' of Indian cinema inspired a young Amitabh Bachchan?",
+    "options": [
+      "Dev Anand",
+      "Guru Dutt",
+      "Balraj Sahni",
+      "Dilip Kumar"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dev_Anand.jpg/440px-Dev_Anand.jpg",
+    "question": "Which evergreen Bollywood hero's films like Guide and Jewel Thief defined the 1960s?",
+    "options": [
+      "Shammi Kapoor",
+      "Rajendra Kumar",
+      "Manoj Kumar",
+      "Dev Anand"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Guru_Dutt.jpg/440px-Guru_Dutt.jpg",
+    "question": "Which director-actor made Pyaasa and Kaagaz Ke Phool, now considered art cinema classics?",
+    "options": [
+      "Bimal Roy",
+      "Mehboob Khan",
+      "V. Shantaram",
+      "Guru Dutt"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mughal-E-Azam_poster.jpg/440px-Mughal-E-Azam_poster.jpg",
+    "question": "Which 1960 epic Hindi film about Salim and Anarkali is India's most ambitious historical drama?",
+    "options": [
+      "Pakeezah",
+      "Razia Sultan",
+      "Anarkali",
+      "Mughal-E-Azam"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Nirma_logo.jpg/220px-Nirma_logo.jpg",
+    "question": "Which washing powder brand's jingle 'Washing powder Nirma' was the catchiest Indian ad of the 80s?",
+    "options": [
+      "Surf Excel",
+      "Ariel",
+      "Rin",
+      "Nirma"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Doordarshan_logo.svg/320px-Doordarshan_logo.svg.png",
+    "question": "This Doordarshan era drama poster from the early 1980s featured which setting?",
+    "options": [
+      "Action thriller",
+      "Social drama",
+      "Love story",
+      "Bazaar marketplace story"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Doordarshan_logo.svg/320px-Doordarshan_logo.svg.png",
+    "question": "Which beloved Doordarshan show based on R.K. Narayan's stories was every Indian child's Sunday favourite?",
+    "options": [
+      "Wagle Ki Duniya",
+      "Hum Log",
+      "Nukkad",
       "Malgudi Days"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/xeW-N7mYsKU?start=10&end=25&autoplay=0&rel=0",
-    "question": "This dramatic scene clip belongs to which 80s landmark TV show?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Doordarshan_logo.svg/320px-Doordarshan_logo.svg.png",
+    "question": "Which iconic 1988 Doordarshan mythological show had India stopping at Sunday 9 AM to watch it?",
     "options": [
-      "Hum Log (Doordarshan)",
-      "Nukkad",
-      "Buniyaad",
-      "Wagle Ki Duniya"
+      "Ramayan",
+      "Vishnu Puran",
+      "Jai Hanuman",
+      "Mahabharat"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/7AuJDuAkj6o?start=0&end=15&autoplay=0&rel=0",
-    "question": "This popular 70s radio program style was called?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Doordarshan_Ramayan.jpg/440px-Doordarshan_Ramayan.jpg",
+    "question": "Which 1986-88 Ramanand Sagar show made Arun Govil and Dipika Chikhlia household names?",
     "options": [
-      "Binaca Geetmala (Radio Ceylon)",
-      "Sangeet Sarita",
-      "Jaimala",
-      "Hawa Mahal"
+      "Luv Kush",
+      "Lanka Dahan",
+      "Sita",
+      "Ramayan"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/wbj_KR6A9bw?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this Bollywood title song from the 70s.",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Doordarshan_logo.svg/320px-Doordarshan_logo.svg.png",
+    "question": "Which Bengali fictional detective's TV show on Doordarshan gripped Indian viewers in the 1990s?",
     "options": [
-      "Shaan (1980) title song",
-      "Don title",
-      "Disco Dancer title",
-      "Muqaddar Ka Sikandar"
+      "Karamchand",
+      "Tehkikaat",
+      "Jasoos Vijay",
+      "Byomkesh Bakshi"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/ZNFP_P9TZOI?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 1983 historic moment is?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Liril_India.jpg/440px-Liril_India.jpg",
+    "question": "Which soap brand's waterfall ad with La-La-La jingle began in 1975 and became iconic?",
     "options": [
-      "Kapil Dev lifting Cricket World Cup",
-      "India hockey gold 1980",
-      "Prakash Padukone badminton",
-      "PT Usha Olympics 1984"
+      "Lux",
+      "Hamam",
+      "Pears",
+      "Liril"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/KSxjHbMPfXc?start=0&end=15&autoplay=0&rel=0",
-    "question": "This song from which 70s film was RD Burman's hit?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bajaj_Chetak.jpg/440px-Bajaj_Chetak.jpg",
+    "question": "Which Bajaj scooter with the 'Hamara Bajaj' ad was EVERY Indian family's iconic vehicle in the 80s?",
     "options": [
-      "Yeh Mera Dil Yaar Ka Diwana – Don",
-      "Mehbooba Mehbooba",
-      "Dum Maro Dum",
-      "Chura Liya Hai Tumne"
+      "Kinetic Honda",
+      "Scooters India Lambretta",
+      "TVS Scooty",
+      "Bajaj Chetak"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/xDl3pTv0-A8?start=0&end=15&autoplay=0&rel=0",
-    "question": "This 80s mega hit opening sequence is from?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hero_Majestic.jpg/440px-Hero_Majestic.jpg",
+    "question": "In the 1980s, which bicycle brand was India's most popular — almost every kid had one?",
     "options": [
-      "Tezaab – Ek Do Teen",
-      "Disco Dancer",
-      "Mard",
-      "Ilzaam"
+      "Atlas Cycles",
+      "BSA",
+      "Raleigh",
+      "Hero Cycles"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/DTAV-O4i5nY?start=5&end=20&autoplay=0&rel=0",
-    "question": "Name this show from Doordarshan's golden era.",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Sholay_film_poster.jpg/220px-Sholay_film_poster.jpg",
+    "question": "Which Punjabi he-man actor paired with Hema Malini and starred in Sholay as Veeru?",
     "options": [
-      "Nukkad (Street Corner)",
-      "Hum Log",
-      "Wagle Ki Duniya",
-      "Zabaan Sambhalke"
+      "Vinod Khanna",
+      "Feroz Khan",
+      "Jeetendra",
+      "Dharmendra"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/MtT1WfQ5z3I?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which 80s Bollywood actress's iconic silver screen debut is this?",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shabana_Azmi.jpg/440px-Shabana_Azmi.jpg",
+    "question": "Which National Award-winning actress is the 'Queen of Parallel Cinema' from the 1970s–80s?",
+    "options": [
+      "Smita Patil",
+      "Deepti Naval",
+      "Rohini Hattangadi",
+      "Shabana Azmi"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sridevi.jpg/440px-Sridevi.jpg",
+    "question": "This actress danced in 'Hawa Hawai' and 'Navrai Majhi Ladaki' — India's first female superstar. Who?",
+    "options": [
+      "Rekha",
+      "Madhuri Dixit",
+      "Jaya Prada",
+      "Sridevi"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Madhuri_Dixit.jpg/440px-Madhuri_Dixit.jpg",
+    "question": "Who is the 'Dhak Dhak Girl' who danced in 'Ek Do Teen' and ruled Bollywood in the 90s?",
     "options": [
       "Sridevi",
-      "Madhuri Dixit",
-      "Juhi Chawla",
-      "Meenakshi Seshadri"
+      "Karisma Kapoor",
+      "Raveena Tandon",
+      "Madhuri Dixit"
     ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/BqDa2a_q3bc?start=5&end=20&autoplay=0&rel=0",
-    "question": "This clip from 70s Doordarshan shows which recurring folk art segment?",
-    "options": [
-      "Folk dance demonstration",
-      "News segment",
-      "Sports highlights",
-      "Animation short"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/NMv8i7yYp0c?start=0&end=15&autoplay=0&rel=0",
-    "question": "This music video style is from which Indian pop era?",
-    "options": [
-      "Early 80s Indian film pop",
-      "2000s indi-pop",
-      "90s MTV era",
-      "70s disco Bollywood"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/IEv3pL3KZOU?start=0&end=15&autoplay=0&rel=0",
-    "question": "Identify this classic 70s cartoon that aired on Doordarshan.",
-    "options": [
-      "Ek Chidiya – Doordarshan animated short",
-      "He Man",
-      "Tom and Jerry",
-      "Jungle Book"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/m5iWvkW_4Jo?start=5&end=20&autoplay=0&rel=0",
-    "question": "What genre of Bollywood film is this clip from?",
-    "options": [
-      "Angry Young Man / action drama",
-      "Romantic drama",
-      "Comedy film",
-      "Art house cinema"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/MxC5cDw9X-E?start=0&end=15&autoplay=0&rel=0",
-    "question": "This political drama clip resembles which major 70s Indian event?",
-    "options": [
-      "Emergency era India (1975–77)",
-      "Pre-independence India",
-      "Indo-Pak 1971 war",
-      "Green revolution"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/RkPXIEr_q0s?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which Indian track-and-field athlete is portrayed in this early 80s style?",
-    "options": [
-      "P.T. Usha",
-      "Milkha Singh",
-      "Rima Dutta",
-      "Shiny Abraham"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/SXlMMePJ_sM?start=5&end=20&autoplay=0&rel=0",
-    "question": "Identify this legendary 80s Bollywood chase scene.",
-    "options": [
-      "Amitabh Bachchan action film chase",
-      "Sunny Deol action scene",
-      "Jackie Shroff",
-      "Govinda comedy chase"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/nzGtNjKGhcg?start=0&end=15&autoplay=0&rel=0",
-    "question": "This opening scene is from which classic 80s film?",
-    "options": [
-      "Mr. India (1987)",
-      "Tezaab",
-      "Chandni",
-      "Tridev"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/oVwlXi5jqig?start=0&end=15&autoplay=0&rel=0",
-    "question": "Which comedy drama from Doordarshan does this style represent?",
-    "options": [
-      "Zabaan Sambhalke",
-      "Hum Log",
-      "Yeh Jo Hai Zindagi",
-      "Wagle Ki Duniya"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "video",
-    "mediaUrl": "https://www.youtube.com/embed/C98cxgRuFl4?start=5&end=20&autoplay=0&rel=0",
-    "question": "Which major Doordarshan milestone does this clip celebrate?",
-    "options": [
-      "Doordarshan's first color broadcast (1982 Asian Games)",
-      "First national network launch",
-      "DD Metro premiere",
-      "First satellite broadcast"
-    ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Identify this iconic 1975 Bollywood movie villain.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Gabbar%20Singh%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/AIR_station_India.jpg/440px-AIR_station_India.jpg",
+    "question": "Before TV arrived, which All India Radio entertainment program played old film songs?",
     "options": [
-      "Gabbar Singh",
-      "Shakaal",
-      "Mogambo",
-      "Prem Chopra"
+      "Vividh Bharati",
+      "Yuva Vani",
+      "FM Gold",
+      "Aakashvani News"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Which 70s Bollywood actor is known as the 'Angry Young Man'?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amitabh%20Bachchan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Binaca_Geetmala.jpg/440px-Binaca_Geetmala.jpg",
+    "question": "Which Radio Ceylon program hosted by Ameen Sayani was India's most popular show for 30+ years?",
     "options": [
-      "Amitabh Bachchan",
-      "Rajesh Khanna",
-      "Dharmendra",
-      "Sanjeev Kumar"
+      "Hawa Mahal",
+      "Jaimala",
+      "Sangeet Sarita",
+      "Binaca Geetmala"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Name this popular 80s Doordarshan show featuring a superhero.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Shaktimaan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Asian_Games_1982_Delhi.jpg/440px-Asian_Games_1982_Delhi.jpg",
+    "question": "Which major sports event hosted in Delhi in 1982 brought colour TV to Indian homes for the first time?",
     "options": [
-      "Shaktimaan",
-      "Captain Vyom",
-      "Junior G",
-      "Karma"
+      "Commonwealth Games",
+      "Olympics",
+      "World Athletics",
+      "Asian Games"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Guess this legendary singer known as the Melody Queen of India.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Lata%20Mangeshkar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PT_Usha_India.jpg/440px-PT_Usha_India.jpg",
+    "question": "Which Indian track-and-field star known as the 'Payyoli Express' just missed an Olympic medal in 1984?",
     "options": [
-      "Lata Mangeshkar",
-      "Asha Bhosle",
-      "Uma Devi",
-      "Geeta Dutt"
+      "Shiny Abraham",
+      "M.D. Valsamma",
+      "K.M. Beenamol",
+      "P.T. Usha"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Identify this classic Indian TV series based on an epic.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Ramayan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Geet_Gaata_Chal.jpg/440px-Geet_Gaata_Chal.jpg",
+    "question": "Which 1975 romantic Bollywood film starring Jeetendra was a huge hit for Hindi rural romance?",
     "options": [
-      "Ramayan",
-      "Mahabharat",
-      "Chanakya",
-      "Bharat Ek Khoj"
+      "Sawan Ko Aane Do",
+      "Dharam Veer",
+      "Prem Pujari",
+      "Geet Gaata Chal"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Which famous 1983 World Cup winning captain is this?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kapil%20Dev%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mr_India_poster.jpg/440px-Mr_India_poster.jpg",
+    "question": "Which 1987 Shekhar Kapur film about an invisible hero made Mogambo the most famous Bollywood villain?",
     "options": [
-      "Kapil Dev",
-      "Sunil Gavaskar",
-      "Ravi Shastri",
-      "Mohinder Amarnath"
+      "Krrish",
+      "Andhaa Kanoon",
+      "Shahenshah",
+      "Mr. India"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Guess this classic 1970s scooter brand from the image.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Bajaj%20Chetak%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Boney_M_Germany.jpg/440px-Boney_M_Germany.jpg",
+    "question": "Which western disco band's songs like 'Rasputin' and 'Rivers of Babylon' were huge in India in late 70s?",
     "options": [
-      "Bajaj Chetak",
-      "Vespa",
-      "LML",
-      "Lambretta"
+      "ABBA",
+      "Bee Gees",
+      "Village People",
+      "Boney M"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Identify this popular 80s Indian comic character in red turbans.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Chacha%20Chaudhary%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/India_first_nuclear_test.jpg/440px-India_first_nuclear_test.jpg",
+    "question": "India became a nuclear power by conducting the Pokhran-II test in which year?",
     "options": [
-      "Chacha Chaudhary",
-      "Tenali Rama",
-      "Nagraj",
-      "Super Commando Dhruva"
+      "1974",
+      "1983",
+      "1990",
+      "1998"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Which iconic Indian playback singer (male) from the 70s is this?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kishore%20Kumar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Smita_Patil.jpg/440px-Smita_Patil.jpg",
+    "question": "Which National Award winning parallel cinema actress died tragically young in 1986 at age 31?",
     "options": [
-      "Kishore Kumar",
-      "Mohammed Rafi",
-      "Mukesh",
-      "Manna Dey"
+      "Shabana Azmi",
+      "Deepti Naval",
+      "Neena Gupta",
+      "Smita Patil"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Name this legendary Bollywood actress from the 70s.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Hema%20Malini%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dhundiraj_Govind_Phalke.jpg/440px-Dhundiraj_Govind_Phalke.jpg",
+    "question": "Which Indian filmmaker known as the 'Father of Indian Cinema' made the first Indian silent film?",
     "options": [
-      "Hema Malini",
-      "Rekha",
-      "Zeenat Aman",
-      "Mumtaz"
+      "Bimal Roy",
+      "V. Shantaram",
+      "Mehboob Khan",
+      "Dadasaheb Phalke"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Identify this famous 1970s Indian cold drink brand.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Campa%20Cola%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pandit_Bhimsen_Joshi.jpg/440px-Pandit_Bhimsen_Joshi.jpg",
+    "question": "Which Kirana Gharana vocalist was known for emotive khayal singing in Raga Bhairavi and Durga?",
     "options": [
-      "Campa Cola",
-      "Thums Up",
-      "Gold Spot",
-      "Limca"
+      "Kishori Amonkar",
+      "Mallikarjun Mansur",
+      "Kumar Gandharva",
+      "Pandit Bhimsen Joshi"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "What is the name of this classic 80s Indian car?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Maruti%20800%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Onida_TV.jpg/440px-Onida_TV.jpg",
+    "question": "Which Indian TV brand had the famous 'devil' mascot in its iconic 80s ads?",
     "options": [
-      "Maruti 800",
-      "Premier Padmini",
-      "Hindustan Ambassador",
-      "Tata Estate"
+      "BPL",
+      "Weston",
+      "Videocon",
+      "Onida"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Guess this classic childhood candy from the 80s.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Mango%20Bite%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Mango Bite",
-      "Kismi Bar",
-      "Phantom Cigarettes",
-      "Melodi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this 70s movie scene of a coin toss.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Sholay%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Sholay",
-      "Deewar",
-      "Zanjeer",
-      "Don"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this famous Indian parallel cinema director.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Satyajit%20Ray%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Satyajit Ray",
-      "Mrinal Sen",
-      "Ritwik Ghatak",
-      "Shyam Benegal"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which classic 80s advertisement featured an animated girl twisting?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Nirma%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Nirma",
-      "Amul",
-      "Liril",
-      "Babul"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this iconic 'Mogambo' actor from Mr. India.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amrish%20Puri%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Amrish Puri",
-      "Kader Khan",
-      "Pran",
-      "Anupam Kher"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 1971 war film is this iconic image from?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Border%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Border",
-      "Haqeeqat",
-      "Prahaar",
-      "Vijeta"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this 80s Doordarshan serial about a joint family.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Hum%20Log%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Hum Log",
-      "Buniyaad",
-      "Nukkad",
-      "Malgudi Days"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the Indian athlete known as the Flying Sikh.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Milkha%20Singh%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Milkha Singh",
-      "P.T. Usha",
-      "Dhyan Chand",
-      "Prakash Padukone"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which classical dancer from the 70s is shown here?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Pandit%20Birju%20Maharaj%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Pandit Birju Maharaj",
-      "Rukmini Devi",
-      "Sonal Mansingh",
-      "Yamini Krishnamurthy"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Guess the movie showing an invisible man.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Mr.%20India%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Mr. India",
-      "Shaan",
-      "Ajooba",
-      "Toofan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the actor playing the iconic 'Don' (1978).",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amitabh%20Bachchan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Amitabh Bachchan",
-      "Rishi Kapoor",
-      "Shatrughan Sinha",
-      "Vinod Khanna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 80s Indian comic hero shoots snakes from his wrists?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Nagraj%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Nagraj",
-      "Doga",
-      "Bhokal",
-      "Parmanu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this 1980s soft drink with 'The genuine taste'.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Thums%20Up%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Thums Up",
-      "Pepsi",
-      "Campa Cola",
-      "Double Seven"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "What is the name of this vintage Indian bicycle brand?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Atlas%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Atlas",
-      "Hero",
-      "Hercules",
-      "Avon"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which classic Indian comic publisher created Chacha Chaudhary?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Diamond%20Comics%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Diamond Comics",
-      "Raj Comics",
-      "Amar Chitra Katha",
-      "Manoj Comics"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this Indian cartoon show about a boy in a village.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Malgudi%20Days%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Malgudi Days",
-      "Swami and Friends",
-      "Tenali Rama",
-      "Vikram Betaal"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this legendary 70s music director duo.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Laxmikant-Pyarelal%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Laxmikant-Pyarelal",
-      "Kalyanji-Anandji",
-      "Shankar-Jaikishan",
-      "Vishal-Shekhar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which actress famously danced to 'Piya Tu Ab To Aaja'?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Helen%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Helen",
-      "Bindu",
-      "Aruna Irani",
-      "Jayshree T"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this iconic 80s Indian television set brand.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/BPL%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Videocon_India.jpg/440px-Videocon_India.jpg",
+    "question": "Which Indian consumer electronics brand sold the most colour TVs in India in the 1980s-90s?",
     "options": [
       "BPL",
       "Onida",
-      "Videocon",
-      "Salora"
+      "Samsung",
+      "Videocon"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "What is the name of the devil mascot of Onida TV?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Onida%20Devil%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lipton_Taaza.jpg/440px-Lipton_Taaza.jpg",
+    "question": "Which tea brand's 1980s ad with the jingle 'Taaza Taaza' was everyone's morning ritual?",
     "options": [
-      "Onida Devil",
-      "Murphy Baby",
-      "Amul Girl",
-      "Nirma Girl"
+      "Red Label",
+      "Brook Bond",
+      "Society",
+      "Lipton Taaza"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Guess this iconic 70s/80s audio cassette brand.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/T-Series%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hamam_soap.jpg/440px-Hamam_soap.jpg",
+    "question": "TVC for which Indian soap brand showed a mother protecting her child from infections?",
     "options": [
-      "T-Series",
-      "HMV",
-      "Venus",
-      "Tips"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which legendary batsman made his debut in 1989?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Sachin%20Tendulkar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Sachin Tendulkar",
-      "Sunil Gavaskar",
-      "Mohammad Azharuddin",
-      "Sanjay Manjrekar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this famous 1983 World Cup winning moment.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kapil%20Dev%20lifting%20trophy%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Kapil Dev lifting trophy",
-      "Gavaskar hitting a six",
-      "Amar Singh bowling",
-      "Roger Binny catching"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 80s Doordarshan news anchor is famous for her signature sarees?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Salma%20Sultan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Salma Sultan",
-      "Gitanjali Aiyar",
-      "Neethi Ravindran",
-      "Rini Simon Khanna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the 'Amul Girl' from the classic advertisement.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amul%20Girl%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Amul Girl",
-      "Parle G Girl",
-      "Nirma Girl",
-      "Lijjat Papad Girl"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which film featured the hit song 'Mere Sapno Ki Rani' on a train?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Aradhana%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Aradhana",
-      "Kati Patang",
-      "Amar Prem",
-      "Anand"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this legendary villain 'Gabbar' actor.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amjad%20Khan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Amjad Khan",
-      "Danny Denzongpa",
-      "Pran",
-      "Jeevan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the 80s television show 'Yeh Jo Hai Zindagi' star.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Shafi%20Inamdar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Shafi Inamdar",
-      "Satish Shah",
-      "Rakesh Bedi",
-      "Swaroop Sampat"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which Indian prime minister announced color TV in 1982?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Indira%20Gandhi%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Indira Gandhi",
-      "Rajiv Gandhi",
-      "Morarji Desai",
-      "Charan Singh"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the classic orange flavored Indian candy.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kismi%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Kismi",
-      "Phantom",
-      "Swad",
-      "Hajmola"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "What is this famous 70s street food from Mumbai?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Vada%20Pav%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Vada Pav",
-      "Pav Bhaji",
-      "Bhel Puri",
-      "Pani Puri"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this 80s pop singer who sang 'Disco Deewane'.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Nazia%20Hassan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Nazia Hassan",
-      "Alisha Chinai",
-      "Usha Uthup",
-      "Salma Agha"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this classic Indian board game played with cowrie shells.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Pachisi%20%2F%20Ludo%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Pachisi / Ludo",
-      "Carrom",
-      "Chess",
-      "Snakes and Ladders"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which legendary Indian actor plays 'Anand' in this 1971 movie?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Rajesh%20Khanna%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Rajesh Khanna",
-      "Amitabh Bachchan",
-      "Dev Anand",
-      "Shammi Kapoor"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the Indian superhero played by Mukesh Khanna.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Shaktimaan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Shaktimaan",
-      "Aryaman",
-      "Junior G",
-      "Karma"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 1980s kids show featured a ghost named Betaal?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Vikram%20Aur%20Betaal%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Vikram Aur Betaal",
-      "Chandrakanta",
-      "Alif Laila",
-      "Sinbad"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this classic Indian soap brand showing a girl under a waterfall.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Liril%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Liril",
       "Lux",
-      "Cinthol",
-      "Pears"
+      "Margo",
+      "Lifebuoy",
+      "Hamam"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Identify this famous 70s anti-hero from 'Zanjeer'.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Inspector%20Vijay%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sunil_Dutt.jpg/440px-Sunil_Dutt.jpg",
+    "question": "Which actor-politician who played a dacoit-turned-saint in Mother India became a Congress MP?",
     "options": [
-      "Inspector Vijay",
-      "Jai",
-      "Ravi",
-      "Don"
+      "Manoj Kumar",
+      "Vinod Khanna",
+      "Feroz Khan",
+      "Sunil Dutt"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Identify this iconic 1975 Bollywood movie villain.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Gabbar%20Singh%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nargis.jpg/440px-Nargis.jpg",
+    "question": "Which iconic actress starred in 'Mother India' (1957) — arguably Indian cinema's greatest performance?",
     "options": [
-      "Gabbar Singh",
-      "Shakaal",
-      "Mogambo",
-      "Prem Chopra"
+      "Meena Kumari",
+      "Madhubala",
+      "Waheeda Rehman",
+      "Nargis"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Which 70s Bollywood actor is known as the 'Angry Young Man'?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amitabh%20Bachchan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Meena_Kumari.jpg/440px-Meena_Kumari.jpg",
+    "question": "Which 'Tragedy Queen' starred in Pakeezah and Sahib Bibi Aur Ghulam?",
     "options": [
-      "Amitabh Bachchan",
-      "Rajesh Khanna",
-      "Dharmendra",
-      "Sanjeev Kumar"
+      "Nargis",
+      "Madhubala",
+      "Geeta Bali",
+      "Meena Kumari"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
     "type": "image",
-    "question": "Name this popular 80s Doordarshan show featuring a superhero.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Shaktimaan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dilip_Kumar_1955.jpg/300px-Dilip_Kumar_1955.jpg",
+    "question": "Which actress called the 'Venus of Indian Cinema' starred opposite Dilip Kumar in Mughal-E-Azam?",
     "options": [
-      "Shaktimaan",
-      "Captain Vyom",
-      "Junior G",
-      "Karma"
+      "Nimmi",
+      "Suraiya",
+      "Geeta Bali",
+      "Madhubala"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Raj_Kapoor.jpg/440px-Raj_Kapoor.jpg",
+    "question": "Which actor-director made 'Awaara' and 'Shree 420' and was beloved in Soviet Russia and China?",
+    "options": [
+      "Mehboob Khan",
+      "Bimal Roy",
+      "V. Shantaram",
+      "Raj Kapoor"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dilip_Kumar_1955.jpg/300px-Dilip_Kumar_1955.jpg",
+    "question": "Dilip Kumar's Bhojpuri-style dacoit film produced by himself in 1961 is considered a classic. Name it.",
+    "options": [
+      "Naya Daur",
+      "Devdas",
+      "Paigham",
+      "Gunga Jamuna"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Waiting_Outside_Ration_Shop.jpg/440px-Waiting_Outside_Ration_Shop.jpg",
+    "question": "Which government store sold subsidised rice, wheat and sugar in 1970–80s India?",
+    "options": [
+      "Co-op Stores",
+      "Apna Bazar",
+      "Block Development Offices",
+      "Ration Shop (PDS)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hero_honda_cd100.jpg/440px-Hero_honda_cd100.jpg",
+    "question": "Which joint-venture motorcycle with 'Fill it, Shut it, Forget it' slogan dominated Indian roads in the 1980s?",
+    "options": [
+      "Bajaj Chetak",
+      "Rajdoot",
+      "Yezdi",
+      "Hero Honda CD100"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Indian_Telephone_Rotary.jpg/440px-Indian_Telephone_Rotary.jpg",
+    "question": "Before mobiles, Indians used which device to call relatives — sometimes waiting YEARS for a connection?",
+    "options": [
+      "Telegram",
+      "Trunk call booth",
+      "Telegraph",
+      "Fixed-line rotary telephone"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/India_postcard_1980.jpg/440px-India_postcard_1980.jpg",
+    "question": "Indian families used to eagerly wait for the _______ to arrive with news from distant relatives.",
+    "options": [
+      "Telegram",
+      "Fax machine",
+      "E-mail",
+      "Postman / inland letter"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/VHS_tape_India.jpg/440px-VHS_tape_India.jpg",
+    "question": "Which video cassette technology let Indians watch films at home in the 1980s on VCR?",
+    "options": [
+      "Betamax",
+      "Laserdisc",
+      "CDs",
+      "VHS Cassette"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Radio_transistor_India.jpg/440px-Radio_transistor_India.jpg",
+    "question": "Before TVs were common, every Indian household had one of these to listen to cricket commentary. What?",
+    "options": [
+      "Gramophone",
+      "Cassette player",
+      "Tape recorder",
+      "Transistor radio"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Indian_Railways_Old.jpg/440px-Indian_Railways_Old.jpg",
+    "question": "Which was the preferred mode of long-distance travel for Indian families in the 1970–80s?",
+    "options": [
+      "Airline (Indian Airlines)",
+      "State bus",
+      "Car",
+      "Indian Railways (train)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Typewriter_India.jpg/440px-Typewriter_India.jpg",
+    "question": "What did government clerks and typists use before computers in 1970-80s India?",
+    "options": [
+      "Dot matrix printer",
+      "Telex machine",
+      "Stencil duplicator",
+      "Typewriter"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Collector_India_office.jpg/440px-Collector_India_office.jpg",
+    "question": "In 1970s India, getting a gas cylinder connection required standing in which long bureaucratic queue?",
+    "options": [
+      "Ration shop",
+      "Nationalised bank",
+      "Block office",
+      "Government office / Collector's office"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Limca_drink.jpg/440px-Limca_drink.jpg",
+    "question": "Which lemon-lime Indian soft drink with 'Lime 'n' lemoni' was a Gen X summer staple?",
+    "options": [
+      "Campa Cola",
+      "Gold Spot",
+      "Thums Up",
+      "Limca"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gold_Spot_India.jpg/440px-Gold_Spot_India.jpg",
+    "question": "Which orange-flavoured Indian soft drink was Coca-Cola's competitor before liberalisation in 1991?",
+    "options": [
+      "Fanta",
+      "Mirinda",
+      "Tang",
+      "Gold Spot"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Campa_Cola.jpg/440px-Campa_Cola.jpg",
+    "question": "After Coca-Cola left India in 1977, which Indian cola brand took its place?",
+    "options": [
+      "Thums Up",
+      "Double Seven",
+      "Pepsi",
+      "Campa Cola"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pepsi_logo_2014.svg/320px-Pepsi_logo_2014.svg.png",
+    "question": "Which Indian cola brand with a thumbs-up logo launched before 1991 and survived even after Pepsi arrived?",
+    "options": [
+      "Limca",
+      "Campa Cola",
+      "Citra",
+      "Thums Up"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Parle_G.jpg/440px-Parle_G.jpg",
+    "question": "Which biscuit brand with a baby girl on the wrapper is possibly the world's best-selling biscuit?",
+    "options": [
+      "Marie Gold",
+      "Bourbon",
+      "Good Day",
+      "Parle-G"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bourbon_biscuit.jpg/440px-Bourbon_biscuit.jpg",
+    "question": "Which chocolate cream biscuit was the most prized snack in Indian school tiffin boxes?",
+    "options": [
+      "Parle-G",
+      "Good Day",
+      "Hide & Seek",
+      "Bourbon"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Doordarshan_logo.svg/320px-Doordarshan_logo.svg.png",
+    "question": "Which chocolate health drink brand's 'confidence kahan se aata hai' ad was shown on Doordarshan?",
+    "options": [
+      "Complan",
+      "Horlicks",
+      "Boost",
+      "Bournvita"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Complan_India.jpg/440px-Complan_India.jpg",
+    "question": "Which health drink brand had ads claiming '23 vital nutrients' and 'Complan children grow taller'?",
+    "options": [
+      "Horlicks",
+      "Bournvita",
+      "Boost",
+      "Complan"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Horlicks_India.jpg/440px-Horlicks_India.jpg",
+    "question": "Which malted milk health drink brand dominated Indian homes with 'taller, stronger, sharper' ads?",
+    "options": [
+      "Bournvita",
+      "Complan",
+      "Nutramul",
+      "Horlicks"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kachha_Badam_Cartoon.jpg/440px-Kachha_Badam_Cartoon.jpg",
+    "question": "Which humble nut-selling vendor's folk song from West Bengal went massively viral in early 2022?",
+    "options": [
+      "Pawri wala",
+      "Binod",
+      "Ranu Mondal",
+      "Kacha Badam (Bhuban Badyakar)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pran.jpg/440px-Pran.jpg",
+    "question": "Which actor was Bollywood's greatest villain for 3 decades — in every other film in the 60s–70s?",
+    "options": [
+      "Ajit",
+      "Amrish Puri",
+      "Gulshan Grover",
+      "Pran"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amrish_Puri.jpg/440px-Amrish_Puri.jpg",
+    "question": "Which villain is famous for saying 'Mogambo Khush Hua' in the film Mr. India?",
+    "options": [
+      "Pran",
+      "Shakti Kapoor",
+      "Ranjeet",
+      "Amrish Puri"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Balraj_Sahni.jpg/440px-Balraj_Sahni.jpg",
+    "question": "Which Indian actor is considered the finest realistic actor in 1950s Hindi cinema?",
+    "options": [
+      "Sanjeev Kumar",
+      "Utpal Dutt",
+      "A.K. Hangal",
+      "Balraj Sahni"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Shyam_Benegal.jpg/440px-Shyam_Benegal.jpg",
+    "question": "Which Indian parallel cinema director made Ankur, Manthan and Bhumika in the 1970s–80s?",
+    "options": [
+      "Govind Nihalani",
+      "Mrinal Sen",
+      "Adoor Gopalakrishnan",
+      "Shyam Benegal"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Satyajit_Ray.jpg/440px-Satyajit_Ray.jpg",
+    "question": "Which Indian Oscar-winning filmmaker made the Apu Trilogy and Charulata?",
+    "options": [
+      "Ritwik Ghatak",
+      "Tapan Sinha",
+      "Mrinal Sen",
+      "Satyajit Ray"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "image",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sachin_Tendulkar_at_the_Australian_Cricket_Board_Dinner.jpg/300px-Sachin_Tendulkar_at_the_Australian_Cricket_Board_Dinner.jpg",
+    "question": "Sachin Tendulkar made his international debut in 1989 aged 16 against which country?",
+    "options": [
+      "England",
+      "Australia",
+      "Sri Lanka",
+      "Pakistan"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This ascending musical scale is the very foundation of Indian classical music. Name the sequence.",
+    "options": [
+      "Taal",
+      "Alap",
+      "Raga",
+      "Sargam (Sa Re Ga Ma Pa)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This raga heard in countless Indian film soundtracks conveys emotions of parting and longing. Which raga?",
+    "options": [
+      "Raga Yaman",
+      "Raga Desh",
+      "Raga Bhairavi",
+      "Raga Kafi"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "This percussion instrument is the heartbeat of North Indian classical music. Identify it.",
+    "options": [
+      "Dhol",
+      "Dholak",
+      "Mridangam",
+      "Tabla"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "This wind instrument was famously played by Ustad Bismillah Khan at India's first Independence Day. Name it.",
+    "options": [
+      "Bansuri",
+      "Sarangi",
+      "Nadaswaram",
+      "Shehnai"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Harmonium.ogg",
+    "question": "This keyboard instrument with bellows was an integral part of Indian film music orchestras until the 80s. What is it?",
+    "options": [
+      "Piano",
+      "Organ",
+      "Synthesiser",
+      "Harmonium"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sitar.ogg",
+    "question": "Ravi Shankar made this instrument famous globally after his collaboration with George Harrison. Name it.",
+    "options": [
+      "Sarod",
+      "Santoor",
+      "Sarangi",
+      "Sitar"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "'Sa Re Ga Ma Pa' — the Indian equivalent of 'Do Re Mi'. How many distinct 'swaras' (notes) are in an Indian scale?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Raga Bhairavi is traditionally associated with which mood in Indian classical music?",
+    "options": [
+      "Joy and celebration",
+      "Heroism",
+      "Devotion and pathos",
+      "Terror"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "Which Indian state, known for the Kashi Vishwanath temple, was the home of shehnai maestro Bismillah Khan?",
+    "options": [
+      "West Bengal",
+      "Rajasthan",
+      "Odisha",
+      "Uttar Pradesh (Varanasi)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "Which legendary tabla player, son of Alla Rakha Khan, won a Grammy and performed at Woodstock-style concerts?",
+    "options": [
+      "Anindo Chatterjee",
+      "Shafaat Ahmed",
+      "Nikhil Ghosh",
+      "Zakir Hussain"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This ascending musical scale is the very foundation of Indian classical music. Name the sequence.",
+    "options": [
+      "Taal",
+      "Alap",
+      "Raga",
+      "Sargam (Sa Re Ga Ma Pa)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This raga heard in countless Indian film soundtracks conveys emotions of parting and longing. Which raga?",
+    "options": [
+      "Raga Yaman",
+      "Raga Desh",
+      "Raga Bhairavi",
+      "Raga Kafi"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "This percussion instrument is the heartbeat of North Indian classical music. Identify it.",
+    "options": [
+      "Dhol",
+      "Dholak",
+      "Mridangam",
+      "Tabla"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "This wind instrument was famously played by Ustad Bismillah Khan at India's first Independence Day. Name it.",
+    "options": [
+      "Bansuri",
+      "Sarangi",
+      "Nadaswaram",
+      "Shehnai"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Harmonium.ogg",
+    "question": "This keyboard instrument with bellows was an integral part of Indian film music orchestras until the 80s. What is it?",
+    "options": [
+      "Piano",
+      "Organ",
+      "Synthesiser",
+      "Harmonium"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sitar.ogg",
+    "question": "Ravi Shankar made this instrument famous globally after his collaboration with George Harrison. Name it.",
+    "options": [
+      "Sarod",
+      "Santoor",
+      "Sarangi",
+      "Sitar"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "'Sa Re Ga Ma Pa' — the Indian equivalent of 'Do Re Mi'. How many distinct 'swaras' (notes) are in an Indian scale?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Raga Bhairavi is traditionally associated with which mood in Indian classical music?",
+    "options": [
+      "Joy and celebration",
+      "Heroism",
+      "Devotion and pathos",
+      "Terror"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "Which Indian state, known for the Kashi Vishwanath temple, was the home of shehnai maestro Bismillah Khan?",
+    "options": [
+      "West Bengal",
+      "Rajasthan",
+      "Odisha",
+      "Uttar Pradesh (Varanasi)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "Which legendary tabla player, son of Alla Rakha Khan, won a Grammy and performed at Woodstock-style concerts?",
+    "options": [
+      "Anindo Chatterjee",
+      "Shafaat Ahmed",
+      "Nikhil Ghosh",
+      "Zakir Hussain"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This ascending musical scale is the very foundation of Indian classical music. Name the sequence.",
+    "options": [
+      "Taal",
+      "Alap",
+      "Raga",
+      "Sargam (Sa Re Ga Ma Pa)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This raga heard in countless Indian film soundtracks conveys emotions of parting and longing. Which raga?",
+    "options": [
+      "Raga Yaman",
+      "Raga Desh",
+      "Raga Bhairavi",
+      "Raga Kafi"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "This percussion instrument is the heartbeat of North Indian classical music. Identify it.",
+    "options": [
+      "Dhol",
+      "Dholak",
+      "Mridangam",
+      "Tabla"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "This wind instrument was famously played by Ustad Bismillah Khan at India's first Independence Day. Name it.",
+    "options": [
+      "Bansuri",
+      "Sarangi",
+      "Nadaswaram",
+      "Shehnai"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Harmonium.ogg",
+    "question": "This keyboard instrument with bellows was an integral part of Indian film music orchestras until the 80s. What is it?",
+    "options": [
+      "Piano",
+      "Organ",
+      "Synthesiser",
+      "Harmonium"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sitar.ogg",
+    "question": "Ravi Shankar made this instrument famous globally after his collaboration with George Harrison. Name it.",
+    "options": [
+      "Sarod",
+      "Santoor",
+      "Sarangi",
+      "Sitar"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "'Sa Re Ga Ma Pa' — the Indian equivalent of 'Do Re Mi'. How many distinct 'swaras' (notes) are in an Indian scale?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Raga Bhairavi is traditionally associated with which mood in Indian classical music?",
+    "options": [
+      "Joy and celebration",
+      "Heroism",
+      "Devotion and pathos",
+      "Terror"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "Which Indian state, known for the Kashi Vishwanath temple, was the home of shehnai maestro Bismillah Khan?",
+    "options": [
+      "West Bengal",
+      "Rajasthan",
+      "Odisha",
+      "Uttar Pradesh (Varanasi)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "Which legendary tabla player, son of Alla Rakha Khan, won a Grammy and performed at Woodstock-style concerts?",
+    "options": [
+      "Anindo Chatterjee",
+      "Shafaat Ahmed",
+      "Nikhil Ghosh",
+      "Zakir Hussain"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This ascending musical scale is the very foundation of Indian classical music. Name the sequence.",
+    "options": [
+      "Taal",
+      "Alap",
+      "Raga",
+      "Sargam (Sa Re Ga Ma Pa)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This raga heard in countless Indian film soundtracks conveys emotions of parting and longing. Which raga?",
+    "options": [
+      "Raga Yaman",
+      "Raga Desh",
+      "Raga Bhairavi",
+      "Raga Kafi"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "This percussion instrument is the heartbeat of North Indian classical music. Identify it.",
+    "options": [
+      "Dhol",
+      "Dholak",
+      "Mridangam",
+      "Tabla"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "This wind instrument was famously played by Ustad Bismillah Khan at India's first Independence Day. Name it.",
+    "options": [
+      "Bansuri",
+      "Sarangi",
+      "Nadaswaram",
+      "Shehnai"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Harmonium.ogg",
+    "question": "This keyboard instrument with bellows was an integral part of Indian film music orchestras until the 80s. What is it?",
+    "options": [
+      "Piano",
+      "Organ",
+      "Synthesiser",
+      "Harmonium"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sitar.ogg",
+    "question": "Ravi Shankar made this instrument famous globally after his collaboration with George Harrison. Name it.",
+    "options": [
+      "Sarod",
+      "Santoor",
+      "Sarangi",
+      "Sitar"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "'Sa Re Ga Ma Pa' — the Indian equivalent of 'Do Re Mi'. How many distinct 'swaras' (notes) are in an Indian scale?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Raga Bhairavi is traditionally associated with which mood in Indian classical music?",
+    "options": [
+      "Joy and celebration",
+      "Heroism",
+      "Devotion and pathos",
+      "Terror"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "Which Indian state, known for the Kashi Vishwanath temple, was the home of shehnai maestro Bismillah Khan?",
+    "options": [
+      "West Bengal",
+      "Rajasthan",
+      "Odisha",
+      "Uttar Pradesh (Varanasi)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "Which legendary tabla player, son of Alla Rakha Khan, won a Grammy and performed at Woodstock-style concerts?",
+    "options": [
+      "Anindo Chatterjee",
+      "Shafaat Ahmed",
+      "Nikhil Ghosh",
+      "Zakir Hussain"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "This ascending musical scale is the very foundation of Indian classical music. Name the sequence.",
+    "options": [
+      "Taal",
+      "Alap",
+      "Raga",
+      "Sargam (Sa Re Ga Ma Pa)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "This raga heard in countless Indian film soundtracks conveys emotions of parting and longing. Which raga?",
+    "options": [
+      "Raga Yaman",
+      "Raga Desh",
+      "Raga Bhairavi",
+      "Raga Kafi"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "This percussion instrument is the heartbeat of North Indian classical music. Identify it.",
+    "options": [
+      "Dhol",
+      "Dholak",
+      "Mridangam",
+      "Tabla"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "This wind instrument was famously played by Ustad Bismillah Khan at India's first Independence Day. Name it.",
+    "options": [
+      "Bansuri",
+      "Sarangi",
+      "Nadaswaram",
+      "Shehnai"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Harmonium.ogg",
+    "question": "This keyboard instrument with bellows was an integral part of Indian film music orchestras until the 80s. What is it?",
+    "options": [
+      "Piano",
+      "Organ",
+      "Synthesiser",
+      "Harmonium"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sitar.ogg",
+    "question": "Ravi Shankar made this instrument famous globally after his collaboration with George Harrison. Name it.",
+    "options": [
+      "Sarod",
+      "Santoor",
+      "Sarangi",
+      "Sitar"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sa-re-ga-ma-pa.ogg",
+    "question": "'Sa Re Ga Ma Pa' — the Indian equivalent of 'Do Re Mi'. How many distinct 'swaras' (notes) are in an Indian scale?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raga-Bhairavi.ogg",
+    "question": "Raga Bhairavi is traditionally associated with which mood in Indian classical music?",
+    "options": [
+      "Joy and celebration",
+      "Heroism",
+      "Devotion and pathos",
+      "Terror"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shehnai.ogg",
+    "question": "Which Indian state, known for the Kashi Vishwanath temple, was the home of shehnai maestro Bismillah Khan?",
+    "options": [
+      "West Bengal",
+      "Rajasthan",
+      "Odisha",
+      "Uttar Pradesh (Varanasi)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "audio",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tabla_solo.ogg",
+    "question": "Which legendary tabla player, son of Alla Rakha Khan, won a Grammy and performed at Woodstock-style concerts?",
+    "options": [
+      "Anindo Chatterjee",
+      "Shafaat Ahmed",
+      "Nikhil Ghosh",
+      "Zakir Hussain"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/dMGrCPRflWQ?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Bollywood film, considered India's greatest, featured the friendship of Jai and Veeru?",
+    "options": [
+      "Deewar",
+      "Don",
+      "Zanjeer",
+      "Sholay"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/sSjPjXhpHU4?start=0&autoplay=0&rel=0",
+    "question": "Kapil Dev's iconic 175* innings against Zimbabwe in 1983 is remembered as which genre of cricket miracle?",
+    "options": [
+      "Best fielding display",
+      "Greatest bowling performance",
+      "Highest partnership",
+      "Greatest rescue batting innings"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/_T7vGcapYZ0?start=0&autoplay=0&rel=0",
+    "question": "Which Amitabh Bachchan–Shashi Kapoor film's dialogue 'Mere paas maa hai' remains one of India's most quoted lines?",
+    "options": [
+      "Sholay",
+      "Deewaar",
+      "Don",
+      "Trishul"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/pqMmcHiGHIA?start=0&autoplay=0&rel=0",
+    "question": "This Doordarshan signature tune marked the start of Republic Day parade broadcast. What was India's national broadcast medium in the 70s?",
+    "options": [
+      "Radio",
+      "Cable TV",
+      "Satellite TV",
+      "Doordarshan (DD National)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/9kDaywmm8So?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Salim-Javed scripted film starring Amitabh first established the 'Angry Young Man' trope?",
+    "options": [
+      "Deewar",
+      "Sholay",
+      "Don",
+      "Zanjeer"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/HTKOy_YxgCk?start=0&autoplay=0&rel=0",
+    "question": "Sunil Gavaskar made how many runs in his famous 1971 debut series against the West Indies?",
+    "options": [
+      "774 runs in 4 Tests",
+      "500 runs",
+      "300 runs",
+      "900 runs"
     ],
     "correctOption": 0
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Guess this legendary singer known as the Melody Queen of India.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Lata%20Mangeshkar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/kCE7F9J8Dv0?start=0&autoplay=0&rel=0",
+    "question": "R.D. Burman's music for 'Hum Kisise Kum Nahin' (1977) was iconic. Which genre did he blend with Indian film music?",
+    "options": [
+      "Classical music only",
+      "Jazz and blues",
+      "Western pop and rock",
+      "Folk music only"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/qU66CIWWF1E?start=0&autoplay=0&rel=0",
+    "question": "Which Doordarshan programme featuring Bollywood songs aired every Sunday morning for decades?",
+    "options": [
+      "Krishi Darshan",
+      "Rangoli",
+      "Chitrahaar",
+      "Phool Khile"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/MxJmvFwzfJ0?start=0&autoplay=0&rel=0",
+    "question": "This 1988 Doordarshan serial featuring mythological characters was watched by 650 million Indians every week. It was?",
+    "options": [
+      "Ramayana",
+      "Vikram Aur Betaal",
+      "Mahabharat",
+      "Chanakya"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Y3xoK4QI3u8?start=0&autoplay=0&rel=0",
+    "question": "The iconic 'Dum Maro Dum' song from 1971's 'Hare Rama Hare Krishna' was sung by which singer?",
     "options": [
       "Lata Mangeshkar",
       "Asha Bhosle",
-      "Uma Devi",
-      "Geeta Dutt"
+      "Geeta Dutt",
+      "Usha Uthup"
     ],
-    "correctOption": 0
+    "correctOption": 1
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Identify this classic Indian TV series based on an epic.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Ramayan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/dMGrCPRflWQ?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Bollywood film, considered India's greatest, featured the friendship of Jai and Veeru?",
     "options": [
-      "Ramayan",
-      "Mahabharat",
-      "Chanakya",
-      "Bharat Ek Khoj"
+      "Deewar",
+      "Don",
+      "Zanjeer",
+      "Sholay"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Which famous 1983 World Cup winning captain is this?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kapil%20Dev%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/sSjPjXhpHU4?start=0&autoplay=0&rel=0",
+    "question": "Kapil Dev's iconic 175* innings against Zimbabwe in 1983 is remembered as which genre of cricket miracle?",
     "options": [
-      "Kapil Dev",
-      "Sunil Gavaskar",
-      "Ravi Shastri",
-      "Mohinder Amarnath"
+      "Best fielding display",
+      "Greatest bowling performance",
+      "Highest partnership",
+      "Greatest rescue batting innings"
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Guess this classic 1970s scooter brand from the image.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Bajaj%20Chetak%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Bajaj Chetak",
-      "Vespa",
-      "LML",
-      "Lambretta"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this popular 80s Indian comic character in red turbans.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Chacha%20Chaudhary%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Chacha Chaudhary",
-      "Tenali Rama",
-      "Nagraj",
-      "Super Commando Dhruva"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which iconic Indian playback singer (male) from the 70s is this?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kishore%20Kumar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Kishore Kumar",
-      "Mohammed Rafi",
-      "Mukesh",
-      "Manna Dey"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this legendary Bollywood actress from the 70s.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Hema%20Malini%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Hema Malini",
-      "Rekha",
-      "Zeenat Aman",
-      "Mumtaz"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this famous 1970s Indian cold drink brand.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Campa%20Cola%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Campa Cola",
-      "Thums Up",
-      "Gold Spot",
-      "Limca"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "What is the name of this classic 80s Indian car?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Maruti%20800%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Maruti 800",
-      "Premier Padmini",
-      "Hindustan Ambassador",
-      "Tata Estate"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Guess this classic childhood candy from the 80s.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Mango%20Bite%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Mango Bite",
-      "Kismi Bar",
-      "Phantom Cigarettes",
-      "Melodi"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this 70s movie scene of a coin toss.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Sholay%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/_T7vGcapYZ0?start=0&autoplay=0&rel=0",
+    "question": "Which Amitabh Bachchan–Shashi Kapoor film's dialogue 'Mere paas maa hai' remains one of India's most quoted lines?",
     "options": [
       "Sholay",
+      "Deewaar",
+      "Don",
+      "Trishul"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/pqMmcHiGHIA?start=0&autoplay=0&rel=0",
+    "question": "This Doordarshan signature tune marked the start of Republic Day parade broadcast. What was India's national broadcast medium in the 70s?",
+    "options": [
+      "Radio",
+      "Cable TV",
+      "Satellite TV",
+      "Doordarshan (DD National)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/9kDaywmm8So?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Salim-Javed scripted film starring Amitabh first established the 'Angry Young Man' trope?",
+    "options": [
       "Deewar",
-      "Zanjeer",
-      "Don"
+      "Sholay",
+      "Don",
+      "Zanjeer"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/HTKOy_YxgCk?start=0&autoplay=0&rel=0",
+    "question": "Sunil Gavaskar made how many runs in his famous 1971 debut series against the West Indies?",
+    "options": [
+      "774 runs in 4 Tests",
+      "500 runs",
+      "300 runs",
+      "900 runs"
     ],
     "correctOption": 0
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Name this famous Indian parallel cinema director.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Satyajit%20Ray%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/kCE7F9J8Dv0?start=0&autoplay=0&rel=0",
+    "question": "R.D. Burman's music for 'Hum Kisise Kum Nahin' (1977) was iconic. Which genre did he blend with Indian film music?",
     "options": [
-      "Satyajit Ray",
-      "Mrinal Sen",
-      "Ritwik Ghatak",
-      "Shyam Benegal"
+      "Classical music only",
+      "Jazz and blues",
+      "Western pop and rock",
+      "Folk music only"
     ],
-    "correctOption": 0
+    "correctOption": 2
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Which classic 80s advertisement featured an animated girl twisting?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Nirma%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/qU66CIWWF1E?start=0&autoplay=0&rel=0",
+    "question": "Which Doordarshan programme featuring Bollywood songs aired every Sunday morning for decades?",
     "options": [
-      "Nirma",
-      "Amul",
-      "Liril",
-      "Babul"
+      "Krishi Darshan",
+      "Rangoli",
+      "Chitrahaar",
+      "Phool Khile"
     ],
-    "correctOption": 0
+    "correctOption": 2
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Identify this iconic 'Mogambo' actor from Mr. India.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amrish%20Puri%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/MxJmvFwzfJ0?start=0&autoplay=0&rel=0",
+    "question": "This 1988 Doordarshan serial featuring mythological characters was watched by 650 million Indians every week. It was?",
     "options": [
-      "Amrish Puri",
-      "Kader Khan",
-      "Pran",
-      "Anupam Kher"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 1971 war film is this iconic image from?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Border%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Border",
-      "Haqeeqat",
-      "Prahaar",
-      "Vijeta"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this 80s Doordarshan serial about a joint family.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Hum%20Log%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Hum Log",
-      "Buniyaad",
-      "Nukkad",
-      "Malgudi Days"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the Indian athlete known as the Flying Sikh.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Milkha%20Singh%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Milkha Singh",
-      "P.T. Usha",
-      "Dhyan Chand",
-      "Prakash Padukone"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which classical dancer from the 70s is shown here?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Pandit%20Birju%20Maharaj%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Pandit Birju Maharaj",
-      "Rukmini Devi",
-      "Sonal Mansingh",
-      "Yamini Krishnamurthy"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Guess the movie showing an invisible man.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Mr.%20India%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Mr. India",
-      "Shaan",
-      "Ajooba",
-      "Toofan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the actor playing the iconic 'Don' (1978).",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amitabh%20Bachchan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Amitabh Bachchan",
-      "Rishi Kapoor",
-      "Shatrughan Sinha",
-      "Vinod Khanna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 80s Indian comic hero shoots snakes from his wrists?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Nagraj%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Nagraj",
-      "Doga",
-      "Bhokal",
-      "Parmanu"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this 1980s soft drink with 'The genuine taste'.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Thums%20Up%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Thums Up",
-      "Pepsi",
-      "Campa Cola",
-      "Double Seven"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "What is the name of this vintage Indian bicycle brand?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Atlas%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Atlas",
-      "Hero",
-      "Hercules",
-      "Avon"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which classic Indian comic publisher created Chacha Chaudhary?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Diamond%20Comics%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Diamond Comics",
-      "Raj Comics",
-      "Amar Chitra Katha",
-      "Manoj Comics"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this Indian cartoon show about a boy in a village.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Malgudi%20Days%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Malgudi Days",
-      "Swami and Friends",
-      "Tenali Rama",
-      "Vikram Betaal"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this legendary 70s music director duo.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Laxmikant-Pyarelal%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Laxmikant-Pyarelal",
-      "Kalyanji-Anandji",
-      "Shankar-Jaikishan",
-      "Vishal-Shekhar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which actress famously danced to 'Piya Tu Ab To Aaja'?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Helen%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Helen",
-      "Bindu",
-      "Aruna Irani",
-      "Jayshree T"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this iconic 80s Indian television set brand.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/BPL%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "BPL",
-      "Onida",
-      "Videocon",
-      "Salora"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "What is the name of the devil mascot of Onida TV?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Onida%20Devil%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Onida Devil",
-      "Murphy Baby",
-      "Amul Girl",
-      "Nirma Girl"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Guess this iconic 70s/80s audio cassette brand.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/T-Series%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "T-Series",
-      "HMV",
-      "Venus",
-      "Tips"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which legendary batsman made his debut in 1989?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Sachin%20Tendulkar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Sachin Tendulkar",
-      "Sunil Gavaskar",
-      "Mohammad Azharuddin",
-      "Sanjay Manjrekar"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this famous 1983 World Cup winning moment.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kapil%20Dev%20lifting%20trophy%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Kapil Dev lifting trophy",
-      "Gavaskar hitting a six",
-      "Amar Singh bowling",
-      "Roger Binny catching"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 80s Doordarshan news anchor is famous for her signature sarees?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Salma%20Sultan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Salma Sultan",
-      "Gitanjali Aiyar",
-      "Neethi Ravindran",
-      "Rini Simon Khanna"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the 'Amul Girl' from the classic advertisement.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amul%20Girl%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Amul Girl",
-      "Parle G Girl",
-      "Nirma Girl",
-      "Lijjat Papad Girl"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which film featured the hit song 'Mere Sapno Ki Rani' on a train?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Aradhana%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Aradhana",
-      "Kati Patang",
-      "Amar Prem",
-      "Anand"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this legendary villain 'Gabbar' actor.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Amjad%20Khan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Amjad Khan",
-      "Danny Denzongpa",
-      "Pran",
-      "Jeevan"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the 80s television show 'Yeh Jo Hai Zindagi' star.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Shafi%20Inamdar%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Shafi Inamdar",
-      "Satish Shah",
-      "Rakesh Bedi",
-      "Swaroop Sampat"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which Indian prime minister announced color TV in 1982?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Indira%20Gandhi%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Indira Gandhi",
-      "Rajiv Gandhi",
-      "Morarji Desai",
-      "Charan Singh"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the classic orange flavored Indian candy.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Kismi%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Kismi",
-      "Phantom",
-      "Swad",
-      "Hajmola"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "What is this famous 70s street food from Mumbai?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Vada%20Pav%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Vada Pav",
-      "Pav Bhaji",
-      "Bhel Puri",
-      "Pani Puri"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Name this 80s pop singer who sang 'Disco Deewane'.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Nazia%20Hassan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Nazia Hassan",
-      "Alisha Chinai",
-      "Usha Uthup",
-      "Salma Agha"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify this classic Indian board game played with cowrie shells.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Pachisi%20%2F%20Ludo%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Pachisi / Ludo",
-      "Carrom",
-      "Chess",
-      "Snakes and Ladders"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which legendary Indian actor plays 'Anand' in this 1971 movie?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Rajesh%20Khanna%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Rajesh Khanna",
-      "Amitabh Bachchan",
-      "Dev Anand",
-      "Shammi Kapoor"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Identify the Indian superhero played by Mukesh Khanna.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Shaktimaan%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
-      "Shaktimaan",
-      "Aryaman",
-      "Junior G",
-      "Karma"
-    ],
-    "correctOption": 0
-  },
-  {
-    "era": "GenX",
-    "type": "image",
-    "question": "Which 1980s kids show featured a ghost named Betaal?",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Vikram%20Aur%20Betaal%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
-    "options": [
+      "Ramayana",
       "Vikram Aur Betaal",
-      "Chandrakanta",
-      "Alif Laila",
-      "Sinbad"
+      "Mahabharat",
+      "Chanakya"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Y3xoK4QI3u8?start=0&autoplay=0&rel=0",
+    "question": "The iconic 'Dum Maro Dum' song from 1971's 'Hare Rama Hare Krishna' was sung by which singer?",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Geeta Dutt",
+      "Usha Uthup"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/dMGrCPRflWQ?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Bollywood film, considered India's greatest, featured the friendship of Jai and Veeru?",
+    "options": [
+      "Deewar",
+      "Don",
+      "Zanjeer",
+      "Sholay"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/sSjPjXhpHU4?start=0&autoplay=0&rel=0",
+    "question": "Kapil Dev's iconic 175* innings against Zimbabwe in 1983 is remembered as which genre of cricket miracle?",
+    "options": [
+      "Best fielding display",
+      "Greatest bowling performance",
+      "Highest partnership",
+      "Greatest rescue batting innings"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/_T7vGcapYZ0?start=0&autoplay=0&rel=0",
+    "question": "Which Amitabh Bachchan–Shashi Kapoor film's dialogue 'Mere paas maa hai' remains one of India's most quoted lines?",
+    "options": [
+      "Sholay",
+      "Deewaar",
+      "Don",
+      "Trishul"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/pqMmcHiGHIA?start=0&autoplay=0&rel=0",
+    "question": "This Doordarshan signature tune marked the start of Republic Day parade broadcast. What was India's national broadcast medium in the 70s?",
+    "options": [
+      "Radio",
+      "Cable TV",
+      "Satellite TV",
+      "Doordarshan (DD National)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/9kDaywmm8So?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Salim-Javed scripted film starring Amitabh first established the 'Angry Young Man' trope?",
+    "options": [
+      "Deewar",
+      "Sholay",
+      "Don",
+      "Zanjeer"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/HTKOy_YxgCk?start=0&autoplay=0&rel=0",
+    "question": "Sunil Gavaskar made how many runs in his famous 1971 debut series against the West Indies?",
+    "options": [
+      "774 runs in 4 Tests",
+      "500 runs",
+      "300 runs",
+      "900 runs"
     ],
     "correctOption": 0
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Name this classic Indian soap brand showing a girl under a waterfall.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Liril%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/kCE7F9J8Dv0?start=0&autoplay=0&rel=0",
+    "question": "R.D. Burman's music for 'Hum Kisise Kum Nahin' (1977) was iconic. Which genre did he blend with Indian film music?",
     "options": [
-      "Liril",
-      "Lux",
-      "Cinthol",
-      "Pears"
+      "Classical music only",
+      "Jazz and blues",
+      "Western pop and rock",
+      "Folk music only"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/qU66CIWWF1E?start=0&autoplay=0&rel=0",
+    "question": "Which Doordarshan programme featuring Bollywood songs aired every Sunday morning for decades?",
+    "options": [
+      "Krishi Darshan",
+      "Rangoli",
+      "Chitrahaar",
+      "Phool Khile"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/MxJmvFwzfJ0?start=0&autoplay=0&rel=0",
+    "question": "This 1988 Doordarshan serial featuring mythological characters was watched by 650 million Indians every week. It was?",
+    "options": [
+      "Ramayana",
+      "Vikram Aur Betaal",
+      "Mahabharat",
+      "Chanakya"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Y3xoK4QI3u8?start=0&autoplay=0&rel=0",
+    "question": "The iconic 'Dum Maro Dum' song from 1971's 'Hare Rama Hare Krishna' was sung by which singer?",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Geeta Dutt",
+      "Usha Uthup"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/dMGrCPRflWQ?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Bollywood film, considered India's greatest, featured the friendship of Jai and Veeru?",
+    "options": [
+      "Deewar",
+      "Don",
+      "Zanjeer",
+      "Sholay"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/sSjPjXhpHU4?start=0&autoplay=0&rel=0",
+    "question": "Kapil Dev's iconic 175* innings against Zimbabwe in 1983 is remembered as which genre of cricket miracle?",
+    "options": [
+      "Best fielding display",
+      "Greatest bowling performance",
+      "Highest partnership",
+      "Greatest rescue batting innings"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/_T7vGcapYZ0?start=0&autoplay=0&rel=0",
+    "question": "Which Amitabh Bachchan–Shashi Kapoor film's dialogue 'Mere paas maa hai' remains one of India's most quoted lines?",
+    "options": [
+      "Sholay",
+      "Deewaar",
+      "Don",
+      "Trishul"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/pqMmcHiGHIA?start=0&autoplay=0&rel=0",
+    "question": "This Doordarshan signature tune marked the start of Republic Day parade broadcast. What was India's national broadcast medium in the 70s?",
+    "options": [
+      "Radio",
+      "Cable TV",
+      "Satellite TV",
+      "Doordarshan (DD National)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/9kDaywmm8So?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Salim-Javed scripted film starring Amitabh first established the 'Angry Young Man' trope?",
+    "options": [
+      "Deewar",
+      "Sholay",
+      "Don",
+      "Zanjeer"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/HTKOy_YxgCk?start=0&autoplay=0&rel=0",
+    "question": "Sunil Gavaskar made how many runs in his famous 1971 debut series against the West Indies?",
+    "options": [
+      "774 runs in 4 Tests",
+      "500 runs",
+      "300 runs",
+      "900 runs"
     ],
     "correctOption": 0
   },
   {
     "era": "GenX",
-    "type": "image",
-    "question": "Identify this famous 70s anti-hero from 'Zanjeer'.",
-    "mediaUrl": "https://image.pollinations.ai/prompt/Inspector%20Vijay%201980s%20India%20Doordarshan%20Bollywood%20nostalgia?width=600&height=400&nologo=true",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/kCE7F9J8Dv0?start=0&autoplay=0&rel=0",
+    "question": "R.D. Burman's music for 'Hum Kisise Kum Nahin' (1977) was iconic. Which genre did he blend with Indian film music?",
     "options": [
-      "Inspector Vijay",
-      "Jai",
-      "Ravi",
-      "Don"
+      "Classical music only",
+      "Jazz and blues",
+      "Western pop and rock",
+      "Folk music only"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/qU66CIWWF1E?start=0&autoplay=0&rel=0",
+    "question": "Which Doordarshan programme featuring Bollywood songs aired every Sunday morning for decades?",
+    "options": [
+      "Krishi Darshan",
+      "Rangoli",
+      "Chitrahaar",
+      "Phool Khile"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/MxJmvFwzfJ0?start=0&autoplay=0&rel=0",
+    "question": "This 1988 Doordarshan serial featuring mythological characters was watched by 650 million Indians every week. It was?",
+    "options": [
+      "Ramayana",
+      "Vikram Aur Betaal",
+      "Mahabharat",
+      "Chanakya"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Y3xoK4QI3u8?start=0&autoplay=0&rel=0",
+    "question": "The iconic 'Dum Maro Dum' song from 1971's 'Hare Rama Hare Krishna' was sung by which singer?",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Geeta Dutt",
+      "Usha Uthup"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/dMGrCPRflWQ?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Bollywood film, considered India's greatest, featured the friendship of Jai and Veeru?",
+    "options": [
+      "Deewar",
+      "Don",
+      "Zanjeer",
+      "Sholay"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/sSjPjXhpHU4?start=0&autoplay=0&rel=0",
+    "question": "Kapil Dev's iconic 175* innings against Zimbabwe in 1983 is remembered as which genre of cricket miracle?",
+    "options": [
+      "Best fielding display",
+      "Greatest bowling performance",
+      "Highest partnership",
+      "Greatest rescue batting innings"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/_T7vGcapYZ0?start=0&autoplay=0&rel=0",
+    "question": "Which Amitabh Bachchan–Shashi Kapoor film's dialogue 'Mere paas maa hai' remains one of India's most quoted lines?",
+    "options": [
+      "Sholay",
+      "Deewaar",
+      "Don",
+      "Trishul"
+    ],
+    "correctOption": 1
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/pqMmcHiGHIA?start=0&autoplay=0&rel=0",
+    "question": "This Doordarshan signature tune marked the start of Republic Day parade broadcast. What was India's national broadcast medium in the 70s?",
+    "options": [
+      "Radio",
+      "Cable TV",
+      "Satellite TV",
+      "Doordarshan (DD National)"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/9kDaywmm8So?start=0&autoplay=0&rel=0",
+    "question": "Which 1975 Salim-Javed scripted film starring Amitabh first established the 'Angry Young Man' trope?",
+    "options": [
+      "Deewar",
+      "Sholay",
+      "Don",
+      "Zanjeer"
+    ],
+    "correctOption": 3
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/HTKOy_YxgCk?start=0&autoplay=0&rel=0",
+    "question": "Sunil Gavaskar made how many runs in his famous 1971 debut series against the West Indies?",
+    "options": [
+      "774 runs in 4 Tests",
+      "500 runs",
+      "300 runs",
+      "900 runs"
     ],
     "correctOption": 0
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/kCE7F9J8Dv0?start=0&autoplay=0&rel=0",
+    "question": "R.D. Burman's music for 'Hum Kisise Kum Nahin' (1977) was iconic. Which genre did he blend with Indian film music?",
+    "options": [
+      "Classical music only",
+      "Jazz and blues",
+      "Western pop and rock",
+      "Folk music only"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/qU66CIWWF1E?start=0&autoplay=0&rel=0",
+    "question": "Which Doordarshan programme featuring Bollywood songs aired every Sunday morning for decades?",
+    "options": [
+      "Krishi Darshan",
+      "Rangoli",
+      "Chitrahaar",
+      "Phool Khile"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/MxJmvFwzfJ0?start=0&autoplay=0&rel=0",
+    "question": "This 1988 Doordarshan serial featuring mythological characters was watched by 650 million Indians every week. It was?",
+    "options": [
+      "Ramayana",
+      "Vikram Aur Betaal",
+      "Mahabharat",
+      "Chanakya"
+    ],
+    "correctOption": 2
+  },
+  {
+    "era": "GenX",
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/Y3xoK4QI3u8?start=0&autoplay=0&rel=0",
+    "question": "The iconic 'Dum Maro Dum' song from 1971's 'Hare Rama Hare Krishna' was sung by which singer?",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Geeta Dutt",
+      "Usha Uthup"
+    ],
+    "correctOption": 1
   }
 ]
