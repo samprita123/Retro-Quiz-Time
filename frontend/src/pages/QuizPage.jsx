@@ -215,10 +215,12 @@ export default function QuizPage() {
                         {/* Video media */}
                         {q.type === 'video' && q.mediaUrl && (
                             <div style={{ marginBottom: '1rem', textAlign: 'center' }}>
-                                <video
+                                <iframe
                                     src={q.mediaUrl}
-                                    controls
-                                    style={{ maxHeight: '220px', maxWidth: '100%', borderRadius: '12px' }}
+                                    title="Video Question"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowFullScreen
+                                    style={{ width: '100%', height: '220px', borderRadius: '12px', border: 'none' }}
                                 />
                             </div>
                         )}
